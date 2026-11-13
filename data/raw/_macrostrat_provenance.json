@@ -1,0 +1,96 @@
+{
+  "dataset": "Macrostrat v2 REST API (units, columns, sections, geologic-time intervals, lithologies, environments)",
+  "provider": "Macrostrat / University of Wisconsin-Madison",
+  "landing_page": "https://macrostrat.org",
+  "api_documentation": "https://macrostrat.org/docs/v2",
+  "license": "CC-BY 4.0 (returned by the API in success.license)",
+  "polite_use_note": "Macrostrat requests that bulk API users identify themselves and cite the project.",
+  "access_date_utc": "2026-11-10T07:09:17Z",
+  "files": [
+    {
+      "file": "data/raw/macrostrat_units_all.csv",
+      "url": "https://macrostrat.org/api/v2/units?all&format=csv",
+      "http_status": 200,
+      "bytes": 3587418,
+      "sha256": "6ec47f81c0a2c5b62153f3411609e42208ef85cd9a09422d9a40e9e743fdef27",
+      "download_seconds": 12.15,
+      "downloaded_utc": "2026-11-10T07:09:29Z",
+      "attempts": 1,
+      "data_rows_excl_header": 35481,
+      "parsed_csv_records_excl_header": 35481
+    },
+    {
+      "file": "data/raw/macrostrat_columns_all.csv",
+      "url": "https://macrostrat.org/api/v2/columns?all&format=csv",
+      "http_status": 200,
+      "bytes": 155248,
+      "sha256": "b84f23431b16464c0bbde13bb65b2843dace00ad234bcf36dbc28db44e939e1c",
+      "download_seconds": 2.98,
+      "downloaded_utc": "2026-11-10T07:09:32Z",
+      "attempts": 1,
+      "data_rows_excl_header": 1534,
+      "parsed_csv_records_excl_header": 1534
+    },
+    {
+      "file": "data/raw/macrostrat_sections_all.csv",
+      "url": "https://macrostrat.org/api/v2/sections?all&format=csv",
+      "http_status": 200,
+      "bytes": 370131,
+      "sha256": "860c0c17c78a41a8a88f8732a500c751de2859960d003e77ac6c74a0b40ce7be",
+      "download_seconds": 3.76,
+      "downloaded_utc": "2026-11-10T07:09:36Z",
+      "attempts": 1,
+      "data_rows_excl_header": 8672,
+      "parsed_csv_records_excl_header": 8672
+    },
+    {
+      "file": "data/raw/macrostrat_intervals_all.csv",
+      "url": "https://macrostrat.org/api/v2/defs/intervals?all&format=csv",
+      "http_status": 200,
+      "bytes": 131787,
+      "sha256": "43a38033758bac70c0fd2a36db4c192a0ec408a11dea850fadf08a875d497b23",
+      "download_seconds": 2.26,
+      "downloaded_utc": "2026-11-10T07:09:38Z",
+      "attempts": 1,
+      "data_rows_excl_header": 1717,
+      "parsed_csv_records_excl_header": 1717
+    },
+    {
+      "file": "data/raw/macrostrat_lithologies_all.csv",
+      "url": "https://macrostrat.org/api/v2/defs/lithologies?all&format=csv",
+      "http_status": 200,
+      "bytes": 13947,
+      "sha256": "2ad54c4825c17afcace56d9483b56b7e00a2d4514343d0c1dab313a3bcc0b83e",
+      "download_seconds": 3.82,
+      "downloaded_utc": "2026-11-10T07:09:42Z",
+      "attempts": 1,
+      "data_rows_excl_header": 214,
+      "parsed_csv_records_excl_header": 214
+    },
+    {
+      "file": "data/raw/macrostrat_environments_all.csv",
+      "url": "https://macrostrat.org/api/v2/defs/environments?all&format=csv",
+      "http_status": 200,
+      "bytes": 4959,
+      "sha256": "02bac26b18bc0aa02040e05a03d8913bc80f5e448cc81bdef00333f93f1d0401",
+      "download_seconds": 4.24,
+      "downloaded_utc": "2026-11-10T07:09:46Z",
+      "attempts": 1,
+      "data_rows_excl_header": 87,
+      "parsed_csv_records_excl_header": 87
+    },
+    {
+      "file": "data/raw/macrostrat_unit_boundaries_all.csv",
+      "url": "https://macrostrat.org/api/v2/units?all&format=csv&response=long",
+      "http_status": 200,
+      "bytes": 13706982,
+      "sha256": "50139a8ccab86080496d0d5a2f9f8e8c9ed3a318f2d695af56c41a2ba0ce69dc",
+      "download_seconds": 23.76,
+      "downloaded_utc": "2026-11-10T07:10:10Z",
+      "attempts": 1,
+      "data_rows_excl_header": 36059,
+      "parsed_csv_records_excl_header": 35481,
+      "note_on_line_count": "Original download log recorded 36059 physical data lines; CSV parser yields 35481 logical records because quoted fields contain embedded newlines."
+    }
+  ]
+}

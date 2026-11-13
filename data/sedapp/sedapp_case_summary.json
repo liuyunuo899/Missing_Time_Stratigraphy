@@ -1,0 +1,55 @@
+{
+ "case_name": "Two-cycle shallow-marine profile with differential subsidence",
+ "scientific_role": "Deterministic process-model and methods demonstration; not independent validation against a real geological system",
+ "started_utc": "2026-11-10T07:51:50Z",
+ "finished_utc": "2026-11-10T07:51:50Z",
+ "elapsed_s": 0.194998,
+ "source_sha256": "14b0682753f7b05c44d211af5d2201193dac8382e0b608692e70705944b12e57",
+ "config_sha256": "9163b5cc141680088bca488a10a595a41f787b1586fd95539df8993fa6f6036c",
+ "n_cells": 80,
+ "n_timesteps": 40,
+ "domain_length_m": 200.0,
+ "time_span_Myr": 2.0,
+ "dt_Myr": 0.05,
+ "all_output_arrays_finite": true,
+ "array_finite_checks": {
+  "z_matrix": true,
+  "layer_thickness_matrix": true,
+  "sand_fraction_matrix": true,
+  "porosity_matrix": true,
+  "wd_matrix": true,
+  "h0_series": true
+ },
+ "final_surface_elevation_range_m": [
+  1.1475153612311182,
+  8.832236180310613
+ ],
+ "final_compacted_thickness_range_m": [
+  3.4589028469772796,
+  16.21418202789778
+ ],
+ "maximum_absolute_geometry_residual_m": 0.0,
+ "sea_level_range_m": [
+  1.0,
+  5.0
+ ],
+ "shoreline_x_range_m": [
+  60.0,
+  170.0
+ ],
+ "shoreline_migration_span_m": 110.0,
+ "net_positive_increment_steps": 3159,
+ "net_negative_increment_steps": 41,
+ "net_positive_increment_fraction": 0.9871875,
+ "warning_count": 36,
+ "warning_messages": [
+  "end_v > max(table[:,0])",
+  "start_v < min(table[:,0])"
+ ],
+ "interpretation_limits": [
+  "This is a deterministic process-model demonstration, not field validation.",
+  "A positive layer-matrix entry is a net surface increment, not proof that an original depositional layer survived.",
+  "The net-positive increment fraction is not stratigraphic completeness.",
+  "Subsidence, compaction and erosion prevent direct conversion of positive entries into represented time."
+ ]
+}

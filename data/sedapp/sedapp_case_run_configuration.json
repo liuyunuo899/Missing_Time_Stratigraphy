@@ -1,0 +1,104 @@
+{
+ "case_name": "Two-cycle shallow-marine profile with differential subsidence",
+ "scientific_role": "Deterministic process-model and methods demonstration; not independent validation against a real geological system",
+ "parameters": {
+  "nx": 80,
+  "L": 200.0,
+  "t": 0.0,
+  "t1": 2.0,
+  "dt": 0.05,
+  "topo_samples": [
+   [
+    0.0,
+    9.0
+   ],
+   [
+    50.0,
+    6.0
+   ],
+   [
+    120.0,
+    1.0
+   ],
+   [
+    200.0,
+    -6.0
+   ]
+  ],
+  "sea_level": {
+   "mean_m": 3.0,
+   "amplitude_m": 2.0,
+   "period_Myr": 1.0,
+   "phase_radians": 0.0
+  },
+  "df_dco": 1000.0,
+  "df_EA": 5000.0,
+  "df_zhishu": 2.0,
+  "df_wdscale_sand": 1.0,
+  "df_wdscale_mud": 0.75,
+  "env_energy": 10.0,
+  "expected_sedimentation_sand": 1.5,
+  "expected_sedimentation_mud": 3.0,
+  "dep_ero_ratio": 8.0,
+  "overlying_layer_thickness": 0.0,
+  "subsidence_samples": [
+   [
+    0.0,
+    4.0
+   ],
+   [
+    200.0,
+    10.0
+   ]
+  ],
+  "isostasy": false,
+  "color_mode": 2
+ },
+ "derived_sea_level_series_m": [
+  3.618033988749895,
+  4.175570504584947,
+  4.618033988749895,
+  4.902113032590307,
+  5.0,
+  4.902113032590307,
+  4.618033988749895,
+  4.175570504584947,
+  3.618033988749895,
+  3.0000000000000004,
+  2.3819660112501047,
+  1.8244294954150533,
+  1.3819660112501042,
+  1.097886967409693,
+  1.0,
+  1.0978869674096927,
+  1.381966011250106,
+  1.8244294954150548,
+  2.3819660112501047,
+  2.9999999999999996,
+  3.6180339887498945,
+  4.175570504584947,
+  4.618033988749896,
+  4.902113032590307,
+  5.0,
+  4.902113032590307,
+  4.618033988749895,
+  4.175570504584947,
+  3.6180339887498922,
+  2.9999999999999973,
+  2.381966011250106,
+  1.8244294954150544,
+  1.3819660112501055,
+  1.097886967409692,
+  1.0,
+  1.0978869674096925,
+  1.3819660112501047,
+  1.824429495415053,
+  2.3819660112501078,
+  2.999999999999999
+ ],
+ "source_file": "src/sedapp_py.py",
+ "source_sha256": "14b0682753f7b05c44d211af5d2201193dac8382e0b608692e70705944b12e57",
+ "config_sha256": "9163b5cc141680088bca488a10a595a41f787b1586fd95539df8993fa6f6036c",
+ "deterministic": true,
+ "random_seed": null
+}

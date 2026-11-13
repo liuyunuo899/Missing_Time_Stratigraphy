@@ -1,0 +1,141 @@
+{
+ "generated_utc": "2026-11-10T07:47:50Z",
+ "seeds": {
+  "cases": [
+   1,
+   2
+  ]
+ },
+ "n_runs_total": 32,
+ "n_runs_valid_b": 28,
+ "n_runs_valid_alpha_pair": 7,
+ "analysis_status": "model_conditional_sensitivity_not_a_bias_correction",
+ "note": "b_obs uses the surviving column and the any-part-represented convention; b_gen uses contiguous true deposition intervals. Tail exponents are withheld unless n_tail >= 50 and the fitted range spans at least one decade.",
+ "delta_b_median": 0.18419743077701684,
+ "delta_b_iqr": [
+  0.04567029572309379,
+  0.3545660204088745
+ ],
+ "delta_b_min": -0.3479408275130363,
+ "delta_b_max": 1.1485293189593158,
+ "fraction_flattened": 0.8571428571428571,
+ "delta_alpha_median": -0.37010933492311104,
+ "delta_alpha_iqr": [
+  -0.8416333852910645,
+  -0.3297864074244057
+ ],
+ "calibration_grid": {
+  "1.50": -0.05033612752845126,
+  "1.75": -0.09817019329383486,
+  "1.90": -0.1460617204437813,
+  "2.10": -0.2179993164243064,
+  "2.50": -0.5613204751199835,
+  "3.00": -1.1731164116588872
+ },
+ "calibration_diagnostics": {
+  "monotone_in_alpha_order": true,
+  "b_range": [
+   -1.1731164116588872,
+   -0.05033612752845126
+  ],
+  "alpha_range": [
+   1.5,
+   3.0
+  ],
+  "out_of_range_rule": "return status and null; never clamp to an endpoint"
+ },
+ "real_data_sensitivity": {
+  "warning": "Scenario shifts are not uncertainty intervals, independent validation, or estimates of the real generating process.",
+  "curve_scenarios": {
+   "pooled_local_slope": [
+    {
+     "scenario": "no_shift",
+     "delta_b_applied": 0.0,
+     "b_observed": -0.03908303578698446,
+     "shifted_b": -0.03908303578698446,
+     "status": "above_range",
+     "alpha_conditional": null
+    },
+    {
+     "scenario": "q25_observer_effect",
+     "delta_b_applied": 0.04567029572309379,
+     "b_observed": -0.03908303578698446,
+     "shifted_b": -0.08475333151007824,
+     "status": "within_range",
+     "alpha_conditional": 1.679878102723049
+    },
+    {
+     "scenario": "median_observer_effect",
+     "delta_b_applied": 0.18419743077701684,
+     "b_observed": -0.03908303578698446,
+     "shifted_b": -0.2232804665640013,
+     "status": "within_range",
+     "alpha_conditional": 2.106153014465824
+    },
+    {
+     "scenario": "q75_observer_effect",
+     "delta_b_applied": 0.3545660204088745,
+     "b_observed": -0.03908303578698446,
+     "shifted_b": -0.393649056195859,
+     "status": "within_range",
+     "alpha_conditional": 2.304647730351219
+    }
+   ],
+   "column_mean_slope": [
+    {
+     "scenario": "no_shift",
+     "delta_b_applied": 0.0,
+     "b_observed": -0.07240322236839715,
+     "shifted_b": -0.07240322236839715,
+     "status": "within_range",
+     "alpha_conditional": 1.6153314823173328
+    },
+    {
+     "scenario": "q25_observer_effect",
+     "delta_b_applied": 0.04567029572309379,
+     "b_observed": -0.07240322236839715,
+     "shifted_b": -0.11807351809149094,
+     "status": "within_range",
+     "alpha_conditional": 1.8123387663187465
+    },
+    {
+     "scenario": "median_observer_effect",
+     "delta_b_applied": 0.18419743077701684,
+     "b_observed": -0.07240322236839715,
+     "shifted_b": -0.25660065314541397,
+     "status": "within_range",
+     "alpha_conditional": 2.144974025915279
+    },
+    {
+     "scenario": "q75_observer_effect",
+     "delta_b_applied": 0.3545660204088745,
+     "b_observed": -0.07240322236839715,
+     "shifted_b": -0.42696924277727166,
+     "status": "within_range",
+     "alpha_conditional": 2.3434687418006743
+    }
+   ]
+  },
+  "tail_scenarios": [
+   {
+    "scenario": "q25_observer_effect",
+    "delta_alpha_applied": -0.8416333852910645,
+    "alpha_observed": 1.8831196282294513,
+    "shifted_alpha_conditional": 2.724753013520516
+   },
+   {
+    "scenario": "median_observer_effect",
+    "delta_alpha_applied": -0.37010933492311104,
+    "alpha_observed": 1.8831196282294513,
+    "shifted_alpha_conditional": 2.253228963152562
+   },
+   {
+    "scenario": "q75_observer_effect",
+    "delta_alpha_applied": -0.3297864074244057,
+    "alpha_observed": 1.8831196282294513,
+    "shifted_alpha_conditional": 2.212906035653857
+   }
+  ]
+ },
+ "elapsed_s": 9.381349
+}

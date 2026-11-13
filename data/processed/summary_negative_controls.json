@@ -1,0 +1,90 @@
+{
+ "seed": 20261020,
+ "jitter_Myr": [
+  {
+   "label": "jitter_0.5_Myr",
+   "n": 10367,
+   "valid": true,
+   "alpha": 1.400097530726667,
+   "xmin_Myr": 0.15363863109804793,
+   "n_tail": 8367,
+   "ks": 0.06783807220562477,
+   "decades_tail": 3.4597859740578594,
+   "median_Myr": 0.5361882996427312,
+   "gof_p": 0.006622516556291391
+  },
+  {
+   "label": "jitter_2.0_Myr",
+   "n": 8406,
+   "valid": true,
+   "alpha": 1.5424319007346563,
+   "xmin_Myr": 0.9320164950855443,
+   "n_tail": 6004,
+   "ks": 0.05062661448520053,
+   "decades_tail": 2.675402850636025,
+   "median_Myr": 2.0077428057869753,
+   "gof_p": 0.006622516556291391
+  },
+  {
+   "label": "jitter_5.0_Myr",
+   "n": 6370,
+   "valid": true,
+   "alpha": 1.649237411824683,
+   "xmin_Myr": 2.7916265339583135,
+   "n_tail": 4049,
+   "ks": 0.04747763485596479,
+   "decades_tail": 2.201281748240112,
+   "median_Myr": 4.41429992409774,
+   "gof_p": 0.006622516556291391
+  }
+ ],
+ "unpinned_subset": {
+  "label": "gaps_with_no_pinned_bounding_age",
+  "n": 2028,
+  "valid": true,
+  "alpha": 1.9045685358516726,
+  "xmin_Myr": 14.416699999999992,
+  "n_tail": 682,
+  "ks": 0.06943776047725314,
+  "decades_tail": 1.4493163446134891,
+  "median_Myr": 6.35625000000001,
+  "gof_p": 0.006622516556291391,
+  "n_excluded": 2326
+ },
+ "completeness": {
+  "jitter_0.0": {
+   "n_columns": 736,
+   "b_median": -0.06208884782670668,
+   "b_iqr": [
+    -0.1021913871587594,
+    -0.03579289502306231
+   ],
+   "completeness_fine_median": 0.5554281629971101,
+   "completeness_coarse_median": 0.8,
+   "delta_over_grid": 0.24457183700288998
+  },
+  "jitter_2.0": {
+   "n_columns": 736,
+   "b_median": -0.07883124454324303,
+   "b_iqr": [
+    -0.13090960260096646,
+    -0.04331134963953882
+   ],
+   "completeness_fine_median": 0.5375588797286733,
+   "completeness_coarse_median": 0.8,
+   "delta_over_grid": 0.2624411202713267
+  }
+ },
+ "baseline": {
+  "label": "baseline_no_jitter",
+  "n": 4354,
+  "valid": true,
+  "alpha": 1.8831196282294516,
+  "xmin_Myr": 17.024999999999977,
+  "n_tail": 1495,
+  "ks": 0.07440557481998294,
+  "decades_tail": 1.414943913257201,
+  "median_Myr": 7.98085,
+  "gof_p": 0.006622516556291391
+ }
+}

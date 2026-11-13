@@ -1,0 +1,279 @@
+{
+ "generated_utc": "2026-11-10T07:19:35Z",
+ "source": "Macrostrat v2 bulk CSV export, CC-BY 4.0",
+ "parameters": {
+  "MIN_UNITS_PRIMARY": 15,
+  "PHANEROZOIC_MAX_AGE_Ma": 541.0,
+  "TAU_GRID_Myr": [
+   0.01,
+   0.02,
+   0.05,
+   0.1,
+   0.2,
+   0.5,
+   1.0,
+   2.0,
+   5.0,
+   10.0,
+   20.0,
+   50.0
+  ],
+  "MIN_TAU_MULTIPLE": 10.0
+ },
+ "n_after_dedup_units": 35481,
+ "n_rejected_age_order_or_missing": 0,
+ "n_units_total": 35481,
+ "n_units_retained": 35481,
+ "n_units_thickness_reported": 28002,
+ "n_units_phanerozoic": 33154,
+ "n_gaps_all_columns_phanerozoic": 6042,
+ "n_columns_with_gaps": 1304,
+ "overlaps_total": 22792,
+ "overlaps_per_column_median": 10.0,
+ "col_level_note": "a Macrostrat column aggregates several sections, so unit age ranges may overlap laterally; gaps are computed on the union of coverage, which is why the sum of unit durations exceeds the record length",
+ "n_columns_primary": 736,
+ "n_gaps_primary": 4354,
+ "primary_positive_gaps": 4354,
+ "hiatus_primary_summary_Myr": {
+  "n": 4354,
+  "min": 0.0088,
+  "median": 7.98085,
+  "mean": 30.418442994947174,
+  "p95": 140.02574999999953,
+  "max": 442.62,
+  "decades_spanned": 4.701548361691855
+ },
+ "n_above_threshold": {
+  "gt_1e-09": 4354,
+  "gt_0.001": 4354,
+  "gt_0.01": 4353,
+  "gt_0.05": 4340,
+  "gt_0.1": 4317,
+  "gt_0.25": 4214
+ },
+ "n_completeness_records": 7869,
+ "pooled_completeness": [
+  {
+   "tau_Myr": 0.01,
+   "n": 736,
+   "mean_completeness": 0.5561,
+   "median_completeness": 0.5554,
+   "mean_predicted": 0.5563,
+   "mean_residual": -0.0001
+  },
+  {
+   "tau_Myr": 0.02,
+   "n": 736,
+   "mean_completeness": 0.5563,
+   "median_completeness": 0.5556,
+   "mean_predicted": 0.5565,
+   "mean_residual": -0.0002
+  },
+  {
+   "tau_Myr": 0.05,
+   "n": 736,
+   "mean_completeness": 0.5569,
+   "median_completeness": 0.556,
+   "mean_predicted": 0.5572,
+   "mean_residual": -0.0003
+  },
+  {
+   "tau_Myr": 0.1,
+   "n": 736,
+   "mean_completeness": 0.5579,
+   "median_completeness": 0.5567,
+   "mean_predicted": 0.5583,
+   "mean_residual": -0.0004
+  },
+  {
+   "tau_Myr": 0.2,
+   "n": 734,
+   "mean_completeness": 0.5587,
+   "median_completeness": 0.5582,
+   "mean_predicted": 0.5593,
+   "mean_residual": -0.0006
+  },
+  {
+   "tau_Myr": 0.5,
+   "n": 727,
+   "mean_completeness": 0.5606,
+   "median_completeness": 0.5593,
+   "mean_predicted": 0.5616,
+   "mean_residual": -0.001
+  },
+  {
+   "tau_Myr": 1.0,
+   "n": 724,
+   "mean_completeness": 0.5684,
+   "median_completeness": 0.5696,
+   "mean_predicted": 0.5699,
+   "mean_residual": -0.0015
+  },
+  {
+   "tau_Myr": 2.0,
+   "n": 711,
+   "mean_completeness": 0.5789,
+   "median_completeness": 0.5828,
+   "mean_predicted": 0.5807,
+   "mean_residual": -0.0018
+  },
+  {
+   "tau_Myr": 5.0,
+   "n": 688,
+   "mean_completeness": 0.6067,
+   "median_completeness": 0.6185,
+   "mean_predicted": 0.611,
+   "mean_residual": -0.0043
+  },
+  {
+   "tau_Myr": 10.0,
+   "n": 624,
+   "mean_completeness": 0.6263,
+   "median_completeness": 0.6348,
+   "mean_predicted": 0.6305,
+   "mean_residual": -0.0041
+  },
+  {
+   "tau_Myr": 20.0,
+   "n": 493,
+   "mean_completeness": 0.6212,
+   "median_completeness": 0.6316,
+   "mean_predicted": 0.6269,
+   "mean_residual": -0.0057
+  },
+  {
+   "tau_Myr": 50.0,
+   "n": 224,
+   "mean_completeness": 0.6924,
+   "median_completeness": 0.7,
+   "mean_predicted": 0.6816,
+   "mean_residual": 0.0109
+  }
+ ],
+ "n_units_for_rate_analysis": 26838,
+ "sadler_rate_span_slope": -0.24287595577629312,
+ "sadler_bins": [
+  {
+   "bin": 0,
+   "n": 134,
+   "med_duration": 0.0012,
+   "med_rate": 250.0,
+   "p25": 83.33333,
+   "p75": 500.0
+  },
+  {
+   "bin": 1,
+   "n": 531,
+   "med_duration": 0.0018,
+   "med_rate": 176.47059,
+   "p25": 76.92308,
+   "p75": 538.46154
+  },
+  {
+   "bin": 2,
+   "n": 377,
+   "med_duration": 0.0034,
+   "med_rate": 102.04082,
+   "p25": 35.71429,
+   "p75": 266.66667
+  },
+  {
+   "bin": 3,
+   "n": 296,
+   "med_duration": 0.0117,
+   "med_rate": 683.76068,
+   "p25": 143.71429,
+   "p75": 1709.40171
+  },
+  {
+   "bin": 4,
+   "n": 1050,
+   "med_duration": 0.0204,
+   "med_rate": 26.66667,
+   "p25": 10.34929,
+   "p75": 83.56061
+  },
+  {
+   "bin": 5,
+   "n": 1090,
+   "med_duration": 0.0482,
+   "med_rate": 12.19519,
+   "p25": 5.58075,
+   "p75": 45.42235
+  },
+  {
+   "bin": 6,
+   "n": 1539,
+   "med_duration": 0.1161,
+   "med_rate": 18.42949,
+   "p25": 3.84808,
+   "p75": 69.56522
+  },
+  {
+   "bin": 7,
+   "n": 1821,
+   "med_duration": 0.2498,
+   "med_rate": 27.49771,
+   "p25": 4.20364,
+   "p75": 88.78505
+  },
+  {
+   "bin": 8,
+   "n": 2908,
+   "med_duration": 0.5777,
+   "med_rate": 37.22393,
+   "p25": 12.59763,
+   "p75": 119.68692
+  },
+  {
+   "bin": 9,
+   "n": 4208,
+   "med_duration": 1.3216,
+   "med_rate": 36.31382,
+   "p25": 11.54101,
+   "p75": 103.19917
+  },
+  {
+   "bin": 10,
+   "n": 4893,
+   "med_duration": 3.0167,
+   "med_rate": 27.39726,
+   "p25": 9.43953,
+   "p75": 75.6104
+  },
+  {
+   "bin": 11,
+   "n": 4641,
+   "med_duration": 6.35,
+   "med_rate": 23.28469,
+   "p25": 8.50388,
+   "p75": 58.70968
+  },
+  {
+   "bin": 12,
+   "n": 2450,
+   "med_duration": 13.9,
+   "med_rate": 19.10671,
+   "p25": 7.27076,
+   "p75": 45.01894
+  },
+  {
+   "bin": 13,
+   "n": 764,
+   "med_duration": 28.9925,
+   "med_rate": 13.58628,
+   "p25": 4.64604,
+   "p75": 32.27194
+  },
+  {
+   "bin": 14,
+   "n": 136,
+   "med_duration": 65.5832,
+   "med_rate": 12.48379,
+   "p25": 4.60467,
+   "p75": 24.26222
+  }
+ ],
+ "fraction_unit_boundaries_exactly_on_an_interval_boundary": 0.26101293650122603,
+ "n_interval_boundary_ages": 1282
+}

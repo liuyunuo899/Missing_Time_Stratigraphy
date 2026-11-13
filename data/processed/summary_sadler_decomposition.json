@@ -1,0 +1,18 @@
+{
+ "generated_utc": "2026-11-10T07:30:15Z",
+ "n_units": 26838,
+ "n_columns_within": 445,
+ "pooled_slope": -0.2022446281596523,
+ "within_column_slope_median": -0.6229127922993517,
+ "within_column_slope_mean": -0.6326807662219202,
+ "within_column_slope_iqr": [
+  -0.8003963063133354,
+  -0.45254092870153156
+ ],
+ "within_column_slope_median_ci95": [
+  -0.6557237535422352,
+  -0.5974668178279047
+ ],
+ "fraction_columns_with_negative_slope": 0.9887640449438202,
+ "median_span_decades_per_column": 2.0706449364254995
+}

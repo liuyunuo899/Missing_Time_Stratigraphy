@@ -1,0 +1,88 @@
+environ_id,name,type,class,color,t_units
+1,"peritidal","carbonate","marine","#B8B8E6",94
+2,"shallow subtidal","carbonate","marine","#3399FF",815
+3,"open shallow subtidal","carbonate","marine","#3399FF",426
+4,"lagoonal/restricted shallow subtidal","carbonate","marine","#B8B8E6",216
+5,"sand shoal","carbonate","marine","#5CADFF",25
+6,"reef","carbonate","marine","#33CCFF",156
+7,"buildup or bioherm","carbonate","marine","#33CCFF",7
+8,"perireef","carbonate","marine","#33CCFF",7
+9,"intrashelf/intraplatform reef","carbonate","marine","#2EB8E6",4
+10,"platform/shelf-margin reef","carbonate","marine","#2EB8E6",99
+11,"slope/ramp reef","carbonate","marine","#297ACC",3
+12,"basin reef","carbonate","marine","#297ACC",0
+13,"deep subtidal ramp","carbonate","marine","#246BB2",8
+14,"deep subtidal shelf","carbonate","marine","#246BB2",189
+15,"deep subtidal indet.","carbonate","marine","#246BB2",110
+16,"offshore ramp","carbonate","marine","#1F5C99",49
+17,"offshore shelf","carbonate","marine","#1F5C99",233
+18,"offshore indet.","carbonate","marine","#1F5C99",105
+19,"slope","carbonate","marine","#1A4C80",57
+20,"basinal","carbonate","marine","#1A4C80",3034
+21,"paralic indet.","siliciclastic","marine","#007A5C",224
+22,"lagoonal","siliciclastic","marine","#007A5C",288
+23,"coastal indet.","siliciclastic","marine","#007A5C",1101
+24,"foreshore","siliciclastic","marine","#007A5C",313
+25,"shoreface","siliciclastic","marine","#33D6AD",756
+26,"transition zone/lower shoreface","siliciclastic","marine","#99EBD6",533
+27,"barrier bar","siliciclastic","marine","#80E6CC",151
+28,"offshore","siliciclastic","marine","#B2F0E0",1041
+29,"deltaic indet.","siliciclastic","marine","#19D1A3",462
+30,"delta plain","siliciclastic","marine","#19D1A3",75
+31,"interdistributary bay","siliciclastic","marine","#00B88A",35
+32,"delta front","siliciclastic","marine","#00CC99",129
+33,"prodelta","siliciclastic","marine","#00CC99",118
+34,"deep-water indet.","siliciclastic","marine","#00523D",309
+35,"basinal","siliciclastic","marine","#00291F",92135
+36,"abyss","siliciclastic","marine","#00291F",4074
+37,"submarine fan","siliciclastic","marine","#00664C",231
+38,"marine","","marine","#CCFFFF",4142
+39,"marginal marine","","marine","#00B88A",389
+41,"eolian indet.","eolian","non-marine","#FFD6AD",249
+42,"dune","eolian","non-marine","#FFD6AD",72
+43,"interdune","eolian","non-marine","#FFCC99",5
+44,"loess","eolian","non-marine","#FFEAD6",99
+45,"fluvial indet.","fluvial","non-marine","#669900",1975
+46,"fluvial braided","fluvial","non-marine","#75A319",264
+47,"fluvial meandering","fluvial","non-marine","#669900",114
+48,"channel","fluvial","non-marine","#5C8A00",167
+49,"channel lag","fluvial","non-marine","#5C8A00",10
+52,"floodplain","fluvial","non-marine","#A3C266",351
+55,"levee","fluvial","non-marine","#94B84D",9
+56,"crevasse splay","fluvial","non-marine","#94B84D",35
+57,"fluvial-deltaic indet.","fluvial","non-marine","#669900",157
+58,"deltaic indet.","fluvial","non-marine","#75A319",82
+59,"delta plain","fluvial","non-marine","#75A319",41
+61,"estuary/bay","fluvial","marine","#00B88A",395
+62,"glacial indet.","glacial","non-marine","#D6D6FF",1462
+63,"end moraine","glacial","non-marine","#DBDBFF",1
+64,"ground moraine","glacial","non-marine","#DBDBFF",95
+65,"esker","glacial","non-marine","#DBDBFF",0
+66,"drumlin","glacial","non-marine","#DBDBFF",0
+67,"outwash plain","glacial","non-marine","#DBDBFF",48
+68,"lacustrine indet.","lacustrine","non-marine","#8AE68A",690
+69,"lacustrine - large","lacustrine","non-marine","#8AE68A",6
+70,"lacustrine - small","lacustrine","non-marine","#8AE68A",24
+71,"pond","lacustrine","non-marine","#8AE68A",35
+72,"crater lake","lacustrine","non-marine","#EBFFEB",0
+73,"lacustrine deltaic indet.","lacustrine","non-marine","#ADFFAD",32
+74,"lacustrine delta plain","lacustrine","non-marine","#6BB26B",9
+75,"lacustrine interdistributary bay","lacustrine","non-marine","#7ACC7A",2
+76,"lacustrine delta front","lacustrine","non-marine","#A3FFA3",0
+77,"lacustrine prodelta","lacustrine","non-marine","#ADFFAD",0
+78,"playa","lacustrine","non-marine","#E0FFE0",75
+79,"karst indet.","landscape","non-marine","#D6D6C2",1
+80,"fissure fill","landscape","non-marine","#D6D6C2",0
+81,"cave","landscape","non-marine","#3D3D29",0
+82,"sinkhole","landscape","non-marine","#999966",0
+83,"alluvial fan","landscape","non-marine","#B8B894",325
+84,"mire/swamp","landscape","non-marine","#6B6B47",167
+85,"spring","landscape","non-marine","#F5F5F0",0
+86,"tar","landscape","non-marine","#6B6B47",0
+87,"weathering surface","landscape","non-marine","#D6D6C2",47
+88,"non-marine","","non-marine","#CCFFCC",2433
+89,"fluvial-lacustrine indet.","fluvial","non-marine","#74CDCD",254
+90,"colluvial slope","landscape","non-marine","#B8B894",83
+91,"slope","siliciclastic","marine","#00664C",400
+92,"tidal flat","siliciclastic","marine","#CCF5EB",150
+93,"inferred marine","","marine","#D6F5FF",16649

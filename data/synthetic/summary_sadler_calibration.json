@@ -1,0 +1,51 @@
+{
+ "generated_utc": "2026-11-10T07:44:34Z",
+ "seed": 20261020,
+ "by_alpha": {
+  "1.4": {
+   "slope_measured": 0.055,
+   "slope_uncapped_asymptotic_reference": -1.5,
+   "slope_capped_stationary_prediction": 0.0
+  },
+  "1.6": {
+   "slope_measured": -0.003,
+   "slope_uncapped_asymptotic_reference": -0.667,
+   "slope_capped_stationary_prediction": 0.0
+  },
+  "1.8": {
+   "slope_measured": 0.015,
+   "slope_uncapped_asymptotic_reference": -0.25,
+   "slope_capped_stationary_prediction": 0.0
+  },
+  "1.9": {
+   "slope_measured": 0.001,
+   "slope_uncapped_asymptotic_reference": -0.111,
+   "slope_capped_stationary_prediction": 0.0
+  },
+  "2.1": {
+   "slope_measured": 0.002,
+   "slope_uncapped_asymptotic_reference": 0.0,
+   "slope_capped_stationary_prediction": 0.0
+  },
+  "2.5": {
+   "slope_measured": 0.0,
+   "slope_uncapped_asymptotic_reference": 0.0,
+   "slope_capped_stationary_prediction": 0.0
+  },
+  "3.0": {
+   "slope_measured": 0.0,
+   "slope_uncapped_asymptotic_reference": 0.0,
+   "slope_capped_stationary_prediction": 0.0
+  }
+ },
+ "note": "measured slope is d log(rate)/d log(window length); gaps are capped at 400 Myr, so the finite-mean stationary prediction is zero and the uncapped asymptote is only a contrasting reference",
+ "real_slope_context": {
+  "pooled_slope": -0.2022446281596523,
+  "calibration_measured_slope_range": [
+   -0.018286829002380104,
+   0.11389916148970254
+  ],
+  "within_measured_range": false,
+  "note": "descriptive comparison only; no alpha point estimate is returned because the calibration is generator-specific and the real slope also contains within- and among-column components"
+ }
+}

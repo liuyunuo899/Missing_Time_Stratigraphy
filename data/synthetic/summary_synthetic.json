@@ -1,0 +1,194 @@
+{
+ "generated_utc": "2026-11-10T07:40:58Z",
+ "seed_master": 20261020,
+ "n_steps": 20000,
+ "dt_Myr": 0.01,
+ "inversion_observation_design": {
+  "n_horizons": 12,
+  "sigma_z_m": 16.47,
+  "grid_steps": 20000,
+  "dt_Myr": 0.01,
+  "true_gross_deposition_m": 2547.5,
+  "true_erosion_m": 1893.9499999999678,
+  "true_P_gross": 0.25654563297351607
+ },
+ "solver_crosscheck": {
+  "fista_objective": 2.5060659513304593,
+  "lbfgsb_objective": 2.506065746451077,
+  "independent_solver": "scipy L-BFGS-B with non-negativity bounds",
+  "relative_difference": 8.175339479361339e-08,
+  "fista_stationarity": 2.7033937640197203e-06,
+  "fista_max_residual_sigma": 0.07702996483642477,
+  "acceptable_tolerance": 0.001,
+  "passed": true
+ },
+ "lambda_ensemble": {
+  "n_solutions": 36,
+  "gross_ratio_min": 0.18042532595595517,
+  "gross_ratio_max": 0.5778945039949226,
+  "gross_ratio_median": 0.406415542662462,
+  "preservation_min": 0.2300591188845562,
+  "preservation_max": 0.9566846424125083,
+  "max_constraint_residual_sigma": 30.453313321961417,
+  "max_stationarity": 1.4187572694264483e-05
+ },
+ "extra_horizon_test": [
+  {
+   "extra_horizons": 0,
+   "gross_ratio_iqr_width": 0.025997338778186885,
+   "gross_ratio_median": 0.5682675142608615,
+   "gross_ratio_range": [
+    0.5519752736361461,
+    0.5876486935221881
+   ]
+  },
+  {
+   "extra_horizons": 12,
+   "gross_ratio_iqr_width": 0.12607015737496763,
+   "gross_ratio_median": 0.721931236333181,
+   "gross_ratio_range": [
+    0.6684713613049,
+    0.9126714042497467
+   ]
+  },
+  {
+   "extra_horizons": 36,
+   "gross_ratio_iqr_width": 0.07170875708823854,
+   "gross_ratio_median": 0.8655975417955561,
+   "gross_ratio_range": [
+    0.8114218736170231,
+    1.0193723338886431
+   ]
+  }
+ ],
+ "part_a_equifinality": {
+  "n_cases": 84,
+  "n_valid_tail_fits": 89,
+  "n_withheld_degenerate_fits": 79,
+  "alpha_observed_range_valid": [
+   1.3686498803693032,
+   3.7630668996810983
+  ],
+  "P_gross_range": [
+   0.0,
+   0.5012812467315265
+  ],
+  "max_mass_balance_residual_m": 2.6375429618141766e-13,
+  "max_layer_preservation_residual_m": 2.842170943040401e-14,
+  "alpha_observed_by_mechanism": {
+   "count": {
+    "ar1": 5,
+    "critical": 7,
+    "multiscale": 3,
+    "periodic": 6
+   },
+   "median": {
+    "ar1": 1.433,
+    "critical": 1.44,
+    "multiscale": 1.679,
+    "periodic": 1.493
+   },
+   "min": {
+    "ar1": 1.427,
+    "critical": 1.369,
+    "multiscale": 1.653,
+    "periodic": 1.407
+   },
+   "max": {
+    "ar1": 1.544,
+    "critical": 1.55,
+    "multiscale": 3.763,
+    "periodic": 1.56
+   }
+  }
+ },
+ "part_b_calibration": {
+  "1.5": {
+   "b_measured": -0.05,
+   "b_predicted": -0.05,
+   "two_minus_alpha": 0.5
+  },
+  "1.75": {
+   "b_measured": -0.098,
+   "b_predicted": -0.098,
+   "two_minus_alpha": 0.25
+  },
+  "1.9": {
+   "b_measured": -0.146,
+   "b_predicted": -0.145,
+   "two_minus_alpha": 0.1
+  },
+  "2.1": {
+   "b_measured": -0.218,
+   "b_predicted": -0.217,
+   "two_minus_alpha": -0.1
+  },
+  "2.5": {
+   "b_measured": -0.561,
+   "b_predicted": -0.551,
+   "two_minus_alpha": -0.5
+  },
+  "3.0": {
+   "b_measured": -1.173,
+   "b_predicted": -1.394,
+   "two_minus_alpha": -1.0
+  }
+ },
+ "part_d_preservation": {
+  "mean_abs_error_naive": 0.3779919830117385,
+  "max_abs_error_naive": 0.9998997594226142,
+  "by_erosion_rate": {
+   "0.0": {
+    "mean_true": 1.0,
+    "mean_naive": 0.518,
+    "mean_abs_error": 0.482
+   },
+   "10.0": {
+    "mean_true": 0.792,
+    "mean_naive": 0.464,
+    "mean_abs_error": 0.327
+   },
+   "25.0": {
+    "mean_true": 0.536,
+    "mean_naive": 0.376,
+    "mean_abs_error": 0.167
+   },
+   "50.0": {
+    "mean_true": 0.228,
+    "mean_naive": 0.542,
+    "mean_abs_error": 0.426
+   },
+   "100.0": {
+    "mean_true": 0.102,
+    "mean_naive": 0.63,
+    "mean_abs_error": 0.523
+   }
+  },
+  "max_mass_balance_residual_m": 4.547473508864641e-13
+ },
+ "calibration_mapping": {
+  "alpha_grid": [
+   1.5,
+   1.75,
+   1.9,
+   2.1,
+   2.5,
+   3.0
+  ],
+  "b_grid": [
+   -0.05033612752845126,
+   -0.09817019329383486,
+   -0.1460617204437813,
+   -0.2179993164243064,
+   -0.5613204751199835,
+   -1.1731164116588872
+  ],
+  "b_range": [
+   -1.1731164116588872,
+   -0.05033612752845126
+  ],
+  "note": "descriptive finite-record calibration for this generator; not a universal relation and not a validated correction",
+  "observed_b_real": -0.03908303578698446,
+  "observed_b_within_range": false
+ }
+}

@@ -1,0 +1,1535 @@
+col_id,col_name,col_group,col_group_id,group_col_id,lat,lng,col_area,project_id,col_type,status_code,refs
+2,"Madison Co, Alabama","Southern Appalachians",17,1,34.853,-86.562,6345.4,1,"column","active",1
+3,"Jackson County, Alabama","Southern Appalachians",17,2,34.832,-85.782,4134,1,"column","active",1
+4,"Blount County, Alabama","Southern Appalachians",17,3,33.998,-86.55,2726.5,1,"column","active",1
+5,"Dekalb & Western Etowah Counties, Alabama","Southern Appalachians",17,4,34.354,-86.079,3339.3,1,"column","active",1
+6,"Western Valley & Ridge, Northern Segment, Alabama","Southern Appalachians",17,5,34.209,-85.599,3863.2,1,"column","active",1
+7,"Eastern Valley and Ridge, Northern Segment, Alabama","Southern Appalachians",17,6,33.717,-86.156,3708,1,"column","active",1
+8,"Western Valley & Ridge, Southern Segment, Alabama","Southern Appalachians",17,7,33.662,-86.786,4713.7,1,"column","active",1
+9,"Eastern Valley & Ridge, Southern Segment, Alabama","Southern Appalachians",17,8,33.165,-87.304,17966.6,1,"column","active",1
+10,"Northwestern Valley & Ridge & Plateau, Georgia","Southern Appalachians",17,9,34.725,-85.3,4813.1,1,"column","active",1
+11,"Southeastern Valley & Ridge, Georgia","Southern Appalachians",17,10,34.503,-85,3954.6,1,"column","active",1
+12,"Cumberland Plateau & Adjacent Areas, Tennessee","Southern Appalachians",17,11,36.011,-84.924,15407.2,1,"column","active",1
+13,"Pine Mountain Overthrust & Adjacent Areas, Tennessee","Southern Appalachians",17,12,36.45,-83.575,6650.1,1,"column","active",1
+14,"Northern Unaka Mountains & Adjacent Valley & Ridge, Tennessee","Southern Appalachians",17,14,36.308,-82.483,6516.7,1,"column","active",1
+15,"Southern Unaka Mountains and Adjacent Valley & Ridge, Tennessee","Southern Appalachians",17,15,35.916,-83.716,6014,1,"column","active",1
+16,"Valley & Ridge, Tennessee","Southern Appalachians",17,13,36.333,-83.066,2825,1,"column","active",1
+17,"South-central, Ohio","Southern Appalachians",17,16,39.397,-82.828,13348.1,1,"column","active",1
+18,"Northeastern Kentucky","Southern Appalachians",17,17,38.5,-83.05,12817.5,1,"column","active",1
+19,"Eastern Kentucky","Southern Appalachians",17,18,37.579,-83.001,8705.3,1,"column","active",1
+20,"Southeastern Kentucky: North of Pine Mtn","Southern Appalachians",17,19,36.98,-83.22,4162.6,1,"column","active",1
+21,"Lee County, Virginia","Southern Appalachians",17,20,36.735,-82.925,2435.6,1,"column","active",1
+22,"Northern Part Chautauqua Platform","Texas-Oklahoma Tectonic Region",20,1,36.583,-96.434,26764.6,1,"column","active",1
+23,"Appalachian Plateau, Virginia","Southern Appalachians",17,21,37.3,-82.116,5536,1,"column","active",1
+24,"Southern Part Chautauqua Platform","Texas-Oklahoma Tectonic Region",20,2,35.583,-96.248,18076.3,1,"column","active",1
+25,"Scott and Russell Counties, Virginia","Southern Appalachians",17,22,36.778,-82.356,2889.7,1,"column","active",1
+26,"Lehigh Basin Portion of Arkoma Basin","Texas-Oklahoma Tectonic Region",20,3,34.723,-96.458,13344.3,1,"column","active",1
+27,"Washington & Smyth Counties, Virginia: West of Pulaski Fault","Southern Appalachians",17,23,36.817,-81.944,2773.6,1,"column","active",1
+28,"Western Anticline Belt (southern half), Virginia","Southern Appalachians",17,24,37.133,-81.466,3176.8,1,"column","active",1
+31,"Eastern Wisconsin","Midwestern Basins and Arches",6,1,43.733,-87.845,27548.8,1,"column","active",1
+32,"Southern Coal Basin, West Virginia","Northern Appalachians",9,1,38,-81.611,10739.4,1,"column","active",1
+33,"Sioux/Lyons Counties, Iowa","Midcontinent",7,1,43.267,-96.152,8337.9,1,"column","active",1
+34,"Cost G1 Well Georges Bank Basin","Atlantic Coastal Plain",1,1,40.916,-68.3,32244.7,1,"column","active",1
+35,"Plomosa and Dome Rock Mountains Area","Southwest Mid-Continent",19,1,33.591,-114.061,60048.7,1,"column","active",1
+36,"Barrow - Drew Point","Northern Alaska",8,1,70.644,-154.583,27287.5,1,"column","active",1
+37,"Wythe and Pulaski Counties, Virginia: West of Pulaski Fault","Southern Appalachians",17,25,37.018,-81.231,2729.2,1,"column","active",1
+38,"Montgomery and Roanoke Counties, Virginia: West of Pulaski Fault","Southern Appalachians",17,26,37.238,-80.555,2426.8,1,"column","active",1
+39,"Basin Center, West Virginia","Northern Appalachians",9,2,38.445,-80.986,8320.5,1,"column","active",1
+40,"Southeast Valley & Ridge, West Virginia","Northern Appalachians",9,3,37.741,-80.608,5425.7,1,"column","active",1
+41,"Highland to Craig County, Virginia","Northern Appalachians",9,4,38.092,-79.772,5738.1,1,"column","active",1
+42,"Rockbridge & Botetourt Counties, Virginia - West of Pulaski Fault","Northern Appalachians",9,5,37.527,-80.035,2720.5,1,"column","active",1
+43,"Rockingham & Augusta Counties, Virginia - West of North Mtn Fault","Northern Appalachians",9,6,38.438,-79.158,3578.2,1,"column","active",1
+44,"Southeastern Ohio","Northern Appalachians",9,7,39.894,-81.76,10930.1,1,"column","active",1
+45,"Dunkard Basin, West Virginia","Northern Appalachians",9,8,39.343,-80.961,10998.4,1,"column","active",1
+46,"High Plateau, West Virginia","Northern Appalachians",9,9,39.141,-80.075,9995.4,1,"column","active",1
+47,"Northeast Valley & Ridge, West Virginia","Northern Appalachians",9,10,39.04,-79.154,4248.9,1,"column","active",1
+48,"Southern Papago Reservation","Southwest Mid-Continent",19,2,32.252,-111.665,48450,1,"column","active",1
+49,"Sonoita Area","Southwest Mid-Continent",19,3,31.62,-110.15,33159.3,1,"column","active",1
+50,"Big Hatchet Mountain Area","Southwest Mid-Continent",19,4,31.666,-108.4,18314.1,1,"column","active",1
+51,"Verde Valley","Southwest Mid-Continent",19,5,33.878,-110.44,49841.8,1,"column","active",1
+52,"Lone Mountain Area","Southwest Mid-Continent",19,6,32.483,-108.258,20334.9,1,"column","active",1
+53,"Black Range","Southwest Mid-Continent",19,7,33.075,-107.5,12271.1,1,"column","active",1
+54,"Franklin Mountain Cristo Rey Area","Southwest Mid-Continent",19,8,31.909,-106.502,14957,1,"column","active",1
+55,"Organ Mountain Southern San Andres Mountain","Southwest Mid-Continent",19,9,32.613,-106.421,8202.5,1,"column","active",1
+56,"Northeast Valley & Ridge, Virginia - West of North Mtn Fault","Northern Appalachians",9,11,39.083,-78.504,3062.9,1,"column","active",1
+57,"Sierra Diablo","Southwest Mid-Continent",19,10,31.377,-105.046,29008.3,1,"column","active",1
+58,"Marathon - Big Bend Region","Southwest Mid-Continent",19,11,29.585,-103.366,29165.6,1,"column","active",1
+59,"Glass Mountain Marathon Region","Southwest Mid-Continent",19,12,30.452,-103.002,24602.3,1,"column","active",1
+60,"Quemado Fence Lake Area","Southwest Mid-Continent",19,13,34.216,-108.395,27521.3,1,"column","active",1
+61,"Puetecito-landron Mountain Area","Southwest Mid-Continent",19,14,34.153,-107.275,14382.7,1,"column","active",1
+62,"Carthage-Joyita Hill Area","Southwest Mid-Continent",19,15,33.808,-106.802,11342.6,1,"column","active",1
+63,"Northern San Andres Mountains","Southwest Mid-Continent",19,16,33.235,-106.642,6605,1,"column","active",1
+64,"Sacramento Mountains","Southwest Mid-Continent",19,17,33.051,-105.607,22085.9,1,"column","active",1
+65,"Carlsbad and Northern Shelf","Southwest Mid-Continent",19,18,32.355,-104.178,21309.1,1,"column","active",1
+66,"Delaware Basin","Southwest Mid-Continent",19,19,31.472,-103.153,18152,1,"column","active",1
+67,"Central Basin Platform","Southwest Mid-Continent",19,20,32.352,-102.27,25463.7,1,"column","active",1
+68,"Midland Basin","Southwest Mid-Continent",19,21,31.706,-101.775,20931.7,1,"column","active",1
+69,"Eastern Shelf","Southwest Mid-Continent",19,22,31.908,-100.616,27463,1,"column","active",1
+70,"Northwest Shelf","Southwest Mid-Continent",19,23,33.779,-104.016,43060.7,1,"column","active",1
+71,"Western Palo Duro Basin","Southwest Mid-Continent",19,24,34.433,-101.833,34829,1,"column","active",1
+72,"Eastern Palo Duro Basin","Southwest Mid-Continent",19,25,33.733,-99.983,35466.3,1,"column","active",1
+73,"Amarillo Arch","Southwest Mid-Continent",19,26,35.5,-101.578,27171.2,1,"column","active",1
+74,"Western Oklahoma","Southwest Mid-Continent",19,27,35.936,-99.251,41760.4,1,"column","active",1
+75,"Texas Panhandle","Southwest Mid-Continent",19,28,36.38,-100.886,23792.1,1,"column","active",1
+76,"Hugoton Embayment-kansas","Southwest Mid-Continent",19,29,37.583,-101.283,28648.3,1,"column","active",1
+77,"Las Animas Arch-colorado","Southwest Mid-Continent",19,30,38.283,-102.566,26870.7,1,"column","active",1
+78,"Las Animas Arch-kansas","Southwest Mid-Continent",19,31,39.476,-101.175,28375.1,1,"column","active",1
+79,"Plymouth/Cheeroke Counties, Iowa","Midcontinent",7,2,42.738,-95.85,12599,1,"column","active",1
+80,"Webster County, Iowa","Midcontinent",7,3,42.511,-94.241,21693.3,1,"column","active",1
+81,"Butler County, Iowa","Midcontinent",7,4,42.751,-92.798,16088.8,1,"column","active",1
+82,"Linn/Benton Counties, Iowa","Midcontinent",7,5,42.07,-91.828,18972,1,"column","active",1
+83,"Des Moines County, Iowa","Midcontinent",7,6,40.966,-91.17,21391.2,1,"column","active",1
+84,"Sheridan County, Nebraska","Midcontinent",7,7,42.551,-102.354,44069.3,1,"column","active",1
+85,"Rock County, Nebraska","Midcontinent",7,8,42.402,-99.451,42022.1,1,"column","active",1
+86,"Stanton County, Nebraska","Midcontinent",7,9,41.95,-97.333,30143.8,1,"column","active",1
+87,"Sarpy County, Nebraska","Midcontinent",7,10,41.123,-96.095,10282.8,1,"column","active",1
+88,"Harrison/Pottawattomie Counties, Iowa","Midcontinent",7,11,41.582,-95.626,12516,1,"column","active",1
+89,"Dallas/Madison Counties, Iowa","Midcontinent",7,12,41.543,-94.031,19038.3,1,"column","active",1
+90,"Appanoose County, Iowa","Midcontinent",7,13,40.721,-92.913,28777.4,1,"column","active",1
+91,"Marion County, Missouri","Midcontinent",7,14,39.828,-91.625,16719.8,1,"column","active",1
+92,"Redwillow County, Nebraska","Midcontinent",7,15,40.231,-100.423,35932.7,1,"column","active",1
+93,"Ellis/trego Counties, Kansas","Midcontinent",7,16,38.928,-99.595,23182.1,1,"column","active",1
+94,"Colville Delta","Northern Alaska",8,2,70.26,-151.269,17893.2,1,"column","active",1
+95,"West Sak","Northern Alaska",8,3,70.343,-149.276,9473.3,1,"column","active",1
+96,"Prudhoe","Northern Alaska",8,4,69.889,-147.653,16862.5,1,"column","active",1
+97,"Canning River Delta","Northern Alaska",8,5,70.015,-145.668,23483.4,1,"column","active",1
+98,"Northern Arctic National Wildlife Refuge","Northern Alaska",8,6,69.793,-143.479,14144.5,1,"column","active",1
+99,"Mitchell County, Kansas","Midcontinent",7,17,39.448,-98.249,31959.9,1,"column","active",1
+100,"Pottawotomie County, Kansas","Midcontinent",7,18,39.36,-96.6,15671.5,1,"column","active",1
+101,"Jackson County, Kansas","Midcontinent",7,19,39.446,-95.773,18752.7,1,"column","active",1
+102,"Pawnee County, Nebraska","Midcontinent",7,20,40.212,-96.393,13949.8,1,"column","active",1
+103,"Atchinson County, Missouri","Midcontinent",7,21,40.433,-95.408,19300.6,1,"column","active",1
+104,"Boone County, Missouri","Midcontinent",7,22,38.913,-92.298,42828.9,1,"column","active",1
+105,"Perry County, Missouri","Midcontinent",7,23,37.719,-89.866,31312.4,1,"column","active",1
+106,"Stafford County, Kansas","Midcontinent",7,24,38.2,-98.707,18981.6,1,"column","active",1
+107,"Kingman County, Kansas","Midcontinent",7,25,37.436,-98.231,24147.3,1,"column","active",1
+108,"Butler County, Kansas","Midcontinent",7,26,37.766,-96.751,24896.4,1,"column","active",1
+109,"Vernon County, Missouri","Midcontinent",7,27,37.97,-94.478,36881.7,1,"column","active",1
+110,"Barry County, Missouri","Midcontinent",7,28,36.886,-93.857,35317.1,1,"column","active",1
+111,"Cost G2 Well Georges Bank Basin","Atlantic Coastal Plain",1,2,40.833,-67.5,17274.5,1,"column","active",1
+112,"Northern Coastal Plain","Atlantic Coastal Plain",1,19,38.766,-77.308,3616.4,1,"column","active",1
+113,"Northern Neck Peninsula","Atlantic Coastal Plain",1,20,37.991,-76.633,5619.2,1,"column","active",1
+114,"Raritan Bay","Atlantic Coastal Plain",1,3,40.419,-74.217,4579,1,"column","active",1
+115,"Brick Township","Atlantic Coastal Plain",1,4,40.082,-74.095,4926.8,1,"column","active",1
+116,"Middle Peninsula","Atlantic Coastal Plain",1,21,38,-77.183,6085.9,1,"column","active",1
+117,"South Bank of James River","Atlantic Coastal Plain",1,23,37.125,-77,3397.8,1,"column","active",1
+118,"York-james Peninsula","Atlantic Coastal Plain",1,22,37.466,-76.966,4235.7,1,"column","active",1
+119,"Southwestern Coastal Plain","Atlantic Coastal Plain",1,24,36.866,-77.312,10565.8,1,"column","active",1
+120,"Southeastern Coastal Plain","Atlantic Coastal Plain",1,25,36.716,-76.233,9074.7,1,"column","active",1
+121,"Eastern Shore","Atlantic Coastal Plain",1,26,37.81,-75.533,10497.4,1,"column","active",1
+122,"Murfreesboro","Atlantic Coastal Plain",1,27,36.325,-77.14,6514.5,1,"column","active",1
+123,"Great Dismal Swamp","Atlantic Coastal Plain",1,28,36.408,-76.236,3910.5,1,"column","active",1
+124,"Albemarle Sound-Alligator River","Atlantic Coastal Plain",1,29,35.984,-76.069,15681.1,1,"column","active",1
+125,"Pungo Lake","Atlantic Coastal Plain",1,30,35.72,-76.538,7766.9,1,"column","active",1
+126,"Farmville","Atlantic Coastal Plain",1,31,35.607,-77.559,9752.8,1,"column","active",1
+127,"Inner Coastal Plain","Atlantic Coastal Plain",1,32,35.283,-77.933,15029.5,1,"column","active",1
+128,"Cape Lookout","Atlantic Coastal Plain",1,33,34.608,-76.535,12473.9,1,"column","active",1
+129,"Trenton-columbus-new Egypt","Atlantic Coastal Plain",1,5,40.139,-74.68,3465.4,1,"column","active",1
+130,"Island Beach","Atlantic Coastal Plain",1,6,39.887,-74.084,5799.3,1,"column","active",1
+131,"Gloucester County-Salem County","Atlantic Coastal Plain",1,7,39.666,-75.224,3300.7,1,"column","active",1
+132,"Cape May","Atlantic Coastal Plain",1,8,39.212,-74.733,6998.7,1,"column","active",1
+133,"Chesapeake and Delaware Canal","Atlantic Coastal Plain",1,9,39.7,-75.65,2147.8,1,"column","active",1
+134,"Odessa","Atlantic Coastal Plain",1,10,39.445,-75.641,1854.2,1,"column","active",1
+135,"Deakyneville","Atlantic Coastal Plain",1,11,39.35,-75.533,944.1,1,"column","active",1
+136,"Dover","Atlantic Coastal Plain",1,12,39.134,-75.529,2139.6,1,"column","active",1
+137,"Greenwood","Atlantic Coastal Plain",1,13,38.805,-75.591,4413,1,"column","active",1
+138,"Atlantic Coast","Atlantic Coastal Plain",1,14,38.53,-75.076,5244.6,1,"column","active",1
+139,"Offshore Mid-Atlantic","Atlantic Coastal Plain",1,15,38.493,-73.748,8600.5,1,"column","active",1
+140,"Upper Chesapeake Bay","Atlantic Coastal Plain",1,16,39.114,-76.506,4993.2,1,"column","active",1
+141,"Potomac Estuary","Atlantic Coastal Plain",1,17,38.45,-76.729,4441.5,1,"column","active",1
+142,"Atlantic Coast","Atlantic Coastal Plain",1,18,38.3,-75.316,3788,1,"column","active",1
+143,"Surf City","Atlantic Coastal Plain",1,34,34.43,-77.563,18340.2,1,"column","active",1
+144,"Pedee","Atlantic Coastal Plain",1,35,34.189,-79.512,23749,1,"column","active",1
+145,"Congaree","Atlantic Coastal Plain",1,36,33.901,-80.795,19088.4,1,"column","active",1
+146,"Lower Santee-Edisto","Atlantic Coastal Plain",1,37,32.905,-79.872,27317.8,1,"column","active",1
+147,"Aiken","Atlantic Coastal Plain",1,38,33.492,-81.509,12321.7,1,"column","active",1
+148,"Mcalester Basin Portion of Arkoma Basin","Texas-Oklahoma Tectonic Region",20,4,35.078,-94.951,23990.7,1,"column","active",1
+149,"Northwestern Foothills and Arctic Slope Subsurface","Northern Alaska",8,7,69.847,-159.802,30975.9,1,"column","active",1
+150,"Northeastern Foothills and Phillip Smith Mountains Quadrangle","Northern Alaska",8,8,68.973,-153.516,13834.2,1,"column","active",1
+151,"North Central Foothills and Subsurface","Northern Alaska",8,9,68.887,-148.905,19714.1,1,"column","active",1
+152,"Romanzof - British Mountains","Northern Alaska",8,10,69.046,-142.446,22714.6,1,"column","active",1
+153,"Nuka Ridge Allochthon","Northern Alaska",8,11,68.794,-159.956,10898.3,1,"column","active",1
+154,"Ipnavik Allochthon","Northern Alaska",8,12,68.374,-156.7,38626.1,1,"column","active",1
+155,"Kelly River Allochthon","Northern Alaska",8,13,68.209,-162.729,60407.5,1,"column","active",1
+156,"Garrett County, Maryland","Northern Appalachians",9,12,39.561,-79.25,5804.1,1,"column","active",1
+157,"Arkansas Basin Portion of Arkoma Basin","Texas-Oklahoma Tectonic Region",20,5,35.525,-92.895,46089.7,1,"column","active",1
+158,"Central Southern Oklahoma and Southwestern Oklahoma, Southern Oklahoma Fold","Texas-Oklahoma Tectonic Region",20,6,34.261,-97.495,23283.9,1,"column","active",1
+159,"Cooke and Grayson Counties, Texas, Southern Oklahoma Folded Belt","Texas-Oklahoma Tectonic Region",20,7,33.45,-96.971,21134.2,1,"column","active",1
+160,"Bend Arch","Texas-Oklahoma Tectonic Region",20,8,32.623,-99.445,18948.2,1,"column","active",1
+161,"Fort Worth Basin","Texas-Oklahoma Tectonic Region",20,9,33.363,-98.07,19960,1,"column","active",1
+162,"Strawn Basin","Texas-Oklahoma Tectonic Region",20,10,32.033,-98.366,15134.7,1,"column","active",1
+163,"Llano Uplift","Texas-Oklahoma Tectonic Region",20,11,31.133,-98.741,20869.6,1,"column","active",1
+164,"Kerr Basin","Texas-Oklahoma Tectonic Region",20,12,30.3,-99.416,22138.2,1,"column","active",1
+165,"Arkansas and Louisiana Portion of Ouachita Tectonic Belt","Texas-Oklahoma Tectonic Region",20,13,34.266,-93.383,33655.5,1,"column","active",1
+166,"Oklahoma Portion of Ouachita Tectonic Belt","Texas-Oklahoma Tectonic Region",20,14,34.333,-95.458,18744.6,1,"column","active",1
+167,"Waco Uplift Portion of Ouachita Tectonic Belt","Texas-Oklahoma Tectonic Region",20,15,31.85,-97.116,23759,1,"column","active",1
+168,"Devils River Uplift Portion of Ouachita Tectonic Belt","Texas-Oklahoma Tectonic Region",20,16,29.658,-100.378,28588.3,1,"column","active",1
+169,"Black Warrior Basin Prentiss County, Mississippi","Texas-Oklahoma Tectonic Region",20,17,34.633,-88.541,19764.8,1,"column","active",1
+170,"Black Warrior Basin Oktibbeha County, Mississippi","Texas-Oklahoma Tectonic Region",20,18,33.445,-88.875,19926,1,"column","active",1
+171,"Black Warrior Basin Cullman County, Alabama","Texas-Oklahoma Tectonic Region",20,19,34.23,-87.02,7606.7,1,"column","active",1
+172,"Jackson County (formerly Washabaugh County), South Dakota","Northern Mid-Continent",12,1,43.516,-102.758,23881.4,1,"column","active",1
+173,"Brule County, South Dakota","Northern Mid-Continent",12,2,43.659,-99.176,36089.5,1,"column","active",1
+174,"Brown County, South Dakota","Northern Mid-Continent",12,3,45.575,-98.178,33812.8,1,"column","active",1
+175,"Kittson County, Minnesota","Northern Mid-Continent",12,4,48.83,-96.841,36352.9,1,"column","active",1
+176,"Union County, South Dakota","Northern Mid-Continent",12,5,42.916,-96.716,11721.6,1,"column","active",1
+177,"Minnehaha County, South Dakota","Northern Mid-Continent",12,6,43.69,-96.646,21138.6,1,"column","active",1
+178,"Minnesota River Valley, Big Stone to Nicollet Counties, Minnesota","Northern Mid-Continent",12,7,44.767,-95.423,36116.7,1,"column","active",1
+179,"Stearns County, Minnesota","Northern Mid-Continent",12,8,45.616,-94.377,25895.1,1,"column","active",1
+180,"Crow Wing County, Minnesota","Northern Mid-Continent",12,9,46.633,-94.091,31876.1,1,"column","active",1
+181,"Rainy Lake District, Koochiching County, Minnesota","Northern Mid-Continent",12,10,48.483,-93.1,12214.5,1,"column","active",1
+182,"West Vermillion District, St. Louis - Lake Counties, Minnesota","Northern Mid-Continent",12,11,47.883,-91.716,22368.4,1,"column","active",1
+183,"Cook County, Minnesota","Northern Mid-Continent",12,12,47.845,-90.428,23246.2,1,"column","active",1
+184,"Pine - Carlton Counties, Minnesota","Northern Mid-Continent",12,13,46.415,-92.678,27698.4,1,"column","active",1
+185,"Freeborn County, Minnesota","Northern Mid-Continent",12,14,43.7,-92.85,34919,1,"column","active",1
+186,"Grant County, Wisconsin","Northern Mid-Continent",12,15,42.783,-90.49,24422.5,1,"column","active",1
+187,"Baraboo District, Sauk County, Wisconsin","Northern Mid-Continent",12,16,43.233,-89.756,18140.9,1,"column","active",1
+188,"Fond Du Lac County, Wisconsin","Northern Mid-Continent",12,17,43.361,-88.35,23226.1,1,"column","active",1
+189,"Wausau-wisconsin Rapids Area, Marathon-Wood Counties, Wisconsin","Northern Mid-Continent",12,18,44.541,-89.333,20613.4,1,"column","active",1
+190,"Flambeau and Rusk Counties, Wisconsin","Northern Mid-Continent",12,19,45.566,-90.986,28051.3,1,"column","active",1
+191,"Davis Hill Area Bayfield County, Wisconsin","Northern Mid-Continent",12,20,46.408,-90.74,13790.8,1,"column","active",1
+192,"Gogebic Range, Gogebic County, Michigan","Northern Mid-Continent",12,21,46.366,-89.682,13468.9,1,"column","active",1
+193,"Watersmeet Area, Gogebic County, Michigan","Northern Mid-Continent",12,22,46.207,-89.039,11111.6,1,"column","active",1
+194,"Amasa Oval, Iron County, Michigan","Northern Mid-Continent",12,23,46.347,-88.191,8274.8,1,"column","active",1
+195,"Marquette District, Marquette County, Michigan","Northern Mid-Continent",12,24,46.578,-87.64,22234.2,1,"column","active",1
+196,"Central Dickinson County, Michigan","Northern Mid-Continent",12,25,46.034,-87.813,11090.3,1,"column","active",1
+197,"Mountain-amberg Area, Oconto-marinette Counties, Wisconsin","Northern Mid-Continent",12,26,45.213,-88.224,16597.6,1,"column","active",1
+198,"Cuyama Valley","Southern California",18,1,35.005,-119.853,2735.4,1,"column","active",1
+199,"Santa Maria","Southern California",18,2,34.916,-120.483,4602.6,1,"column","active",1
+200,"Central Santa Ynez Mountains","Southern California",18,3,34.523,-119.949,8542.3,1,"column","active",1
+201,"Fillmore","Southern California",18,4,34.416,-118.958,1941.8,1,"column","active",1
+202,"Oxnard","Southern California",18,5,34.199,-119.186,8364,1,"column","active",1
+203,"Ridge Basin","Southern California",18,6,34.668,-118.656,1420.3,1,"column","active",1
+204,"Soledad Basin","Southern California",18,7,34.453,-118.453,3128.3,1,"column","active",1
+205,"San Fernando - Santa Susana Mountains","Southern California",18,8,34.303,-118.525,1433.8,1,"column","active",1
+206,"Central Santa Monica Mountains","Southern California",18,9,34.082,-118.714,3173.6,1,"column","active",1
+207,"Palos Verdes Hills","Southern California",18,10,33.755,-118.332,7070.8,1,"column","active",1
+208,"Northern Santa Ana Mountains","Southern California",18,11,33.817,-117.684,2380.3,1,"column","active",1
+209,"Southern Santa Ana Mountains","Southern California",18,12,33.556,-117.524,3263.9,1,"column","active",1
+210,"Picnic Creek Allochthon","Northern Alaska",8,14,68.272,-159.508,13025.5,1,"column","active",1
+211,"Western Endicott Allochthon","Northern Alaska",8,15,68.198,-154.416,9780.2,1,"column","active",1
+212,"Ekokpuk Syncline","Northern Alaska",8,16,67.758,-152.784,13451.4,1,"column","active",1
+213,"Savioyuk Syncline","Northern Alaska",8,17,67.482,-151.723,13119.1,1,"column","active",1
+214,"Northern San Diego Embayment","Southern California",18,13,33.166,-117.283,3893.1,1,"column","active",1
+215,"Central San Diego Embayment","Southern California",18,14,32.866,-117.15,3535.1,1,"column","active",1
+216,"Southern San Diego Embayment","Southern California",18,15,32.566,-117.016,2346.5,1,"column","active",1
+217,"Peninsular Range","Southern California",18,16,33.128,-116.741,3663.5,1,"column","active",1
+218,"Cortez/tanner Banks","Southern California",18,17,32.69,-118.92,10910.9,1,"column","active",1
+219,"Corona","Southern California",18,18,33.911,-117.531,1772.3,1,"column","active",1
+220,"Elsinor/temecula","Southern California",18,19,33.549,-117.087,2715.5,1,"column","active",1
+221,"San Jacinto/Santa Rosa Mountains","Southern California",18,20,33.637,-116.5,4458.5,1,"column","active",1
+222,"Mecca Hills/Orocopia Mountains","Southern California",18,21,33.57,-115.85,6195.7,1,"column","active",1
+223,"Eagle/Pinto Mountains","Southern California",18,22,33.937,-115.699,10640.2,1,"column","active",1
+224,"Cajon Pass","Southern California",18,23,34.337,-117.472,3047.7,1,"column","active",1
+225,"Big Bear","Southern California",18,24,34.216,-116.858,4479.3,1,"column","active",1
+226,"Victorville","Southern California",18,25,34.512,-117.328,1998.6,1,"column","active",1
+227,"Kramer","Southern California",18,26,34.98,-117.47,9886.6,1,"column","active",1
+228,"Barstow","Southern California",18,27,34.89,-116.92,5942.8,1,"column","active",1
+229,"Hector","Southern California",18,28,34.8,-116.389,6949.9,1,"column","active",1
+230,"Old Dad Mountains","Southern California",18,29,34.846,-115.804,8294.7,1,"column","active",1
+231,"Mescal Range-Providence Mountains","Southern California",18,30,35.433,-115.333,17192.9,1,"column","active",1
+232,"Centerville Beach","Northern California",10,1,40.557,-124.349,5425.8,1,"column","active",1
+233,"Scotia Bluffs","Northern California",10,2,40.446,-124.093,6428.5,1,"column","active",1
+234,"East of Mccloud River","Northern California",10,3,41.245,-121.943,16057.8,1,"column","active",1
+235,"West of Mccloud River","Northern California",10,4,41.108,-122.554,3938.4,1,"column","active",1
+236,"Yreka","Northern California",10,5,41.723,-122.635,12799.4,1,"column","active",1
+237,"Central Metamorphic Belt","Northern California",10,6,40.804,-123.519,5773.8,1,"column","active",1
+238,"North Fork","Northern California",10,7,40.761,-123.15,2018.8,1,"column","active",1
+239,"Hayfork","Northern California",10,8,40.57,-123.131,4880.4,1,"column","active",1
+240,"Rattlesnake","Northern California",10,9,40.748,-122.85,2136.6,1,"column","active",1
+241,"Kalmiopsis","Northern California",10,10,41.975,-123.927,13084.5,1,"column","active",1
+242,"Berkeley Hills","Northern California",10,18,37.834,-122.204,933.7,1,"column","active",1
+243,"Western Contra Costa County","Northern California",10,19,37.976,-122.317,1540.4,1,"column","active",1
+244,"Merced River","Northern California",10,11,37.438,-120.574,5456.3,1,"column","active",1
+245,"Tuolumne River","Northern California",10,12,37.704,-120.431,4932.2,1,"column","active",1
+246,"Mokelumne River to Placerville Area","Northern California",10,13,38.508,-120.99,5611.7,1,"column","active",1
+247,"Sonora Area","Northern California",10,14,38.049,-120.335,10635.5,1,"column","active",1
+248,"Bowman Lake","Northern California",10,15,39.405,-120.689,9100.1,1,"column","active",1
+249,"Taylorsville","Northern California",10,16,40.078,-120.904,11459.2,1,"column","active",1
+250,"Taylorsville East","Northern California",10,17,40.065,-120.467,14608.9,1,"column","active",1
+251,"Mount Diablo North Fork","Northern California",10,20,37.939,-121.931,469.9,1,"column","active",1
+252,"Mount Diablo South Flank","Northern California",10,21,37.789,-121.848,1324.2,1,"column","active",1
+253,"Suisun Bay","Northern California",10,22,38.091,-122.079,1078.2,1,"column","active",1
+254,"Montezuma","Northern California",10,23,38.11,-121.81,1345,1,"column","active",1
+255,"Tracy","Northern California",10,24,37.706,-121.39,3748.5,1,"column","active",1
+256,"San Joaquin East","Northern California",10,25,37.988,-120.985,3097.1,1,"column","active",1
+257,"Clarksburg","Northern California",10,26,38.408,-121.498,3801.5,1,"column","active",1
+258,"Ord Bend","Northern California",10,27,39.591,-122.283,12126.4,1,"column","active",1
+259,"Northwest","Northern California",10,28,40.26,-122.48,7731.6,1,"column","active",1
+260,"Putah Creek","Northern California",10,29,38.532,-121.964,5309.7,1,"column","active",1
+261,"Roseburg Area","Northwest",14,1,43.25,-122.859,18218.9,1,"column","active",1
+262,"Cape Blanco Area","Northwest",14,2,42.772,-124.391,6896.4,1,"column","active",1
+263,"Coos Bay Area","Northwest",14,3,43.428,-124.201,5785.6,1,"column","active",1
+264,"Reedsport (subsurface)","Northwest",14,4,43.818,-124.078,5638.2,1,"column","active",1
+265,"Eugene Area","Northwest",14,5,44.081,-123.083,10943.2,1,"column","active",1
+266,"Central Coastal Range","Northwest",14,6,44.611,-123.896,7756.4,1,"column","active",1
+267,"Mcminnville Sheridan Area","Northwest",14,7,45.094,-123.256,6480.7,1,"column","active",1
+268,"Oregon City, Molalla Area","Northwest",14,8,45.243,-122.579,14386.1,1,"column","active",1
+269,"Astoria Area","Northwest",14,9,46.094,-123.868,6919.9,1,"column","active",1
+270,"Columbia County Area","Northwest",14,10,45.933,-123.162,5686.5,1,"column","active",1
+271,"Eastern Endicott Mountains Allochthon","Northern Alaska",8,18,68.296,-151.695,9064.5,1,"column","active",1
+272,"Mount Doonerak","Northern Alaska",8,19,67.907,-150.633,9718.1,1,"column","active",1
+273,"Hub Mountain","Northern Alaska",8,20,67.389,-159.922,32917.2,1,"column","active",1
+274,"Southern Wiseman Quadrangle","Northern Alaska",8,22,67.048,-150.095,20481.2,1,"column","active",1
+275,"South Flank Willapa Hills","Northwest",14,11,46.49,-123.501,3055.1,1,"column","active",1
+276,"Grays Harbor Basin","Northwest",14,12,46.991,-123.693,5873.5,1,"column","active",1
+277,"Centralia - Chehalis Area","Northwest",14,13,46.658,-122.876,7210.7,1,"column","active",1
+278,"Western Olympic Peninsula","Northwest",14,14,47.46,-124.226,5730.2,1,"column","active",1
+279,"Northwest Olympic Peninsula","Northwest",14,15,48.158,-124.495,5364.4,1,"column","active",1
+280,"Northeast Olympic Peninsula","Northwest",14,16,48.025,-123.034,9314.6,1,"column","active",1
+281,"Bremerton Area","Northwest",14,17,47.565,-122.724,6699.7,1,"column","active",1
+282,"Seattle Area","Northwest",14,18,47.695,-121.158,17505.1,1,"column","active",1
+283,"Carbon River Area","Northwest",14,19,47.071,-121.953,12662.8,1,"column","active",1
+284,"Bellingham Area","Northwest",14,20,48.723,-122.32,9060.3,1,"column","active",1
+285,"Pasco - Yakima - Ellensburg Area, Washington","Northwest",14,21,46.568,-119.951,35401.1,1,"column","active",1
+286,"Columbia River - the Dalles Area, Oregon-washington","Northwest",14,22,45.634,-120.864,20500.8,1,"column","active",1
+287,"Bend - Madras - Ochoco Mountains, Oregon","Northwest",14,23,44.334,-120.942,22632.7,1,"column","active",1
+288,"Survey Pass Composite","Northern Alaska",8,21,67.707,-154.909,24727.2,1,"column","active",1
+289,"Lakeview - Fort Rock - Klamath Falls, Oregon","Northwest",14,24,42.788,-120.91,30789,1,"column","active",1
+290,"John Day - Suplee, Central Oregon","Northwest",14,25,44.252,-119.248,27239.7,1,"column","active",1
+291,"Harney Basin to Steens Mountains, South-Central Oregon","Northwest",14,26,43.051,-118.883,24273.2,1,"column","active",1
+292,"Pullman, Wa. to Snake River Gorge, Wa. Or Id.","Northwest",14,27,46.556,-117.199,34511.4,1,"column","active",1
+293,"Baker County and Wallowa Mountains, Oregon","Northwest",14,28,44.995,-117.394,31115.2,1,"column","active",1
+294,"Juntura - Vale - Owyhee Dam, Oregon","Northwest",14,29,43.709,-117.498,24289.3,1,"column","active",1
+295,"Boise Basin, Idaho","Northwest",14,30,43.56,-115.92,24178.5,1,"column","active",1
+296,"Allegany County, Maryland","Northern Appalachians",9,13,39.676,-78.678,5979.3,1,"column","active",1
+297,"Washington County, Maryland","Northern Appalachians",9,14,39.696,-77.995,4416.3,1,"column","active",1
+298,"North-central Ohio","Northern Appalachians",9,15,40.608,-82.741,13089.8,1,"column","active",1
+299,"East-central Ohio","Northern Appalachians",9,16,40.577,-81.293,13232.7,1,"column","active",1
+300,"Southwestern Pennsylvania","Northern Appalachians",9,17,40.528,-79.563,17251.1,1,"column","active",1
+301,"South-central Pennsylvania","Northern Appalachians",9,18,40.291,-77.89,12044.4,1,"column","active",1
+302,"Southeastern Pennsylvania","Northern Appalachians",9,19,40.211,-76.97,9633.2,1,"column","active",1
+303,"Northeastern Ohio","Northern Appalachians",9,20,41.306,-81.633,18497.6,1,"column","active",1
+304,"Northwest Pennsylvania","Northern Appalachians",9,21,41.673,-79.291,20215.5,1,"column","active",1
+305,"North-central Pennsylvania","Northern Appalachians",9,22,41.643,-77.32,20502.5,1,"column","active",1
+306,"Northeast Pennsylvania","Northern Appalachians",9,23,41.543,-75.2,11981.7,1,"column","active",1
+307,"Eastern Pennsylvania","Northern Appalachians",9,24,40.961,-75.81,11732.2,1,"column","active",1
+308,"Northwestern New Jersey","Northern Appalachians",9,25,40.686,-74.875,2982.2,1,"column","active",1
+309,"Green Pond Mountain Region, New Jersey","Northern Appalachians",9,26,40.993,-74.537,4577.9,1,"column","active",1
+310,"Western New York","Northern Appalachians",9,27,42.583,-78.623,18733.5,1,"column","active",1
+311,"West-central New York","Northern Appalachians",9,28,42.96,-77.033,26811.3,1,"column","active",1
+312,"East-central New York","Northern Appalachians",9,29,43.116,-75.778,24062,1,"column","active",1
+313,"Eastern New York","Northern Appalachians",9,30,42.561,-74.3,10773,1,"column","active",1
+314,"Southeastern New York","Northern Appalachians",9,31,41.824,-74.159,6315.5,1,"column","active",1
+315,"Adirondack Mountains and Champlain Valley","Northeast United States",11,1,43.913,-74.3,18419.4,1,"column","active",1
+316,"Yukon-Koyukuk Basin","Southern Alaska",16,1,64.971,-158.131,91531.1,1,"column","active",1
+317,"Northern Kuskokwim Mountains","Southern Alaska",16,2,64.914,-153.326,46643.3,1,"column","active",1
+318,"Southwest Alaska Range, Farewell Area","Southern Alaska",16,3,62.24,-154.033,65616.2,1,"column","active",1
+319,"North Central Alaska, Range Healy Area","Southern Alaska",16,4,64.533,-149.97,31099.5,1,"column","active",1
+320,"Northeast Alaska Range, North of Denali Fault Mount Hayes Quadrangle","Southern Alaska",16,5,64.323,-147.925,14906.2,1,"column","active",1
+321,"West Central Alaska Range, McKinley Area","Southern Alaska",16,6,62.986,-151.935,36917.9,1,"column","active",1
+322,"Kanektok River","Southern Alaska",16,7,59.571,-161.016,111482,1,"column","active",1
+323,"Tikchik Lakes","Southern Alaska",16,8,60.23,-159.341,75593.2,1,"column","active",1
+324,"Boulder Mountains Wood River and Central Pioneer Mountains, Central Idaho","Northern Rockies",13,1,44.15,-114.353,26877.2,1,"column","active",1
+325,"White Knob Mountains, Lost River and Lemhi Range, Central Idaho","Northern Rockies",13,2,44.375,-113.48,25030,1,"column","active",1
+326,"Pend Oreille Lake Boundary County, Idaho Pandandle","Northern Rockies",13,3,48.608,-116.541,16978.6,1,"column","active",1
+327,"St. Joe - St. Maries River, Idaho Pandandle","Northern Rockies",13,4,47.349,-116.35,22760.9,1,"column","active",1
+328,"Libby - Thompson Falls Area, Northwestern Montana","Northern Rockies",13,5,47.931,-115.392,25221.8,1,"column","active",1
+329,"Glacier National Park Area, Northwestern Montana","Northern Rockies",13,6,48.544,-113.834,13493.5,1,"column","active",1
+330,"Southern Disturbed Belt, Northwestern Montana","Northern Rockies",13,7,47.316,-112.728,18357.9,1,"column","active",1
+331,"Missoula (pe, Te, Q Only), Drummond - Helena Area, Central Western Montana","Northern Rockies",13,8,46.435,-112.899,27302.2,1,"column","active",1
+332,"Butte - Bozeman and South, Southwestern Montana","Northern Rockies",13,9,45.435,-112.118,29450.6,1,"column","active",1
+333,"West Flank Sweetgrass Arch and Disturbed Belt, Northwest Montana","Northern Rockies",13,10,48.181,-112.762,18458.6,1,"column","active",1
+334,"East Flank Sweetgrass Arch and Disturbed Belt, Northwest Montana","Northern Rockies",13,11,48.432,-110.888,27289.6,1,"column","active",1
+335,"Central Montana Uplift","Northern Rockies",13,12,46.516,-109.553,40610.8,1,"column","active",1
+336,"Blaine-valley Northwest Basin","Northern Rockies",13,13,48.375,-108.616,28264.7,1,"column","active",1
+337,"Garfield County North Basin","Northern Rockies",13,14,47.266,-106.961,43154.7,1,"column","active",1
+338,"Roosevelt County West Basin","Northern Rockies",13,15,48.583,-104.933,22908,1,"column","active",1
+339,"Cedar Creek Anticline Southwest Basin","Northern Rockies",13,16,46.209,-105.365,40685.4,1,"column","active",1
+340,"Billings County Central Basin","Northern Rockies",13,17,47.279,-103.421,21013.7,1,"column","active",1
+341,"Williams County Nesson Anticline","Northern Rockies",13,18,48.383,-102.95,39055.2,1,"column","active",1
+342,"Burleigh County East Basin","Northern Rockies",13,19,47.246,-100.575,36781.9,1,"column","active",1
+343,"Bottineau County Northeast Basin","Northern Rockies",13,20,48.849,-100.8,22995.6,1,"column","active",1
+344,"Cavalier County Northeast Edge","Northern Rockies",13,21,48.566,-98.001,30736.2,1,"column","active",1
+345,"Dickey County Southeast Edge","Northern Rockies",13,22,46.741,-98.056,37620.6,1,"column","active",1
+346,"Adams and Harding Counties, Southwest Basin","Northern Rockies",13,23,46.266,-102.95,26650.5,1,"column","active",1
+347,"Pennington County Northern Black Hills","Northern Rockies",13,24,44.95,-102.878,27250.6,1,"column","active",1
+348,"Dewey County East Basin (south)","Northern Rockies",13,25,45.4,-100.34,42115.6,1,"column","active",1
+349,"Talladega Slate Belt, Alabama","Piedmont-Blue Ridge",15,1,33.233,-86.041,9362.8,1,"column","active",1
+350,"Northern Georgia Piedmont","Piedmont-Blue Ridge",15,2,33.783,-85.083,5020.9,1,"column","active",1
+351,"Georgia Blue Ridge","Piedmont-Blue Ridge",15,3,34.771,-84.391,11136,1,"column","active",1
+352,"Great Smoky Mountains South of and Above Greenbriar Fault","Piedmont-Blue Ridge",15,4,35.449,-83.532,8972.7,1,"column","active",1
+353,"Great Smoky Mountains, North of and Below Greenbriar Fault","Piedmont-Blue Ridge",15,5,35.735,-83.118,8196.2,1,"column","active",1
+354,"Grandfather Mountain Window, North Carolina","Piedmont-Blue Ridge",15,6,36.166,-81.183,7846,1,"column","active",1
+355,"Blue Ridge Thrust Sheet North and West of Grandfather Mountain Window, Nort","Piedmont-Blue Ridge",15,7,35.941,-81.433,15033.2,1,"column","active",1
+356,"Blue Ridge Anticlinorium, Virginia-maryland","Piedmont-Blue Ridge",15,8,38.911,-77.866,2894.8,1,"column","active",1
+357,"Western Maryland Piedmont and Frederick Valley","Piedmont-Blue Ridge",15,9,39.476,-77.336,4576.9,1,"column","active",1
+358,"York - Lancaster Valley and Mine Ridge Area, Pennsylvania","Piedmont-Blue Ridge",15,10,40.041,-75.953,6150.5,1,"column","active",1
+359,"Delaware Valley - Pennsylvania - New Jersey","Piedmont-Blue Ridge",15,11,40.431,-75.111,3780.8,1,"column","active",1
+360,"Pine Mountain Window, Alabama - Georgia","Piedmont-Blue Ridge",15,12,32.961,-84.823,7527.7,1,"column","active",1
+361,"Southern Alabama Piedmont","Piedmont-Blue Ridge",15,13,32.862,-85.428,5519.3,1,"column","active",1
+362,"Middle, Georgia Piedmont","Piedmont-Blue Ridge",15,14,33.496,-84.695,4127.6,1,"column","active",1
+363,"Atlanta Area, Georgia","Piedmont-Blue Ridge",15,15,33.847,-84.38,11291.8,1,"column","active",1
+364,"Central and Western South Carolina Slate Belt","Piedmont-Blue Ridge",15,16,34.192,-82.465,25403.5,1,"column","active",1
+365,"North Carolina Slate Belt","Piedmont-Blue Ridge",15,17,35.49,-79.672,26945.6,1,"column","active",1
+366,"Piedmont and Eastern Blue Ridge, Central and Southern Virginia","Piedmont-Blue Ridge",15,18,37.716,-78.811,14634.7,1,"column","active",1
+367,"Northern and Central Virginia Piedmont","Piedmont-Blue Ridge",15,19,38.577,-77.664,4957,1,"column","active",1
+368,"Eastern Maryland Piedmont","Piedmont-Blue Ridge",15,20,39.483,-76.736,4241.1,1,"column","active",1
+369,"Western Vermont","Northeast United States",11,2,44.07,-73.23,8570.1,1,"column","active",1
+370,"Taconic Mountains Autochthonous Strata","Northeast United States",11,3,42.826,-73.533,7488.6,1,"column","active",1
+371,"Lower Hudson Valley","Northeast United States",11,4,41.383,-73.791,6151.4,1,"column","active",1
+372,"Western Massachusetts West Side - Berkshire Anticlinorium","Northeast United States",11,5,42.476,-73.22,4599.9,1,"column","active",1
+373,"Northwestern Vermont","Northeast United States",11,6,44.745,-73.1,5639.7,1,"column","active",1
+374,"Southwestern Connecticut","Northeast United States",11,7,41.366,-73.091,12972.3,1,"column","active",1
+375,"Central Connecticut","Northeast United States",11,8,41.781,-72.571,4439.4,1,"column","active",1
+376,"West Limb - Connecticut Valley Synclinorium West Central Massachusetts","Northeast United States",11,9,42.528,-72.806,5621.9,1,"column","active",1
+377,"Central Vermont","Northeast United States",11,10,44.295,-72.63,5747.7,1,"column","active",1
+378,"Northwestern New Hampshire","Northeast United States",11,11,44.86,-71.206,7524,1,"column","active",1
+379,"Bronson Hill Anticlinorium, Massachusetts","Northeast United States",11,12,42.423,-72.158,4434.5,1,"column","active",1
+380,"Western New Hampshire","Northeast United States",11,13,44.078,-71.848,8555.5,1,"column","active",1
+381,"West - Central Maine","Northeast United States",11,14,45.083,-70.553,11814.5,1,"column","active",1
+382,"North - Central Maine","Northeast United States",11,15,46.275,-69.291,15253.9,1,"column","active",1
+383,"Northeastern Maine","Northeast United States",11,16,46.641,-68.296,12425.9,1,"column","active",1
+384,"South - Central New Hampshire","Northeast United States",11,17,43.176,-71.875,9494.2,1,"column","active",1
+385,"Southern Maine","Northeast United States",11,18,43.425,-70.576,24238,1,"column","active",1
+386,"South - Central Maine","Northeast United States",11,19,44.545,-68.611,20879.1,1,"column","active",1
+387,"Southeastern Connecticut","Northeast United States",11,20,41.576,-72.086,8765.8,1,"column","active",1
+388,"Merrimack Synclinorium - Milford Anticline East Central Massachusetts","Northeast United States",11,21,42.333,-71.586,5128,1,"column","active",1
+389,"Eastern Maine","Northeast United States",11,22,44.903,-67.378,18144.3,1,"column","active",1
+390,"Rhode Island","Northeast United States",11,23,41.541,-71.58,15192,1,"column","active",1
+391,"Boston Area","Northeast United States",11,24,42.138,-71.016,22851.5,1,"column","active",1
+392,"East - Central Maine","Northeast United States",11,25,45.261,-69.021,13146.6,1,"column","active",1
+393,"Seward Peninsula","Northern Alaska",8,23,65.468,-163.466,136570.2,1,"column","active",1
+394,"Porcupine River","Northern Alaska",8,24,67.085,-143.374,23572.4,1,"column","active",1
+395,"West Charley River","Northern Alaska",8,25,65.915,-144.125,21481.9,1,"column","active",1
+396,"East Charley River","Northern Alaska",8,26,66.054,-141.526,29079.8,1,"column","active",1
+397,"Yukon River Ot White Mountain","Northern Alaska",8,27,65.882,-147.668,31069.2,1,"column","active",1
+398,"White Mountain to Chena River","Northern Alaska",8,28,65.001,-146.083,19995.6,1,"column","active",1
+399,"Chena River to Shaw Creek Fault","Northern Alaska",8,29,64.666,-144.371,20761.9,1,"column","active",1
+400,"Shaw Creek Fault to Yukon Border","Northern Alaska",8,30,63.645,-141.959,30871.8,1,"column","active",1
+401,"Togiak","Southern Alaska",16,9,59.066,-159.708,19773.8,1,"column","active",1
+402,"Alaska Peninsula, False Pass to Chignik","Southern Alaska",16,10,55.547,-161.187,79781.3,1,"column","active",1
+403,"Alaska Peninsula, Chignik to Wide Bay","Southern Alaska",16,11,56.911,-157.786,72316,1,"column","active",1
+404,"Alaska Peninsula, Wide Bay to Cape Douglas","Southern Alaska",16,12,58.608,-154.716,60931.7,1,"column","active",1
+405,"Cook Inlet","Southern Alaska",16,13,60,-152.508,51479.7,1,"column","active",1
+406,"Talkeetna Mountains","Southern Alaska",16,14,62.327,-148.932,22565.6,1,"column","active",1
+407,"Copper River","Southern Alaska",16,15,62.353,-145.468,21609.9,1,"column","active",1
+408,"Central Alaska Range South of Denali Fault, Wrangallia Terrane","Southern Alaska",16,16,63.175,-147.925,13323.1,1,"column","active",1
+409,"Central Alaska Range South of Denali Fault, Maclaren Terrane","Southern Alaska",16,17,63.34,-145.831,15112.6,1,"column","active",1
+410,"Northern Wrangell Mountains, Nebesna Quadrangle","Southern Alaska",16,18,62.392,-142.418,22192.3,1,"column","active",1
+411,"Southern Wrangell Mountains, Mccarthy Quadrangle","Southern Alaska",16,19,61.217,-141.986,14899.8,1,"column","active",1
+412,"Chugach Mountains, North of Border Ranges Fault","Southern Alaska",16,20,61.743,-146.914,18444.6,1,"column","active",1
+413,"Chugach Mountains South of Border Ranges Fault","Southern Alaska",16,21,60.958,-148.723,34145.5,1,"column","active",1
+414,"Kodiak Island","Southern Alaska",16,22,57.559,-153.397,38226.5,1,"column","active",1
+415,"Prince William Sound and Middleton Island","Southern Alaska",16,23,60.058,-147.196,17264.1,1,"column","active",1
+416,"Katalla District","Southern Alaska",16,24,60.35,-144.178,17789.4,1,"column","active",1
+417,"Kayak Island","Southern Alaska",16,25,59.9,-144.449,8555.8,1,"column","active",1
+418,"Yakataga District","Southern Alaska",16,26,60.221,-142.292,10990.3,1,"column","active",1
+419,"Malaspina District","Southern Alaska",16,27,59.833,-140.533,8637.4,1,"column","active",1
+420,"Yakutat District","Southern Alaska",16,28,59.443,-139.021,11228.3,1,"column","active",1
+421,"Lituya District","Southern Alaska",16,29,58.653,-137.141,14148.2,1,"column","active",1
+422,"Glacier Bay - Chilkat Ridge, Southeast Alaska","Southern Alaska",16,30,59.325,-135.641,12699.5,1,"column","active",1
+423,"Northeastern Chilkat Range, Southeast Alaska","Southern Alaska",16,31,58.622,-135.303,21892.3,1,"column","active",1
+424,"Kuiu - Kupreanof Island, Southeast Alaska","Southern Alaska",16,32,56.738,-133.806,26979.6,1,"column","active",1
+425,"West-central Prince of Wales Island Craig Area, Southeast Alaska","Southern Alaska",16,33,55.683,-133.265,15178,1,"column","active",1
+426,"Southern Prince of Wales Island Hydaburg Area Southeast Alaska","Southern Alaska",16,34,55.094,-132.335,29990.5,1,"column","active",1
+427,"Northern Peninsula - NW Michigan","Midwestern Basins and Arches",6,2,46.373,-85.766,52855.8,1,"column","active",1
+428,"Southern Peninsula - N. Michigan","Midwestern Basins and Arches",6,3,45.238,-84.53,27521.1,1,"column","active",1
+429,"Southern Peninsula - Central Michigan","Midwestern Basins and Arches",6,4,43.825,-84.963,33887,1,"column","active",1
+430,"Southern Peninsula - Sw Michigan","Midwestern Basins and Arches",6,5,42.421,-85.683,26098.6,1,"column","active",1
+431,"Southern Peninsula - S.E. Michigan","Midwestern Basins and Arches",6,6,42.416,-83.803,25142.7,1,"column","active",1
+432,"Northern Arches to Illinois Basin - Northern and Western Illinois","Midwestern Basins and Arches",6,7,41.24,-89.333,42690.2,1,"column","active",1
+433,"Illinois Basin - Southwestern Illinois","Midwestern Basins and Arches",6,8,39.283,-90.323,27448.7,1,"column","active",1
+434,"Illinois Basin - Southeastern Illinois","Midwestern Basins and Arches",6,9,38.646,-88.923,23313,1,"column","active",1
+435,"Illinois Basin - Eastern Illinois","Midwestern Basins and Arches",6,10,39.341,-87.741,26387,1,"column","active",1
+436,"Illinois Basin - Southwestern Indiana","Midwestern Basins and Arches",6,11,38.633,-87.073,11759.3,1,"column","active",1
+437,"Illinois Basin - West-central to South-central Indiana","Midwestern Basins and Arches",6,12,39.425,-86.241,15421.7,1,"column","active",1
+438,"Cincinnati and Kankakee Arches - Southeastern Indiana","Midwestern Basins and Arches",6,13,39.091,-85.333,14293.1,1,"column","active",1
+439,"Cincinnati and Kankakee Arches - Northwestern to East-central Indiana","Midwestern Basins and Arches",6,14,40.816,-86.125,25961,1,"column","active",1
+440,"Michigan Basin-findlay Arch - Northern Indiana","Midwestern Basins and Arches",6,15,41.525,-85.838,18821.5,1,"column","active",1
+441,"Michigan Basin-finlay Arch - Northwestern Ohio","Midwestern Basins and Arches",6,16,41.041,-83.613,13055,1,"column","active",1
+442,"Cincinnati Arch - Central-western Ohio","Midwestern Basins and Arches",6,17,40.45,-84.278,16966.9,1,"column","active",1
+443,"Cincinnati Arch - Southwestern Ohio","Midwestern Basins and Arches",6,18,39.433,-84.116,12679.6,1,"column","active",1
+444,"Illinois Basin-western Kentucky - North of Rough Creek Fault","Midwestern Basins and Arches",6,19,37.795,-86.836,9360,1,"column","active",1
+445,"Illinois Basin-western Kentucky - South of Rough Creek Fault","Midwestern Basins and Arches",6,20,37.467,-87.558,14356.6,1,"column","active",1
+446,"Illinois Basin-western Kentucky - South of Pennyrile Fault","Midwestern Basins and Arches",6,21,36.806,-87.5,11712.1,1,"column","active",1
+447,"Cumberland Saddle - South Central Kentucky","Midwestern Basins and Arches",6,22,37.116,-85.62,14594.3,1,"column","active",1
+448,"Jessamine Dome-cincinnati Arch West Flank - West Central Kentucky","Midwestern Basins and Arches",6,23,37.841,-85.966,11902.1,1,"column","active",1
+449,"Jessamine Dome-cincinnati Arch Central - Central Kentucky","Midwestern Basins and Arches",6,24,38.487,-84.473,11210.1,1,"column","active",1
+450,"Jessamine Dome-cincinnati Arch East Flank - East Central Kentucky","Midwestern Basins and Arches",6,25,37.641,-84.406,14622.9,1,"column","active",1
+451,"Nashville Dome Area - West Central Kentucky","Midwestern Basins and Arches",6,26,35.916,-88.016,17712.9,1,"column","active",1
+452,"Nashville Dome Area - Central Tennessee","Midwestern Basins and Arches",6,27,36.03,-86.753,12938.7,1,"column","active",1
+453,"Nashville Dome Area - East Central Tennessee","Midwestern Basins and Arches",6,28,35.53,-86.003,9610.5,1,"column","active",1
+454,"Nashville Dome Area - Northwestern Alabama","Midwestern Basins and Arches",6,29,34.963,-87.379,10350,1,"column","active",1
+455,"Northwestern Nevada, Humboldt and Washoe Counties","Great Basin",4,1,41.458,-119.041,27105.7,1,"column","active",1
+456,"Winnemucca-battle Mountain Area, Nevada","Great Basin",4,2,40.711,-118.241,32141.6,1,"column","active",1
+457,"Reno Area, Nevada","Great Basin",4,3,39.21,-119.558,24743.7,1,"column","active",1
+458,"Central and Northern Esmeralda County and Southeastern Mineral County, Neva","Great Basin",4,4,38.231,-117.713,24012.7,1,"column","active",1
+459,"Inyo and White Mountains, California","Great Basin",4,5,37.3,-118.223,25531.5,1,"column","active",1
+460,"Milligan-wood River-copper Basin Allochthons Central Idaho","Great Basin",4,6,43.233,-114.666,17563.1,1,"column","active",1
+461,"Mountain City, Nevada to Twin Falls, Idaho","Great Basin",4,7,42.186,-115.945,26235.3,1,"column","active",1
+462,"Elko Area, Nevada","Great Basin",4,8,40.99,-115.9,33541.8,1,"column","active",1
+463,"Eureka Area, Nevada","Great Basin",4,9,39.155,-117,34258,1,"column","active",1
+464,"Death Valley, California","Great Basin",4,10,36.453,-116.92,27369.8,1,"column","active",1
+465,"Ely Area, Nevada","Great Basin",4,11,38.895,-114.645,22986.6,1,"column","active",1
+466,"Pioche Area, Nevada","Great Basin",4,12,37.78,-114.558,18636.4,1,"column","active",1
+467,"Northwest Las Vegas, Basin Area, Sheep, Las Vegas, and Arrow Canyon","Great Basin",4,13,36.42,-115.434,17943,1,"column","active",1
+468,"Las Vegas Shelf Area, Nevada (Frenchman, Muddy, Mormon, and Virgin Mtns)","Great Basin",4,14,36.333,-114.65,21898.7,1,"column","active",1
+469,"Albion Range, Idaho - Raft River Range, Utah","Great Basin",4,15,41.95,-113.756,21498.9,1,"column","active",1
+470,"Lakeside, Grassy, Newfoundland, Terrace, and Hogup Ranges, Utah","Great Basin",4,16,41.136,-113.396,15269.8,1,"column","active",1
+471,"Deep Creek Mountains, Utah","Great Basin",4,17,40.025,-113.903,14877.4,1,"column","active",1
+472,"Needle and Northern Wah Wah Ranges, Utah","Great Basin",4,18,38.08,-113.778,6882.7,1,"column","active",1
+473,"Star Range and Mineral Mountains, Utah","Great Basin",4,19,38.341,-112.973,10016.7,1,"column","active",1
+474,"Confusion and House Ranges, Utah","Great Basin",4,20,38.91,-113.675,8202.2,1,"column","active",1
+475,"Fish Springs, Thomas, Keg, and Drum Mountains, Utah","Great Basin",4,21,39.741,-113.716,8516,1,"column","active",1
+476,"Pocatello - Preston Area, Southeastern Idaho","Great Basin",4,22,42.71,-112.311,26556.2,1,"column","active",1
+477,"Northern Wasatch Allochthon, Utah","Great Basin",4,23,41.705,-111.593,11327,1,"column","active",1
+478,"East Tintic Mountains, Utah","Great Basin",4,24,40.003,-112.025,6611.7,1,"column","active",1
+479,"Canyon and Pavant Ranges, Utah","Great Basin",4,25,39.178,-112.25,12418.1,1,"column","active",1
+480,"Oquirrh Mountains,  Utah","Great Basin",4,26,40.554,-112.298,9958.7,1,"column","active",1
+481,"Central Wasatch Autochthon, Utah","Great Basin",4,27,40.98,-111.616,7023.6,1,"column","active",1
+482,"Southern Wasatch Allochthon, Utah","Great Basin",4,28,40.246,-111.536,6278.1,1,"column","active",1
+483,"Marysvale Area, Utah","Great Basin",4,29,38.392,-112.108,28187,1,"column","active",1
+484,"Southwestern Utah","Great Basin",4,30,37.3,-113.578,18677.3,1,"column","active",1
+485,"Uinta Mountains, Utah","Great Basin",4,31,40.859,-109.202,10870.9,1,"column","active",1
+486,"Absaroka and Washakie Ranges","Central-Southern Rockies",3,2,43.6,-109.836,15866.5,1,"column","active",1
+487,"Yellowstone Volcanic Area","Central-Southern Rockies",3,1,44.513,-110.578,27618,1,"column","active",1
+488,"Estancia Basin","Central-Southern Rockies",3,30,35.463,-106.076,44986.1,1,"column","active",1
+489,"San Juan Basin","Central-Southern Rockies",3,29,35.896,-108.068,35096.5,1,"column","active",1
+490,"Black Mesa Basin","Central-Southern Rockies",3,28,35.951,-109.905,42252.4,1,"column","active",1
+491,"Plateau Province","Central-Southern Rockies",3,27,36.03,-112.18,56023.5,1,"column","active",1
+492,"Sierra Grande Uplift","Central-Southern Rockies",3,26,36.646,-103.595,37855.4,1,"column","active",1
+493,"Las Vegas - Raton Basin","Central-Southern Rockies",3,25,37.283,-104.148,30837.3,1,"column","active",1
+494,"San Juan Mountain Uplift","Central-Southern Rockies",3,24,37.506,-106.77,34945.3,1,"column","active",1
+495,"Paradox Basin","Central-Southern Rockies",3,23,37.891,-109.395,46264.3,1,"column","active",1
+496,"South Park Basin","Central-Southern Rockies",3,22,38.716,-105.525,27994.8,1,"column","active",1
+497,"Eastern Denver Basin","Central-Southern Rockies",3,21,39.641,-103.333,36189.3,1,"column","active",1
+498,"Western Denver Basin","Central-Southern Rockies",3,20,40.255,-104.566,28567.5,1,"column","active",1
+499,"Eagle Basin","Central-Southern Rockies",3,19,38.888,-106.58,23263,1,"column","active",1
+500,"Piceance Basin","Central-Southern Rockies",3,18,38.967,-107.8,28924.1,1,"column","active",1
+501,"Eastern Unita Basin","Central-Southern Rockies",3,17,40.144,-109.262,22166.6,1,"column","active",1
+502,"Western Uinta Basin","Central-Southern Rockies",3,16,40.245,-110.82,20528.2,1,"column","active",1
+503,"Hanna and Laramie Basins","Central-Southern Rockies",3,15,41.586,-105.528,23106.4,1,"column","active",1
+504,"Rocks Springs Uplift","Central-Southern Rockies",3,13,41.143,-108.081,21622.7,1,"column","active",1
+505,"Green River Basin","Central-Southern Rockies",3,12,41.783,-109.208,16005.5,1,"column","active",1
+506,"Great Divide and Washakie Basins","Central-Southern Rockies",3,14,41.65,-106.911,19214.5,1,"column","active",1
+507,"Thrust Belt and Fossil Basin","Central-Southern Rockies",3,11,41.611,-110.711,13340.6,1,"column","active",1
+508,"Laramie Mountains","Central-Southern Rockies",3,10,42.193,-104.245,30410.2,1,"column","active",1
+509,"Granite Mountains Uplift and Shirley Basin","Central-Southern Rockies",3,9,42.05,-106.493,21201.2,1,"column","active",1
+510,"Wind River Range and Wind River Basin","Central-Southern Rockies",3,8,42.986,-108.398,17355.1,1,"column","active",1
+511,"Teton and Gros Ventre Ranges","Central-Southern Rockies",3,7,42.78,-110.618,18066.8,1,"column","active",1
+512,"Black Hills","Central-Southern Rockies",3,6,43.949,-104.206,35648.7,1,"column","active",1
+513,"Bighorn Mountains","Central-Southern Rockies",3,5,44.414,-107.029,40996.2,1,"column","active",1
+514,"Owl Creek Mountains","Central-Southern Rockies",3,4,43.579,-108.382,12729.5,1,"column","active",1
+515,"Bighorn Basin","Central-Southern Rockies",3,3,44.761,-108.706,26704.3,1,"column","active",1
+516,"Maverick Basin","Gulf Coast",5,1,28.423,-99.851,40984.7,1,"column","active",1
+517,"South Texas","Gulf Coast",5,2,27.403,-98.25,79418.9,1,"column","active",1
+518,"Southeast Texas","Gulf Coast",5,3,30.286,-94.72,64848.6,1,"column","active",1
+519,"San Marcos Arch","Gulf Coast",5,4,29.44,-97.925,52922.2,1,"column","active",1
+520,"East Basin Texas (east)","Gulf Coast",5,5,30.972,-96.442,37427.6,1,"column","active",1
+521,"East Texas Basin (east)","Gulf Coast",5,6,32.86,-94.66,37051.1,1,"column","active",1
+522,"Sabine Uplift Northwest Louisiana East Texas","Gulf Coast",5,7,31.608,-93.5,19560.6,1,"column","active",1
+523,"North Louisiana Syncline Northwest Louisiana Southwest Arkansas","Gulf Coast",5,8,32.26,-92.98,20642.3,1,"column","active",1
+524,"Monroe Uplift Northeast Louisiana Southeast Arkansas West Central Mississip","Gulf Coast",5,9,32.63,-91.61,47200.9,1,"column","active",1
+525,"Toledo Bend Flexure Central Louisiana","Gulf Coast",5,10,31.04,-92.66,40317.4,1,"column","active",1
+526,"Gulf Coast Basin South Louisiana","Gulf Coast",5,11,29.67,-90.88,63277.4,1,"column","active",1
+527,"Central Mississippi Uplift and Southern Flank Newton County, Mississippi","Gulf Coast",5,12,32.515,-89.287,24836.4,1,"column","active",1
+528,"Mississippi Salt Basin Wayne County, Mississippi","Gulf Coast",5,13,31.632,-88.921,18244.2,1,"column","active",1
+529,"Wiggins Arch Jackson County, Mississippi","Gulf Coast",5,14,30.48,-88.86,34981.3,1,"column","active",1
+530,"Composite Outcrop Section, Southwest Alabama","Gulf Coast",5,15,31.87,-87.96,16870.6,1,"column","active",1
+531,"Mobile County Alabama","Gulf Coast",5,16,30.974,-88.198,8593.3,1,"column","active",1
+532,"Mobile Bay Alabama","Gulf Coast",5,17,30.37,-87.67,14109.7,1,"column","active",1
+533,"Covington County Alabama","Gulf Coast",5,18,31.1,-86.63,13759.9,1,"column","active",1
+534,"Barbour County Alabama","Gulf Coast",5,19,32.25,-85.41,10980.9,1,"column","active",1
+535,"Houston County Alabama","Gulf Coast",5,20,31.224,-85.292,11540.7,1,"column","active",1
+536,"Western Coastal Plain, Georgia","Gulf Coast",5,21,31.88,-84.71,10206.8,1,"column","active",1
+537,"Gulf Trough","Gulf Coast",5,22,31.12,-84.11,15758.7,1,"column","active",1
+538,"Southwestern Georgia Coastal Plain and Eastern Panhandle of Florida","Gulf Coast",5,23,30.45,-83.6,36699.5,1,"column","active",1
+539,"Southeastern Georgia Coastal Plain and Northeastern Florida","Gulf Coast",5,24,30.837,-82.109,41813.1,1,"column","active",1
+540,"Altamaha River Area","Gulf Coast",5,25,31.95,-82.34,17268.4,1,"column","active",1
+541,"Lower Savannah River Area","Gulf Coast",5,26,32.69,-81.85,19483.6,1,"column","active",1
+542,"Upper Coastal Plain, Central Georgia","Gulf Coast",5,27,32.64,-83.46,21449.4,1,"column","active",1
+543,"Western Panhandle of Florida","Gulf Coast",5,28,30.73,-86.92,12477.1,1,"column","active",1
+544,"Central Panhandle of Florida","Gulf Coast",5,29,30.73,-85.83,23362.3,1,"column","active",1
+545,"Central Peninsular Florida","Gulf Coast",5,30,28.1,-81.55,79274.3,1,"column","active",1
+546,"Southern Florida","Gulf Coast",5,31,26.124,-80.82,67927.3,1,"column","active",1
+547,"Western Santa Clara County","Central California",2,1,37.346,-121.921,2203.2,1,"column","active",1
+548,"Petaluma - Santa Rosa","Central California",2,2,38.372,-122.695,5400.4,1,"column","active",1
+549,"Point Arena","Central California",2,3,38.911,-123.593,10123.9,1,"column","active",1
+550,"Ben Lomond","Central California",2,4,37.069,-122.104,2402.2,1,"column","active",1
+551,"La Honda","Central California",2,5,37.322,-122.272,723.2,1,"column","active",1
+552,"Pigeon Point","Central California",2,6,37.235,-122.404,1117.1,1,"column","active",1
+553,"Pilarcitos","Central California",2,7,37.528,-122.4,2035.4,1,"column","active",1
+554,"Point Reyes","Central California",2,8,38.083,-122.908,3438.4,1,"column","active",1
+555,"Indians Ranch","Central California",2,9,36.078,-121.456,4839,1,"column","active",1
+556,"Indian and Shell Creeks, La Panza Range","Central California",2,10,35.389,-120.288,1986.2,1,"column","active",1
+557,"Santa Margarita / Atascadero","Central California",2,11,35.458,-120.676,4782.8,1,"column","active",1
+558,"Carmel Valley","Central California",2,12,36.482,-121.741,3055.7,1,"column","active",1
+559,"San Juan Bautista","Central California",2,13,36.83,-121.496,2816.2,1,"column","active",1
+560,"Bolado Park","Central California",2,14,36.685,-121.282,3008.7,1,"column","active",1
+561,"Vallecitos / Panoche Hills","Central California",2,15,36.551,-120.728,4476.1,1,"column","active",1
+562,"Priest Valley - Coalinga","Central California",2,16,36.179,-120.49,3189.6,1,"column","active",1
+563,"North Kettleman Hills","Central California",2,17,36.094,-120.134,1975.9,1,"column","active",1
+564,"Orchard Peak","Central California",2,18,35.756,-120.147,1511.9,1,"column","active",1
+565,"Avenal - Devil","Central California",2,19,35.618,-119.955,1190.2,1,"column","active",1
+566,"Lost Hills - Belridge","Central California",2,20,35.575,-119.706,740.7,1,"column","active",1
+567,"Cymric - Railroad Gap","Central California",2,21,35.308,-119.607,1151.5,1,"column","active",1
+568,"Elk Hills","Central California",2,22,35.248,-119.392,944.4,1,"column","active",1
+569,"Midway - Sunset","Central California",2,23,35.03,-119.22,2286.3,1,"column","active",1
+570,"Wheeler Ridge","Central California",2,24,34.99,-118.89,1310.2,1,"column","active",1
+571,"Tejon","Central California",2,25,34.98,-118.66,2186.5,1,"column","active",1
+572,"Edison / Mountain View","Central California",2,26,35.246,-118.69,8980.6,1,"column","active",1
+573,"Bakersfield Arch","Central California",2,27,35.441,-119.191,5188.3,1,"column","active",1
+574,"Trico","Central California",2,28,35.72,-119.63,4156,1,"column","active",1
+575,"Helm/Riverdale","Central California",2,29,36.503,-119.93,12067.1,1,"column","active",1
+576,"Southern Hudson Bay","Southeastern Canada",22,2,55.168,-87.152,143246.8,1,"column","active",2
+577,"Northern Hudson Bay","Southeastern Canada",22,1,64.062,-84.821,151562.3,1,"column","active",2
+580,"Paleozoic Outliers: Clearwater Lake","Southeastern Canada",22,5.01,50.113,-77.066,49298.4,1,"column","active",2
+582,"Bruce Peninsula","Southeastern Canada",22,7,44.868,-81.324,23175.1,1,"column","active",2
+586,"Grand Banks","Southeastern Canada",22,64.01,44.43,-52.899,42403.5,1,"column","active",2
+587,"Grand Banks","Southeastern Canada",22,64.02,45.786,-50.257,93234.8,1,"column","active",2
+588,"Northern Avalon Peninsula","Southeastern Canada",22,63,47.586,-53.373,30126.6,1,"column","active",2
+589,"Bonavista Bay","Southeastern Canada",22,62,48.533,-53.546,37388.2,1,"column","active",2
+592,"Sutton Mountians","Southeastern Canada",22,13,45.087,-72.63,3862.8,1,"column","active",2
+593,"Memphremagog Lake","Southeastern Canada",22,14,45.053,-72.194,3915.2,1,"column","active",2
+594,"Sherbrooke","Southeastern Canada",22,15,45.429,-71.929,5411.8,1,"column","active",2
+597,"Montmagny-Thetford Mines","Southeastern Canada",22,18,46.384,-70.914,8540.9,1,"column","active",2
+598,"Lake Aylmer-Gould","Southeastern Canada",22,19,45.809,-71.323,4084.2,1,"column","active",2
+599,"Stoney Lake, Newfoundland","Southeastern Canada",22,61,48.793,-57.313,12603,1,"column","active",2
+600,"Springdale, Newfoundland","Southeastern Canada",22,60,49.518,-56.18,7412,1,"column","active",2
+601,"Burlington Peninsula","Southeastern Canada",22,59,49.961,-55.909,9771.4,1,"column","active",2
+602,"West Side White Bay","Southeastern Canada",22,58,50.071,-56.776,5778.3,1,"column","active",2
+603,"Canada Bay - Coastal Lowlands","Southeastern Canada",22,57,50.841,-56.079,4450,1,"column","active",2
+604,"Hare Bay - Long Range Mtns","Southeastern Canada",22,56,51.34,-55.89,11335,1,"column","active",2
+605,"Hawke Bay  Port Au Choix","Southeastern Canada",22,55,50.609,-57.226,13028.3,1,"column","active",2
+606,"St. Marys Bay","Southeastern Canada",22,54,47.128,-53.725,28395,1,"column","active",2
+607,"southwestern Burin Peninsula","Southeastern Canada",22,53,46.961,-55.855,21132,1,"column","active",2
+608,"Lake St. John","Southeastern Canada",22,21,48.668,-72.014,77352.2,1,"column","active",2
+609,"Temiscouata","Southeastern Canada",22,22,47.706,-68.867,35110.6,1,"column","active",2
+610,"Lake Matapedia","Southeastern Canada",22,23,48.569,-67.565,33211.2,1,"column","active",2
+611,"Woodstock","Southeastern Canada",22,24,46.154,-67.599,12242.7,1,"column","active",2
+612,"Lake Megantic","Southeastern Canada",22,20,45.499,-70.867,5091,1,"column","active",2
+613,"Northeastern Fortune Bay","Southeastern Canada",22,52,47.696,-54.693,10699.8,1,"column","active",2
+614,"Belle Bay","Southeastern Canada",22,51,47.725,-55.328,8329.4,1,"column","active",2
+615,"La Poile Bay-Bay DEspoir","Southeastern Canada",22,50,47.693,-56.446,22862.1,1,"column","active",2
+616,"Flat Bay","Southeastern Canada",22,49,47.863,-59.318,33054.3,1,"column","active",2
+618,"Humber Arm","Southeastern Canada",22,47,48.937,-57.968,5250.5,1,"column","active",2
+619,"Bonne Bay","Southeastern Canada",22,46,49.583,-57.935,5369.6,1,"column","active",2
+620,"Southeastern Cape Breton Island","Southeastern Canada",22,45,45.784,-60.398,20728.5,1,"column","active",2
+621,"Central and Northeastern Cape Breton Island","Southeastern Canada",22,44,46.624,-60.36,16826.2,1,"column","active",2
+622,"Western Cape Breton Island","Southeastern Canada",22,43,46.605,-61.054,27912.5,1,"column","active",2
+623,"Merigomish Antigonish","Southeastern Canada",22,42,45.627,-62.338,11655.9,1,"column","active",2
+624,"Merigomish Antigonish","Southeastern Canada",22,42.01,45.553,-62.042,8712.6,1,"column","active",2
+625,"Hayesville","Southeastern Canada",22,25,46.495,-66.485,11806,1,"column","active",2
+626,"St. Andrews-Plesant Mt.","Southeastern Canada",22,26,45.073,-67.045,9598.2,1,"column","active",2
+627,"Eastern Cobequid MTNS.","Southeastern Canada",22,41,45.68,-63.415,18209.3,1,"column","active",2
+628,"Northern Cobequid MTNS.","Southeastern Canada",22,40,45.804,-63.821,11673.1,1,"column","active",2
+629,"Chignecto Bay","Southeastern Canada",22,39,45.804,-64.555,7193.8,1,"column","active",2
+630,"Lower Saint John River","Southeastern Canada",22,27,45.26,-66.087,9710.2,1,"column","active",2
+631,"Western Novia Scotia","Southeastern Canada",22,28,44.42,-65.281,37661.1,1,"column","active",2
+632,"Southern Nova Scotia, Scotian Shelf","Southeastern Canada",22,29,45.02,-62.247,18433.6,1,"column","active",2
+634,"Forillon Peninsula","Southeastern Canada",22,31,48.871,-64.286,21872.4,1,"column","active",2
+635,"Mt. Albert","Southeastern Canada",22,32,49.101,-65.533,36473.1,1,"column","active",2
+636,"East and Central Gaspe","Southeastern Canada",22,33,48.789,-64.874,5649.9,1,"column","active",2
+637,"Moncton, N.B. Price Edward Island","Southeastern Canada",22,38,46.192,-64.603,14905.8,1,"column","active",2
+638,"Sussex-Petitcodiac","Southeastern Canada",22,37,45.815,-65.368,8706.4,1,"column","active",2
+639,"Central and East New Brunswick","Southeastern Canada",22,36,46.161,-66.219,7406.2,1,"column","active",2
+640,"Bay of Chaleur, Northern New Brunswick","Southeastern Canada",22,35,48.005,-66.653,17315.5,1,"column","active",2
+641,"Southern Gaspe","Southeastern Canada",22,34,48.149,-65.17,17542.8,1,"column","active",2
+748,"Yellowknife","Canadian Shield",21,1,62.456,-114.351,79789.6,1,"column","active",2
+749,"Tumi Lake","Canadian Shield",21,2,63.196,-116.839,31631.2,1,"column","active",2
+750,"Baler, Indin Lakes","Canadian Shield",21,3,64.002,-117.303,16787,1,"column","active",2
+751,"Arseno, Mesa, Grant Lakes","Canadian Shield",21,4,64.99,-117.751,30599.9,1,"column","active",2
+752,"Port Radium to Artic Coast","Canadian Shield",21,5,67.053,-118.455,78079.5,1,"column","active",2
+753,"Point Lake to Coppermine","Canadian Shield",21,6,67.538,-113.812,85334.1,1,"column","active",2
+754,"Contwoyto Lake to Kent Peninsula","Canadian Shield",21,7,66.73,-110.334,107542.4,1,"column","active",2
+755,"Victoria Island","Canadian Shield",21,8,71.098,-115.858,87643.2,1,"column","active",2
+756,"East Arm Great Slave Lake","Canadian Shield",21,9,62.904,-109.367,75979.2,1,"column","active",2
+757,"Thelon River, Baker Lake","Canadian Shield",21,10,64.419,-97.469,151523,1,"column","active",2
+758,"Back River, Chantrey Inlet","Canadian Shield",21,11,67.223,-96.11,113333.8,1,"column","active",2
+759,"Boothia Peninsula","Canadian Shield",21,12,71.781,-94.738,49983.5,1,"column","active",2
+760,"Wager Bay","Canadian Shield",21,13,65.892,-90.565,210314.9,1,"column","active",2
+761,"Henik Lake","Canadian Shield",21,14,61.536,-97.798,175195.9,1,"column","active",2
+762,"Snowbird Lake","Canadian Shield",21,15,60.468,-103.182,182090,1,"column","active",2
+763,"Nonacho Great Slave Lake","Canadian Shield",21,16,62.795,-107.493,133818,1,"column","active",2
+764,"Uranium City","Canadian Shield",21,17,59.504,-108.323,128313.3,1,"column","active",2
+765,"Amisk, Wildnest Lakes","Canadian Shield",21,18,54.645,-103.296,89130.9,1,"column","active",2
+766,"Flin-Flon","Canadian Shield",21,19,54.768,-101.881,33536.4,1,"column","active",2
+767,"Lynn Lake, Granville Lake","Canadian Shield",21,20,56.534,-100.906,87516.5,1,"column","active",2
+768,"Thompson, Moak Lake","Canadian Shield",21,21,55.746,-97.893,94827.7,1,"column","active",2
+769,"Cape Smith, Wakham Bay","Canadian Shield",21,22,61.144,-74.836,282089.4,1,"column","active",2
+770,"Schefferville","Canadian Shield",21,23,54.947,-67.006,220768.5,1,"column","active",2
+771,"Richmond Gulf","Canadian Shield",21,24,56.247,-76.352,197740.3,1,"column","active",2
+772,"Belcher Islands","Canadian Shield",21,25,56.416,-79.251,140732.8,1,"column","active",2
+773,"Southern Baffin Island","Canadian Shield",21,26,65.656,-69.643,394119,1,"column","active",2
+774,"Northern Baffin Island","Canadian Shield",21,27,71.811,-79.157,88429,1,"column","active",2
+775,"Cross, Gods Lakes","Canadian Shield",21,28,54.611,-97.762,63762.8,1,"column","active",2
+776,"Island Lake","Canadian Shield",21,29,53.834,-94.605,109836.3,1,"column","active",2
+777,"Rice Lake-Lac Du Bonnet","Canadian Shield",21,30,50.338,-95.991,60370.2,1,"column","active",2
+778,"Birch, Uchi Lakes","Canadian Shield",21,31,51.124,-92.517,109073.4,1,"column","active",2
+779,"Lake of the Woods","Canadian Shield",21,32,49.14,-94.333,28548.4,1,"column","active",2
+780,"Rainy River","Canadian Shield",21,33,48.929,-93.863,12891.5,1,"column","active",2
+781,"Rainy River, EMO","Canadian Shield",21,34,48.803,-92.775,19937.5,1,"column","active",2
+782,"Steep Rock","Canadian Shield",21,35,49.252,-87.915,117460.8,1,"column","active",2
+783,"Port Arthur","Canadian Shield",21,36,48.551,-89.204,41036.9,1,"column","active",2
+784,"Kapuskasing","Canadian Shield",21,37,49.416,-82.433,72573.9,1,"column","active",2
+785,"Porcupine","Canadian Shield",21,38,48.603,-81.279,27988,1,"column","active",2
+786,"Kirkland","Canadian Shield",21,39,48.151,-80.029,16276.4,1,"column","active",2
+787,"Noranda","Canadian Shield",21,40,48.244,-79.022,32719.9,1,"column","active",2
+788,"Malartic","Canadian Shield",21,41,48.946,-76.509,47231.2,1,"column","active",2
+789,"Chibougamau","Canadian Shield",21,42,50.065,-74.366,125553,1,"column","active",2
+790,"Fort George, Eastmain Rivers","Canadian Shield",21,43,52.233,-78.499,83744.8,1,"column","active",2
+791,"Sudbury","Canadian Shield",21,44,46.485,-80.985,16011.4,1,"column","active",2
+792,"Espanola","Canadian Shield",21,45,46.247,-81.766,9905,1,"column","active",2
+793,"Elliot Lake","Canadian Shield",21,46,46.384,-82.652,18787.2,1,"column","active",2
+794,"Bruce Mines","Canadian Shield",21,47,46.302,-83.789,32762,1,"column","active",2
+795,"Eastern Ontario","Canadian Shield",21,48,44.786,-78.788,35480.5,1,"column","active",2
+796,"South Eastern Quebec","Canadian Shield",21,49,45.94,-75.665,29891.6,1,"column","active",2
+797,"Wabush, Mt. Wright","Canadian Shield",21,50,52.919,-66.869,74726.4,1,"column","active",2
+798,"Wakeham Lake","Canadian Shield",21,51,50.779,-63.015,62631.4,1,"column","active",2
+799,"Seal Lake","Canadian Shield",21,52,54.345,-61.747,176404.9,1,"column","active",2
+800,"Northern Labrador","Canadian Shield",21,53,58.665,-63.337,242250.8,1,"column","active",2
+801,"Supplemental Upper Mississippi embayment","Texas-Oklahoma Tectonic Region",20,20,36.429,-89.762,36852.9,1,"column","active",3
+802,"Supplemental Middle Mississippi embayment","Texas-Oklahoma Tectonic Region",20,21,34.685,-90.146,43468.7,1,"column","active",3
+803,"Paleozoic Outliers: Lake Manicouagan","Southeastern Canada",22,5.02,51.351,-68.774,131843.4,1,"column","active",2
+804,"Paleozoic Outliers: Gilmour Lake","Southeastern Canada",22,5.03,45.635,-75.552,3722.7,1,"column","active",2
+805,"Paleozoic Outliers: Clear Lake","Southeastern Canada",22,5.04,45.596,-76.056,26651.4,1,"column","active",2
+806,"Paleozoic Outliers: Mattawa","Southeastern Canada",22,6.05,46.317,-78.708,30348.9,1,"column","active",2
+807,"Paleozoic Outliers: Lake Nipissing","Southeastern Canada",22,6.06,46.417,-79.78,14903.5,1,"column","active",2
+808,"Rockbridge & Botetourt Counties, Virginia - East of Pulaski Fault","Northern Appalachians",9,5.01,37.66,-79.482,5946.8,1,"column","active",1
+809,"Rockingham & Augusta Counties, Virginia - East of North Mtn Fault","Northern Appalachians",9,6.01,38.231,-78.935,4063.7,1,"column","active",1
+810,"Northeast Valley & Ridge, Virginia - East of North Mtn Fault","Northern Appalachians",9,11.01,38.901,-78.292,3479.2,1,"column","active",1
+811,"Southeastern Kentucky: South of Pine Mtn","Southern Appalachians",17,19.01,36.856,-83.208,1315.1,1,"column","active",1
+812,"Washington & Smyth Counties, Virginia: East of Pulaski Fault","Southern Appalachians",17,23.01,36.694,-81.529,3001.6,1,"column","active",1
+813,"Wythe and Pulaski Counties, Virginia: East of Pulaski Fault","Southern Appalachians",17,25.01,36.953,-80.702,5571.5,1,"column","active",1
+814,"Montgomery and Roanoke Counties, Virginia: East of Pulaski Fault","Southern Appalachians",17,26.01,37.19,-80.063,8749.3,1,"column","active",1
+815,"eastern Port Au Port Peninsula","Southeastern Canada",22,48.01,48.551,-58.852,14268.4,1,"column","active",2
+816,"Pistolete Bay - Coastal Lowlands","Southeastern Canada",22,56.01,51.543,-55.692,80906.8,1,"column","active",2
+817,"Canada Bay - Long Range Mtns","Southeastern Canada",22,57.01,50.732,-56.306,4615,1,"column","active",2
+818,"Botwood, Newfoundland","Southeastern Canada",22,60.01,49.137,-55.37,8891.3,1,"column","active",2
+819,"Gander Lake, Newfoundland","Southeastern Canada",22,61.01,48.92,-54.949,16028,1,"column","active",2
+820,"Daniels Bay","Southeastern Canada",22,46.01,50.237,-57.586,4865.6,1,"column","active",2
+825,"Salton Trough, Split Mountain","Southern California",18,31,32.961,-116.002,12531.7,1,"column","active",4
+826,"Mt Roskill","North Island",25,1.01,-36.911,174.728,4941.2,5,"column","active",5
+827,"Orewa drillhole","North Island",25,1.02,-35.576,174.69,3189.9,5,"column","active",5
+828,3,"North Island",25,1.03,-36.428,174.461,4588.5,5,"column","active",5
+829,"Puketotara Peninsula","North Island",25,1.04,-36.264,174.302,2482.9,5,"column","active",5
+830,"Taipuha","North Island",25,1.05,-35.985,174.28,2360.2,5,"column","active",5
+831,"South Whangarei Harbour","North Island",25,1.06,-35.839,174.365,1100.6,5,"column","active",5
+832,"Kamo","North Island",25,1.07,-35.706,174.358,552.8,5,"column","active",5
+833,"Hikurangi","North Island",25,1.08,-35.581,174.268,972.3,5,"column","active",5
+834,"Paiaka","North Island",25,1.09,-35.528,174.149,647.9,5,"column","active",5
+835,"Maromaku","North Island",25,1.1,-35.48,174.075,1086.1,5,"column","active",5
+836,"Kawakawa","North Island",25,1.11,-35.405,174.05,1222.5,5,"column","active",5
+837,"Pakaraka","North Island",25,1.12,-35.361,173.942,2145.3,5,"column","active",5
+838,"Omahuta","North Island",25,1.13,-35.213,173.638,3111.8,5,"column","active",5
+839,"Northland-1","North Island",25,1.14,-35.108,173.451,2163.9,5,"column","active",5
+840,"Lake Heather","North Island",25,1.15,-35.053,173.193,3063.1,5,"column","active",5
+841,"North Cape","North Island",25,1.16,-34.466,172.943,3405.7,5,"column","active",5
+842,"East Kawhia","South Island",26,2.01,-38.111,174.937,1108.9,5,"column","active",5
+843,"Kaniwhaniwha","South Island",26,2.02,-37.937,175.091,728.4,5,"column","active",5
+844,"River Road - 1","South Island",26,2.03,-37.75,175.189,204.9,5,"column","active",5
+845,"Waikato - 1","South Island",26,2.04,-37.701,175.252,802.8,5,"column","active",5
+846,"Orini - 1","South Island",26,2.05,-37.579,175.269,349.4,5,"column","active",5
+847,"Te Hoe","South Island",26,2.06,-37.517,175.274,433,5,"column","active",5
+848,"Kaawa Stream","South Island",26,3.01,-37.528,174.762,2396.3,5,"column","active",5
+849,"Onewhero","South Island",26,3.02,-37.337,174.944,468,5,"column","active",5
+850,"Benneydale","North Island",25,4.01,-38.507,175.387,2431.7,5,"column","active",5
+851,"Te Kuiti","North Island",25,4.02,-38.291,175.176,756.7,5,"column","active",5
+852,"Hangatiki","North Island",25,4.03,-38.234,175.183,362.2,5,"column","active",5
+853,"Tihiroa","North Island",25,4.04,-38.13,175.184,1072.5,5,"column","active",5
+854,"Te Rapa - 1","North Island",25,4.05,-37.751,175.18,197.3,5,"column","active",5
+855,"Pukemiro","North Island",25,4.06,-37.625,175.059,553,5,"column","active",5
+856,"Huntly West","North Island",25,4.07,-37.535,175.111,186.4,5,"column","active",5
+857,"Rangiriri West","North Island",25,4.08,-37.485,175.146,124.7,5,"column","active",5
+858,"Te Kauwhata","North Island",25,4.09,-37.383,175.12,232.2,5,"column","active",5
+859,"Pokeno","North Island",25,4.1,-37.28,175.019,141.5,5,"column","active",5
+860,"Bombey","North Island",25,4.11,-37.2,174.971,288,5,"column","active",5
+861,"Karaka - 1","North Island",25,4.12,-37.121,174.897,1277.9,5,"column","active",5
+862,"Awakino - 1","North Island",25,5.01,-38.558,174.567,381.6,5,"column","active",5
+863,"Awakino Heads","North Island",25,5.02,-38.667,174.631,329.5,5,"column","active",5
+864,"Awakino Tunnel","North Island",25,5.03,-38.614,174.733,809.1,5,"column","active",5
+865,"Waikaka - 1","North Island",25,5.04,-38.713,175.047,766.6,5,"column","active",5
+866,"Koporongo - 1","North Island",25,5.05,-39.108,175.309,1766.6,5,"column","active",5
+867,"Tuapakurua - 1","North Island",25,5.06,-39.182,175.289,1634,5,"column","active",5
+868,"Whanganui River","North Island",25,5.07,-39.765,175.159,1251.9,5,"column","active",5
+869,"Parikino - 1","North Island",25,5.08,-39.801,175.147,1445.7,5,"column","active",5
+870,"Turakina Valley","North Island",25,5.09,-39.826,175.479,1530.8,5,"column","active",5
+871,"Stantiall - 1","North Island",25,5.1,-40.833,175.333,4919.7,5,"column","active",5
+872,"Stantoft - 1","North Island",25,5.11,-40.205,175.207,3538.5,5,"column","active",5
+873,"Otaihanga","South Island",26,6.01,-39.194,174.961,1051.7,5,"column","active",5
+874,"Shakespeare Bay","South Island",26,6.02,-41.283,174,6680.7,5,"column","active",5
+875,"Nelson City comp.","South Island",26,6.03,-41.267,173.283,950.2,5,"column","active",5
+876,"Tahi - 1","North Island",25,7.01,-40.085,174.164,5292.3,5,"column","active",5
+877,"Young - 1","North Island",25,7.02,-40.2,175.5,1389.9,5,"column","active",5
+878,"Mokoia - 1","North Island",25,8.01,-39.661,174.357,324.6,5,"column","active",5
+879,"Manutahi - 1","North Island",25,8.02,-39.685,174.417,1789.8,5,"column","active",5
+880,"Rangitikei Valley","North Island",25,8.03,-39.81,175.79,1602,5,"column","active",5
+881,"Kawhatau Valley","North Island",25,8.04,-39.815,175.955,2640.9,5,"column","active",5
+882,"Ariki - 1","North Island",25,9.01,-38.201,173.698,1423.8,5,"column","active",5
+883,"Tangaroa - 1","North Island",25,9.02,-38.18,173.879,395.3,5,"column","active",5
+884,"Mangaa - 1","North Island",25,9.03,-38.187,174.171,752.8,5,"column","active",5
+885,"Te Ranga - 1","North Island",25,9.04,-38.203,174.632,1739.9,5,"column","active",5
+886,"Toropuihi - 1","North Island",25,10.01,-40.854,171.946,1712.3,5,"column","active",5
+887,"Cook-1","North Island",25,10.02,-40.443,172.283,2572.1,5,"column","active",5
+888,"Kiwa - 1","North Island",25,10.03,-38.811,172.692,1821.8,5,"column","active",5
+889,"Tane - 1","North Island",25,10.04,-38.939,172.639,1184.4,5,"column","active",5
+890,"Wainui - 1","North Island",25,10.05,-38.464,173.308,2130.4,5,"column","active",5
+891,"Kupe South - 5","North Island",25,11.01,-39.847,174.127,232.4,5,"column","active",5
+892,"Kupe South - 4","North Island",25,11.02,-39.847,174.125,671.9,5,"column","active",5
+893,"Kupe - 1","North Island",25,11.03,-39.828,174.127,408.1,5,"column","active",5
+894,"Toru - 1","North Island",25,11.04,-39.722,174.161,600.5,5,"column","active",5
+895,"Ngatoro - 1","North Island",25,11.05,-39.205,174.17,582.7,5,"column","active",5
+896,"Kaimiro - 1","North Island",25,11.06,-39.167,174.153,936.6,5,"column","active",5
+897,"Okoki - 1","North Island",25,11.07,-38.928,174.205,1499.1,5,"column","active",5
+898,"Turi - 1","North Island",25,11.08,-38.493,174.425,786.1,5,"column","active",5
+899,"Kahawai - 1","North Island",25,11.09,-38.304,174.247,871.3,5,"column","active",5
+900,"Tua-Tua - 1","North Island",25,11.1,-37.885,174.099,2050.3,5,"column","active",5
+901,"Kiwa - 1","North Island",25,12.01,-39.811,172.698,3054.6,5,"column","active",5
+902,"Maui - 1","North Island",25,12.02,-39.671,173.31,1013.8,5,"column","active",5
+903,"Maui - 2","North Island",25,12.03,-39.613,173.449,917.2,5,"column","active",5
+904,"Kapuni - 13","North Island",25,12.04,-39.494,174.17,1118.2,5,"column","active",5
+905,"Waihapa - 1","North Island",25,12.05,-39.388,174.372,197.2,5,"column","active",5
+906,"Rotokare - 1","North Island",25,12.06,-39.414,174.403,360.6,5,"column","active",5
+907,"Wingrove - 1","North Island",25,12.07,-39.366,174.401,260.7,5,"column","active",5
+908,"Kiore - 1","North Island",25,12.08,-39.224,174.562,795.8,5,"column","active",5
+909,"Puniwhakau - 1","North Island",25,12.09,-39.318,174.707,1150.9,5,"column","active",5
+910,"Whitianga - 1","North Island",25,12.1,-39.077,174.812,780.9,5,"column","active",5
+911,"Ararimu - 1","North Island",25,12.11,-38.847,175.131,815.6,5,"column","active",5
+912,"Ruby Bay - 1","South Island",26,13.01,-41.236,173.088,1163.6,5,"column","active",5
+913,"Motueka - 1","North Island",25,13.02,-40.524,173.484,1925.9,5,"column","active",5
+914,"Tasman - 1","North Island",25,13.03,-40.315,173.397,1356.7,5,"column","active",5
+915,"North Tasman - 1","North Island",25,13.04,-40.2,173.272,1033.3,5,"column","active",5
+916,"Maui - 4","North Island",25,13.05,-40.04,173.241,939.2,5,"column","active",5
+917,"Moki - 1","North Island",25,13.06,-39.969,173.312,524.9,5,"column","active",5
+918,"Kea - 1","North Island",25,13.07,-39.875,173.339,896,5,"column","active",5
+919,"Maui - 3","North Island",25,13.08,-39.536,173.451,1313.5,5,"column","active",5
+920,"Witiora - 1","North Island",25,13.09,-39.113,173.475,1509.7,5,"column","active",5
+921,"Taimana - 1","North Island",25,13.1,-38.857,173.539,850.5,5,"column","active",5
+922,"Arawa - 1","North Island",25,13.11,-38.804,173.711,1563.5,5,"column","active",5
+923,"Kora - 4","North Island",25,13.12,-38.383,173.859,1322.9,5,"column","active",5
+924,"Te Kumi - 1","North Island",25,13.13,-38.158,173.94,500.2,5,"column","active",5
+925,"Taranga - 1","North Island",25,14.01,-38.975,173.273,1678.3,5,"column","active",5
+926,"Mokau - 1","North Island",25,14.02,-38.718,174.479,624.6,5,"column","active",5
+927,"Pluto - 1","North Island",25,14.03,-38.711,174.525,314.6,5,"column","active",5
+928,"Ohura - 1","North Island",25,14.04,-38.834,174.967,578.1,5,"column","active",5
+929,"Abel Head","South Island",26,15.01,-40.527,172.731,2022.7,5,"column","active",5
+930,"Aorere River","South Island",26,15.02,-40.745,172.654,1123.3,5,"column","active",5
+931,"Rangihaeta Head","South Island",26,15.03,-40.818,172.787,602.8,5,"column","active",5
+932,"Tarahohe","South Island",26,15.04,-40.83,172.906,1380.8,5,"column","active",5
+933,"Surville - 1","South Island",26,15.05,-40.722,173.447,2464,5,"column","active",5
+934,"Kongahu - 1","South Island",26,16.01,-41.248,171.874,1454.1,5,"column","active",5
+935,"Stony Stream","South Island",26,16.02,-41.139,172.112,544.6,5,"column","active",5
+936,"Oparara River","South Island",26,16.03,-41.149,172.186,630.2,5,"column","active",5
+937,"Cuckoo River","South Island",26,16.04,-41.27,172.278,838.8,5,"column","active",5
+938,"Garibaldi Ridge","South Island",26,16.05,-41.213,172.454,661.9,5,"column","active",5
+939,"Slippery Creek","South Island",26,16.06,-41.254,172.492,608.7,5,"column","active",5
+940,"Clarke River","South Island",26,16.07,-41.323,172.716,859.6,5,"column","active",5
+941,"Tapawera - 1","South Island",26,16.08,-41.372,172.815,1658,5,"column","active",5
+942,"Nelson","South Island",26,16.09,-41.285,173.287,1427.1,5,"column","active",5
+943,"Cape Foulwind","South Island",26,17.01,-41.749,171.47,984.5,5,"column","active",5
+944,"Waimangaroa","South Island",26,17.02,-41.727,171.777,1100.5,5,"column","active",5
+945,"Inangahua","South Island",26,17.03,-41.839,171.928,933.2,5,"column","active",5
+946,"Steel Bridge","South Island",26,17.04,-41.787,172.034,653.6,5,"column","active",5
+947,"Limestone Quarry","South Island",26,17.05,-41.765,172.185,519.4,5,"column","active",5
+948,"Sphinx Rock","South Island",26,17.06,-41.78,172.247,365,5,"column","active",5
+949,"Murchison","South Island",26,17.07,-41.774,172.293,435.7,5,"column","active",5
+950,"Mangles Valley","South Island",26,17.08,-41.826,172.402,2186.6,5,"column","active",5
+951,"Haku-1","South Island",26,18.01,-42.208,171.222,802.7,5,"column","active",5
+952,"Greymouth","South Island",26,18.02,-42.444,171.228,486.7,5,"column","active",5
+953,"Stillwater Creek","South Island",26,18.03,-42.404,171.35,287.8,5,"column","active",5
+954,"Notown-1","South Island",26,18.04,-42.446,171.442,870.9,5,"column","active",5
+955,"Ahaura-2","South Island",26,18.05,-42.362,171.56,804.5,5,"column","active",5
+956,"Upper Grey River","South Island",26,18.06,-42.368,171.832,2126.4,5,"column","active",5
+957,"Harihari-1","South Island",26,19.01,-43.114,170.474,2352,5,"column","active",5
+958,"Slate Creek","South Island",26,19.02,-43.02,170.863,793.7,5,"column","active",5
+959,"Mistake Gully","South Island",26,19.03,-42.966,170.92,599.4,5,"column","active",5
+960,"Coral Creek - Ross","South Island",26,19.04,-42.907,170.835,1151.6,5,"column","active",5
+961,"Arahura-1","South Island",26,19.05,-42.728,171.091,546.5,5,"column","active",5
+962,"Kawhaka-1","South Island",26,19.06,-42.717,171.117,636.6,5,"column","active",5
+963,"Kapitea Creek","South Island",26,19.07,-42.638,171.138,281.6,5,"column","active",5
+964,"Taramakau-1","South Island",26,19.08,-42.588,171.13,640.2,5,"column","active",5
+965,"Punakaiki","South Island",26,19.09,-42.075,171.355,447.5,5,"column","active",5
+966,"Fox River","South Island",26,19.1,-42.032,171.382,295.5,5,"column","active",5
+967,"Four Mile River","South Island",26,19.11,-41.97,171.441,443.9,5,"column","active",5
+968,"Charleston","South Island",26,19.12,-41.912,171.443,456.2,5,"column","active",5
+969,"Jackson Bay","South Island",26,20.01,-43.983,168.622,1904.1,5,"column","active",5
+970,"Arnott Point","South Island",26,20.02,-43.717,169.229,1911.7,5,"column","active",5
+971,"Tititira Head","South Island",26,20.03,-43.635,169.432,2227,5,"column","active",5
+972,"Waiho-1","South Island",26,20.04,-43.305,170.04,2954.7,5,"column","active",5
+973,"Madagascar Beach","South Island",26,21.01,-44.456,167.86,2296.3,5,"column","active",5
+974,"Martins Bay","South Island",26,21.02,-44.384,167.957,426.3,5,"column","active",5
+975,"Big Bay (S)","South Island",26,21.03,-44.328,168.04,224.8,5,"column","active",5
+976,"Big Bay (N)","South Island",26,21.04,-44.27,168.082,807,5,"column","active",5
+977,"Hope River","South Island",26,21.05,-44.114,168.353,1266.2,5,"column","active",5
+978,"Whiskey Creek","South Island",26,21.06,-44.01,168.442,666.4,5,"column","active",5
+979,"Alton Burn","South Island",26,22.01,-46.115,167.695,466.6,5,"column","active",5
+980,"Ohai","South Island",26,22.02,-45.922,167.973,2577.2,5,"column","active",5
+981,"Birchwood","South Island",26,22.03,-45.938,167.889,436.9,5,"column","active",5
+982,"Bellmount","South Island",26,22.04,-45.891,167.669,305.4,5,"column","active",5
+983,"Princhester","South Island",26,22.05,-45.584,167.975,646.5,5,"column","active",5
+984,"Northern Takitimus","South Island",26,22.06,-45.564,167.926,386.2,5,"column","active",5
+985,"Dale Creek","South Island",26,22.07,-45.482,168.016,1338.1,5,"column","active",5
+986,"Upukerora","South Island",26,22.08,-45.273,168,991.2,5,"column","active",5
+987,"Earl Mts","South Island",26,22.09,-45.035,167.968,1040.1,5,"column","active",5
+988,"Lake Fergus","South Island",26,22.1,-44.971,168.572,5354.6,5,"column","active",5
+989,"Chair Creek","South Island",26,22.11,-44.557,168.153,1805.5,5,"column","active",5
+990,"Parara-1","South Island",26,23.01,-46.625,167.172,5866.6,5,"column","active",5
+991,"Solander-1","South Island",26,23.02,-46.355,167.157,772.4,5,"column","active",5
+992,"Aan River","South Island",26,23.03,-46.231,166.948,361.6,5,"column","active",5
+993,"Poteriteri","South Island",26,23.04,-46.16,167.108,510.2,5,"column","active",5
+994,"Wairaurahiri","South Island",26,23.05,-46.122,167.254,143.6,5,"column","active",5
+995,"Lower Track Burn","South Island",26,23.06,-46.135,167.338,365.3,5,"column","active",5
+996,"Waikoau River","South Island",26,23.07,-46.108,167.338,58.8,5,"column","active",5
+997,"Helmet Hill","South Island",26,23.08,-46.078,167.415,308.5,5,"column","active",5
+998,"Lill Burn","South Island",26,23.09,-45.937,167.438,195.7,5,"column","active",5
+999,"Blackmount","South Island",26,23.1,-45.773,167.651,208.7,5,"column","active",5
+1000,"Monowai","South Island",26,23.11,-45.806,167.586,129.2,5,"column","active",5
+1001,"Forest Burn","South Island",26,23.12,-45.415,167.602,954.7,5,"column","active",5
+1002,"Chalky Island","South Island",26,24.01,-46.045,166.546,3578.9,5,"column","active",5
+1003,"Gulches Head","South Island",26,24.02,-46.052,166.584,1660.9,5,"column","active",5
+1004,"Puysegur Point","South Island",26,24.03,-46.159,166.606,424.6,5,"column","active",5
+1005,"Long Reef Point","South Island",26,24.04,-46.21,166.696,372.5,5,"column","active",5
+1006,"Green Islets West","South Island",26,24.05,-46.219,166.769,523.2,5,"column","active",5
+1007,"Big River","South Island",26,24.06,-46.221,166.914,428.9,5,"column","active",5
+1008,"Rata Burn","South Island",26,24.07,-46.045,167.243,857.8,5,"column","active",5
+1009,"Upper Lil Burn","South Island",26,24.08,-45.917,167.389,593.2,5,"column","active",5
+1010,"Borland Rd","South Island",26,24.09,-45.75,167.491,609.1,5,"column","active",5
+1011,"Waiau Copse","South Island",26,24.1,-45.672,167.632,306.2,5,"column","active",5
+1012,"Manapouri","South Island",26,24.11,-45.548,167.534,2048.2,5,"column","active",5
+1013,"Moonlight Beach","South Island",26,24.12,-45.337,167.703,371.5,5,"column","active",5
+1014,"Doubtful Island","South Island",26,24.13,-45.196,167.689,369.4,5,"column","active",5
+1015,"Stuart Mts.","South Island",26,24.14,-45.095,167.661,3477.8,5,"column","active",5
+1016,"Franklin Mts.","South Island",26,24.15,-44.984,167.82,968.3,5,"column","active",5
+1017,"Tara-1","South Island",26,25.01,-47.318,169.168,8722.7,5,"column","active",5
+1018,"Orepuki","South Island",26,25.02,-46.258,167.749,6183.1,5,"column","active",5
+1019,"Hoiho-1","South Island",26,26.01,-49.615,169.623,1587.6,5,"column","active",5
+1020,"Pukaki-1","South Island",26,26.02,-49.615,170.152,3015.5,5,"column","active",5
+1021,"Pakaha-1","South Island",26,26.03,-49.615,169.549,348.9,5,"column","active",5
+1022,"Toroa-1","South Island",26,26.04,-49.615,169.488,1223.4,5,"column","active",5
+1023,"Wangaloa Domain","South Island",26,27.01,-46.29,169.927,6972.4,5,"column","active",5
+1024,"Takapu-1","South Island",26,27.02,-46.163,170.433,1788.2,5,"column","active",5
+1025,"Brighton","South Island",26,28.01,-45.946,170.203,2533.2,5,"column","active",5
+1026,"Dunedin Composite","South Island",26,28.02,-45.881,170.503,1182.5,5,"column","active",5
+1027,"Kilmog Hill","South Island",26,28.03,-45.706,170.561,1486.1,5,"column","active",5
+1028,"Puketeraki Core","South Island",26,28.04,-45.65,170.65,980.6,5,"column","active",5
+1029,"Shag Point Composite","South Island",26,28.05,-45.53,170.766,945.5,5,"column","active",5
+1030,"Hampden","South Island",26,28.06,-45.308,170.832,2231.7,5,"column","active",5
+1031,"Oamaru Composite","South Island",26,28.07,-45.056,170.997,571.5,5,"column","active",5
+1032,"Oamaru-2","South Island",26,29.01,-45.056,170.998,486.8,5,"column","active",5
+1033,"Waiho River","South Island",26,29.02,-44.801,170.98,2361.2,5,"column","active",5
+1034,"Otaio Gorge","South Island",26,29.03,-44.531,170.928,1933.8,5,"column","active",5
+1035,"Maungati Stream","South Island",26,29.04,-44.453,170.955,257,5,"column","active",5
+1036,"Mt. Horrible","South Island",26,29.05,-44.398,171.033,2008.8,5,"column","active",5
+1037,"Cave","South Island",26,29.06,-44.294,170.954,1829.9,5,"column","active",5
+1038,"Blue Mountain","South Island",26,29.07,-43.894,171.059,1847,5,"column","active",5
+1039,"Boundary Stream","South Island",26,29.08,-43.781,171.19,679.6,5,"column","active",5
+1040,"Coal Creek","South Island",26,29.09,-43.76,171.153,317.2,5,"column","active",5
+1041,"Hinds River North","South Island",26,29.1,-43.696,171.186,760,5,"column","active",5
+1042,"Blands Bluff","South Island",26,29.11,-43.673,171.291,250,5,"column","active",5
+1043,"Champman\'s Creek","South Island",26,29.12,-43.671,171.331,303.1,5,"column","active",5
+1044,"Stavely","South Island",26,29.13,-43.638,171.411,440.9,5,"column","active",5
+1045,"Taylors Street","South Island",26,29.14,-43.6,171.455,117.7,5,"column","active",5
+1046,"Mt Alford","South Island",26,29.15,-43.585,171.482,293.1,5,"column","active",5
+1047,"Curiosity Shop","South Island",26,29.16,-43.558,171.741,647.9,5,"column","active",5
+1048,"Harper Hills","South Island",26,29.17,-43.489,171.958,764.7,5,"column","active",5
+1049,"Bushy Gully","South Island",26,29.18,-43.387,172.135,976.6,5,"column","active",5
+1050,"Woodstock","South Island",26,29.19,-43.278,171.945,608.4,5,"column","active",5
+1051,"Eyre River","South Island",26,29.2,-43.25,172.017,802.2,5,"column","active",5
+1052,"Feary\'s Farm","South Island",26,29.21,-43.292,172.044,159.9,5,"column","active",5
+1053,"Glentui River","South Island",26,29.22,-43.217,172.276,968.8,5,"column","active",5
+1054,"Whiterock Quarry","South Island",26,29.23,-43.16,172.45,406.3,5,"column","active",5
+1055,"Karetu River","South Island",26,29.24,-43.15,172.461,73.9,5,"column","active",5
+1056,"Grey River","South Island",26,29.25,-43.144,172.495,67,5,"column","active",5
+1057,"Waipara River","South Island",26,29.26,-43.016,172.524,1103.2,5,"column","active",5
+1058,"Weka Stream","South Island",26,29.27,-43.009,172.669,1512.2,5,"column","active",5
+1059,"Ormihi Stream","South Island",26,29.28,-43.984,172.785,1709.3,5,"column","active",5
+1060,"Scargill","South Island",26,29.29,-43.98,172.78,602.3,5,"column","active",5
+1061,"Cobbolds Creek","South Island",26,29.3,-42.93,173.046,1480.1,5,"column","active",5
+1062,"Hurunui River","South Island",26,29.31,-42.901,173.098,704.2,5,"column","active",5
+1063,"Gore Bay","South Island",26,29.32,-42.908,173.273,948.8,5,"column","active",5
+1064,"Conway River","South Island",26,29.33,-42.62,173.336,1219.9,5,"column","active",5
+1065,"Haumuri Bluff","South Island",26,29.34,-42.552,173.504,496.4,5,"column","active",5
+1066,"Glenstrae","South Island",26,29.35,-42.545,173.49,154.9,5,"column","active",5
+1067,"Kaikoura Peninsula","South Island",26,29.36,-42.425,173.682,527.8,5,"column","active",5
+1068,"Galleon-1","South Island",26,30.01,-45.489,171.164,1583.8,5,"column","active",5
+1069,"Endeavour-1","South Island",26,30.02,-45.238,171.125,1485.9,5,"column","active",5
+1070,"Clipper-1","South Island",26,30.03,-44.971,171.896,4620.1,5,"column","active",5
+1071,"Resolution-1","South Island",26,30.04,-44.188,172.636,2451.1,5,"column","active",5
+1072,"Charteris Bay","South Island",26,30.05,-43.653,172.71,3102,5,"column","active",5
+1073,"Grey River","South Island",26,30.06,-43.138,172.527,539.5,5,"column","active",5
+1074,"Harper River","South Island",26,31.01,-43.174,171.58,1610.5,5,"column","active",5
+1075,"Redcliffe Hill","South Island",26,31.02,-43.393,171.468,1015.4,5,"column","active",5
+1076,"Rakaia Gorge","South Island",26,31.03,-43.501,171.632,383.4,5,"column","active",5
+1077,"J.D. George-1","South Island",26,31.04,-43.921,171.901,4323.5,5,"column","active",5
+1078,"Clinton River","South Island",26,32.01,-42.269,173.737,500.5,5,"column","active",5
+1079,"Mororimu Stream","South Island",26,32.02,-42.208,173.863,423.6,5,"column","active",5
+1080,"Kawanui Stream","South Island",26,32.03,-42.121,173.911,245.3,5,"column","active",5
+1081,"Deadman Stream","South Island",26,32.04,-42.055,173.956,288.3,5,"column","active",5
+1082,"Woodside Creek","South Island",26,32.05,-41.935,174.055,445.4,5,"column","active",5
+1083,"Needles Point","South Island",26,32.06,-41.873,174.164,304.2,5,"column","active",5
+1084,"Chancet Rocks","South Island",26,32.07,-41.837,174.197,165.8,5,"column","active",5
+1085,"Long Point","South Island",26,32.08,-41.821,174.2,2073.6,5,"column","active",5
+1086,"Te Kau Kau Point","North Island",25,32.09,-41.566,175.445,2644.4,5,"column","active",5
+1087,"Oroi Stream, Tora","North Island",25,32.1,-41.554,175.46,190.8,5,"column","active",5
+1088,"Awheaiti Stream","North Island",25,32.11,-41.514,175.505,999.6,5,"column","active",5
+1089,"Honeycomb Light","North Island",25,32.12,-41.347,175.832,699.4,5,"column","active",5
+1090,"Longbush Stream","North Island",25,32.13,-41.307,175.848,138.9,5,"column","active",5
+1091,"Flat Point","North Island",25,32.14,-41.253,175.918,321.4,5,"column","active",5
+1092,"Belliss\' Quarry","North Island",25,32.15,-40.815,176.159,1339,5,"column","active",5
+1093,"Te Mai Stream","North Island",25,32.16,-40.736,176.191,667.8,5,"column","active",5
+1094,"Pongaroa River","North Island",25,32.17,-40.585,176.235,424.5,5,"column","active",5
+1095,"Glenora Stream","North Island",25,32.18,-40.504,176.409,427.3,5,"column","active",5
+1096,"Angora Stream","North Island",25,32.19,-40.452,176.479,82.6,5,"column","active",5
+1097,"Te Uri Stream","North Island",25,32.2,-40.293,176.446,121.3,5,"column","active",5
+1098,"Tangaruhe Stream","North Island",25,32.21,-40.27,176.443,99,5,"column","active",5
+1099,"Mangawhero Stream","North Island",25,32.22,-40.221,176.463,783.4,5,"column","active",5
+1100,"Farm Rd, Waipukarau","North Island",25,32.23,-40.066,176.642,767.7,5,"column","active",5
+1101,"Mangatarata Valley","North Island",25,32.24,-39.981,176.662,860.6,5,"column","active",5
+1102,"New Rangitoto","North Island",25,32.25,-39.966,176.687,694.5,5,"column","active",5
+1103,"Rata Creek","North Island",25,32.26,-39.798,176.852,2151.5,5,"column","active",5
+1104,"Cape Kidnappers","North Island",25,32.27,-39.637,177.076,2013.6,5,"column","active",5
+1105,"Hawke Bay-1","North Island",25,32.28,-39.278,177.329,2161.3,5,"column","active",5
+1106,"Opoutama-1","North Island",25,32.29,-39.064,177.815,1107.2,5,"column","active",5
+1107,"Wallow Stream","South Island",26,33.01,-42.261,173.349,1777.1,5,"column","active",5
+1108,"Upper Seymour River","South Island",26,33.02,-42.279,173.428,468.2,5,"column","active",5
+1109,"Cribb Creek","South Island",26,33.03,-42.384,173.488,316.2,5,"column","active",5
+1110,"Penk River","South Island",26,34.01,-41.833,173.728,1834.2,5,"column","active",5
+1111,"Medway River","South Island",26,34.02,-41.866,173.802,437.3,5,"column","active",5
+1112,"Mead Stream","South Island",26,34.03,-41.962,173.799,366.3,5,"column","active",5
+1113,"Coverham","South Island",26,34.04,-41.965,173.861,160.8,5,"column","active",5
+1114,"Carrington","North Island",25,35.01,-40.991,175.472,1729.3,5,"column","active",5
+1115,"Totara Flats","North Island",25,35.02,-41.115,175.774,895.7,5,"column","active",5
+1116,"Kuamahunga Stream","North Island",25,35.03,-41.139,175.813,146.7,5,"column","active",5
+1117,"Kaiwhata Stream","North Island",25,35.04,-41.136,175.933,557.6,5,"column","active",5
+1118,"Lower Kaiwahata River","North Island",25,35.05,-41.187,175.939,351.7,5,"column","active",5
+1119,"Wanganui Basin","North Island",25,36.01,-40.294,175.8,1594.6,5,"column","active",5
+1120,"Totara - Otawhao Rd","North Island",25,36.02,-40.353,176.028,1029.2,5,"column","active",5
+1121,"Puketoi Range","North Island",25,36.03,-40.415,176.167,281.7,5,"column","active",5
+1122,"Waipatiki-2","North Island",25,36.04,-40.389,176.248,127.8,5,"column","active",5
+1123,"Waipatiki-1","North Island",25,36.05,-40.379,176.268,174.2,5,"column","active",5
+1124,"Akitio River","North Island",25,36.06,-40.365,176.315,168.8,5,"column","active",5
+1125,"Tawanui","North Island",25,36.07,-40.382,176.377,101.2,5,"column","active",5
+1126,"Wainui River","North Island",25,36.08,-40.44,176.47,83.3,5,"column","active",5
+1127,"Whangaehu Beach","North Island",25,36.09,-40.394,176.638,801.8,5,"column","active",5
+1128,"Cape Turnagain","North Island",25,36.1,-40.493,176.595,546.8,5,"column","active",5
+1129,"Ruatahuna","North Island",25,37.01,-38.618,176.939,1613.3,5,"column","active",5
+1130,"Waikaremoana","North Island",25,37.02,-38.703,177.063,1518.4,5,"column","active",5
+1131,"Mangapoike River","North Island",25,37.03,-38.902,177.538,1708.3,5,"column","active",5
+1132,"Mangaone-1","North Island",25,37.04,-38.971,177.684,1190,5,"column","active",5
+1133,"Taiporutu Stream","North Island",25,37.05,-39.146,177.94,2023,5,"column","active",5
+1134,"Oponae Stream","North Island",25,38.01,-38.265,177.299,1529.8,5,"column","active",5
+1135,"Te Waka Stream","North Island",25,38.02,-38.253,177.591,1344.4,5,"column","active",5
+1136,"Kirks Clearing","North Island",25,38.03,-38.19,177.686,853.1,5,"column","active",5
+1137,"Mangaotane River","North Island",25,38.04,-38.128,177.775,886.1,5,"column","active",5
+1138,"Kokopumatara St.","North Island",25,38.05,-38.106,177.841,977.4,5,"column","active",5
+1139,"Waitahaia River","North Island",25,38.06,-38.067,177.961,1410.6,5,"column","active",5
+1140,"Whakoau","North Island",25,38.07,-38.068,178.029,500.2,5,"column","active",5
+1141,"Te Matarau Stream","North Island",25,38.08,-38.031,178.169,3683.6,5,"column","active",5
+1142,"Lower Waiau River","North Island",25,38.09,-38.159,178.249,822.2,5,"column","active",5
+1143,"Marau Point","North Island",25,38.1,-38.251,178.324,2444.4,5,"column","active",5
+1144,"Maramarua","North Island",25,39.01,-37.25,175.166,1818.5,5,"column","active",5
+1145,"Keripehi","North Island",25,39.02,-37.301,175.54,4933.9,5,"column","active",5
+1146,"Paeroa","North Island",25,39.03,-37.375,175.667,2322.7,5,"column","active",5
+1147,"Katikati","North Island",25,39.04,-37.531,175.916,1917.1,5,"column","active",5
+1148,"Tauranga","North Island",25,39.05,-37.678,176.138,1195.1,5,"column","active",5
+1149,"Papamoa","North Island",25,39.06,-37.718,176.299,869.8,5,"column","active",5
+1150,"Maketu Basin","North Island",25,39.07,-37.796,176.416,776.9,5,"column","active",5
+1151,"Otamarakau","North Island",25,39.08,-37.836,176.594,930,5,"column","active",5
+1152,"Matata Coast","North Island",25,39.09,-37.885,176.739,1196.5,5,"column","active",5
+1153,"Ohope","North Island",25,39.1,-37.981,177.025,1193.7,5,"column","active",5
+1154,"Ohiwa","North Island",25,39.11,-37.996,177.178,1662.9,5,"column","active",5
+1157,"Western Cuba (Los Organos/Rosario)","Caribbean Islands",27,1,22.26,-84.097,25553.6,7,"column","active",6
+1159,"Western Cuba Bahia Honda (Zaza)","Caribbean Islands",27,2,22.677,-83.285,22930.6,7,"column","active",6
+1161,"Western Cuba (Transitional)","Caribbean Islands",27,3,22.948,-82.167,29796.8,7,"column","active",6
+1163,"Central Cuba (Platform)","Caribbean Islands",27,4,22.438,-80.302,32612.1,7,"column","active",6
+1165,"Cuba South Central (Zaza)","Caribbean Islands",27,5,21.826,-79.231,43600.4,7,"column","active",6
+1167,"Cuba S.E. (Sierra Maestra)","Caribbean Islands",27,6,20.032,-77.12,28785.3,7,"column","active",6
+1169,"Cuba S.E. (Baracoa Purial)","Caribbean Islands",27,7,20.555,-76.073,43482.7,7,"column","active",6
+1171,"Western Jamaica","Caribbean Islands",27,8,18.305,-78.109,6744.4,7,"column","active",6
+1173,"North Central Jamaica","Caribbean Islands",27,9,18.144,-77.33,7940.8,7,"column","active",6
+1175,"Eastern Jamaica","Caribbean Islands",27,10,18.1,-76.71,8198,7,"column","active",6
+1179,"Hispaniola Southern Peninsula (La Hotte)","Caribbean Islands",27,11,18.402,-74.058,11952.2,7,"column","active",6
+1181,"Hispaniola Southern Peninsula (La Selle/Baoruco)","Caribbean Islands",27,12,18.19,-71.745,10840.5,7,"column","active",6
+1183,"Hispaniola Enriquillo/Cul-de_Sac","Caribbean Islands",27,13,18.575,-72.205,9507.2,7,"column","active",6
+1185,"Hispaniola Plateau Central/Valle de San Juanazua","Caribbean Islands",27,14,18.836,-71.611,8126,7,"column","active",6
+1187,"Hispaniola Matheux/Trou d Eau Neiba","Caribbean Islands",27,15,19.175,-72.643,10193.3,7,"column","active",6
+1189,"Hispaniola Massif du Nord Ouest/Montagnes Noires","Caribbean Islands",27,16,19.705,-72.556,14259.2,7,"column","active",6
+1191,"Hispaniola Massif du Nord/Cordillera Central/Oriental","Caribbean Islands",27,17,19.13,-71.041,18116.7,7,"column","active",6
+1193,"Hispaniola Cibao Valley","Caribbean Islands",27,18,18.62,-69.163,22887.4,7,"column","active",6
+1195,"Hispaniola Cordillera Septentrional/Samana","Caribbean Islands",27,19,19.503,-70.219,14660.1,7,"column","active",6
+1197,"North and Northwestern Puerto Rico","Caribbean Islands",27,20,18.352,-66.876,6613.6,7,"column","active",6
+1200,"South Central and Southwestern Puerto Rico","Caribbean Islands",27,21,18.101,-66.538,4545.1,7,"column","active",6
+1202,"Southeastern Puerto Rico and Vieques Island","Caribbean Islands",27,22,18.201,-65.8,5265.5,7,"column","active",6
+1204,"St Thomas and St John/Tortola","Caribbean Islands",27,23,18.347,-64.739,670.5,7,"column","active",6
+1206,"St Croix","Caribbean Islands",27,24,17.735,-64.78,627.1,7,"column","active",6
+1208,"Guadeloupe and Desirade","Caribbean Islands",27,25,16.263,-61.507,2947.1,7,"column","active",6
+1210,"Martinique","Caribbean Islands",27,26,14.644,-60.984,1924.1,7,"column","active",6
+1212,"Barbados","Caribbean Islands",27,27,13.163,-59.559,816.3,7,"column","active",6
+1214,"Tobago and Trinidad Northern Range","Caribbean Islands",27,28,11.215,-60.701,601.3,7,"column","active",6
+1216,"Trinidad Northern Basin","Caribbean Islands",27,29,10.611,-61.28,2781.3,7,"column","active",6
+1218,"Trinidad Central Range","Caribbean Islands",27,30,10.37,-61.25,1962,7,"column","active",6
+1220,"Trinidad Southern Basin","Caribbean Islands",27,31,10.163,-61.444,1764,7,"column","active",6
+1222,"Aruba","Caribbean Islands",27,52,12.514,-69.991,285.1,7,"column","active",6
+1224,"Curacao","Caribbean Islands",27,53,12.185,-69.025,928.7,7,"column","active",6
+1226,"Bonaire","Caribbean Islands",27,54,12.174,-68.251,580.5,7,"column","active",6
+1228,"Los Roques","Caribbean Islands",27,55,11.807,-66.716,928.9,7,"column","active",6
+1230,"La Orchilla","Caribbean Islands",27,56,11.8,-66.128,112.3,7,"column","active",6
+1232,"La Blanquilla","Caribbean Islands",27,57,11.852,-64.6,134.6,7,"column","active",6
+1234,"Margarite and Los Frailes","Caribbean Islands",27,58,10.957,-64.071,1696.8,7,"column","active",6
+1235,"Western Guatemala","Caribbean Mainland",29,32,14.949,-90.914,51338.1,7,"column","active",7
+1237,"East Central Guatemala","Caribbean Mainland",29,33,16.084,-89.852,25876.6,7,"column","active",7
+1239,"Belize Northern Guatemala","Caribbean Mainland",29,34,17.102,-89.123,78608.6,7,"column","active",7
+1241,"Motagua Valley","Caribbean Mainland",29,35,15.287,-89.06,25277.3,7,"column","active",7
+1243,"SE Guatemala","Caribbean Mainland",29,36,14.218,-90.103,35744.6,7,"column","active",7
+1245,"El Salvador","Caribbean Mainland",29,37,13.568,-88.75,46656,7,"column","active",7
+1247,"Western and Central Honduras","Caribbean Mainland",29,38,14.812,-87.82,57292.6,7,"column","active",7
+1249,"E. Honduras and E. Nicaragua","Caribbean Mainland",29,39,14.846,-84.61,75652.4,7,"column","active",7
+1251,"NW Nicaragua","Caribbean Mainland",29,40,13.419,-86.284,48682.5,7,"column","active",7
+1253,"Nicaragua Rise Inner Shelf","Caribbean Mainland",29,41,13.946,-83.761,35069.9,7,"column","active",6
+1255,"Nicaragua Rise Outer Shelf","Caribbean Mainland",29,42,12.929,-83.453,36492.7,7,"column","active",6
+1257,"Southwestern Nicaragua (Pacific Provinces)","Caribbean Mainland",29,43,12.062,-86.107,56000.9,7,"column","active",6
+1259,"Northwestern and South Central Costa Rica","Caribbean Mainland",29,44,10.074,-84.821,34550.3,7,"column","active",6
+1261,"Central Valley of Costa Rica","Caribbean Mainland",29,45,10.004,-84.214,15758.4,7,"column","active",6
+1263,"Terraba-Chiriqui Basin","Caribbean Mainland",29,46,8.82,-82.882,49062.1,7,"column","active",6
+1265,"Limon-Bocas del Toro Basin","Caribbean Mainland",29,47,9.604,-83.035,22801.1,7,"column","active",6
+1267,"Northern Costa Rica","Caribbean Mainland",29,48,10.533,-83.753,30399.1,7,"column","active",6
+1269,"Central Panama","Caribbean Mainland",29,49,8.696,-80.271,80015.4,7,"column","active",6
+1271,"Basins of the Darien","Caribbean Mainland",29,50,8.437,-77.966,62887.5,7,"column","active",6
+1273,"Atrato Sub-Basin","Caribbean Mainland",29,51,7.586,-76.858,138947.6,7,"column","active",6
+1275,"Llanos","Caribbean Mainland",29,64,7.973,-69.966,50844.6,7,"column","active",7
+1277,"Southern Venezuelan Andes","Caribbean Mainland",29,65,7.868,-71.193,71238.6,7,"column","active",7
+1279,"Northern and Central Venezuelan Andes","Caribbean Mainland",29,66,9.823,-69.478,52792.6,7,"column","active",7
+1281,"Maracaibo/Toas Island","Caribbean Mainland",29,67,10.779,-72.041,81730.6,7,"column","active",7
+1283,"Perija Mountains Colombia/Venezuela","Caribbean Mainland",29,68,9.486,-73.167,131011.3,7,"column","active",7
+1285,"Llanos Basin","Caribbean Mainland",29,64.1,5.28,-72.518,143979.6,7,"column","active",7
+1286,"Site 525 hole CO","Atlantic Basin",30,525,-29.078,2.982,2811.5,4,"column","active",14
+1287,"Site 527 hole 1","Atlantic Basin",30,527,-28.042,1.763,2810.5,4,"column","active",14
+1288,"Site 516 hole F","Atlantic Basin",30,516,-30.277,-35.285,2808.2,4,"column","active",14
+1289,"Site 522 hole AB","Atlantic Basin",30,522,-26.108,-5.13,2808.4,4,"column","active",14
+1290,"Site 703 hole A","Atlantic Basin",30,703,-47.051,7.895,2811,4,"column","active",15
+1291,"Site 700 hole B","Atlantic Basin",30,700,-51.533,-30.278,2809.1,4,"column","active",15
+1292,"Site 701 hole C","Atlantic Basin",30,701,-51.985,-23.212,2809.9,4,"column","active",15
+1293,"Site 690 hole C","Atlantic Basin",30,690,-65.16,1.205,2811,4,"column","active",15
+1294,"Site 689 hole B","Atlantic Basin",30,689,-64.517,3.1,2811.5,4,"column","active",15
+1295,"Site 530 hole A","Atlantic Basin",30,530,-19.188,9.386,2811.4,4,"column","active",14
+1296,"Site 355 hole 35","Atlantic Basin",30,355,-15.71,-30.601,2806.9,4,"column","active",14
+1297,"Site 698 hole A","Atlantic Basin",30,698,-51.459,-33.099,2811.5,4,"column","active",15
+1298,"Site 702 hole B","Atlantic Basin",30,702,-50.946,-26.369,2811.4,4,"column","active",15
+1299,"Site 699 hole A","Atlantic Basin",30,699,-51.542,-30.677,2809.7,4,"column","active",15
+1300,"Site 511 hole 1","Atlantic Basin",30,511,-51.005,-46.972,2810.2,4,"column","active",14
+1301,"Site 513 hole A","Atlantic Basin",30,513,-47.583,-24.64,2809.4,4,"column","active",14
+1302,"Site 512 hole 1","Atlantic Basin",30,512,-49.87,-40.836,2810.3,4,"column","active",14
+1303,"Site 359 hole C","Atlantic Basin",30,359,-39.985,-4.497,2810.4,4,"column","active",14
+1304,"Site 356 hole CO","Atlantic Basin",30,356,-28.287,-41.088,2808.6,4,"column","active",14
+1305,"Site 1257 hole CO","Atlantic Basin",30,1257,9.454,-54.342,2805.6,4,"column","active",16
+1306,"Site 1261 hole CO","Atlantic Basin",30,1261,9.049,-54.317,2805.5,4,"column","active",16
+1307,"Site 20 hole CO","Atlantic Basin",30,20,-28.525,-26.845,2811.5,4,"column","active",14
+1308,"Site 534 hole CO","Atlantic Basin",30,534,28.343,-75.382,2811.4,4,"column","active",14
+1309,"Site 661 hole A","Atlantic Basin",30,661,9.447,-19.386,2809.4,4,"column","active",15
+1310,"Site 1258 hole CO","Atlantic Basin",30,1258,9.433,-54.733,2807.2,4,"column","active",16
+1311,"Site 1260 hole CO","Atlantic Basin",30,1260,9.265,-54.544,2806.5,4,"column","active",16
+1312,"Site 366 hole CO","Atlantic Basin",30,366,5.659,-19.843,2810.4,4,"column","active",14
+1313,"Site 369 hole CO","Atlantic Basin",30,369,26.592,-14.983,2811.5,4,"column","active",14
+1314,"Site 662 hole A","Atlantic Basin",30,662,-1.391,-11.739,2805.1,4,"column","active",15
+1315,"Site 1090 hole C","Atlantic Basin",30,1090,-42.899,8.883,2811.5,4,"column","active",15
+1316,"Site 664 hole D","Atlantic Basin",30,664,0.105,-23.228,2807.3,4,"column","active",15
+1317,"Site 396 hole 1","Atlantic Basin",30,396,22.474,-43.518,2809.9,4,"column","active",14
+1318,"Site 395 hole 1","Atlantic Basin",30,395,22.756,-46.082,2810.7,4,"column","active",14
+1319,"Site 523 hole 1","Atlantic Basin",30,523,-28.557,-2.253,2811.2,4,"column","active",14
+1320,"Site 558 hole CO","Atlantic Basin",30,558,37.771,-37.344,2810.1,4,"column","active",14
+1321,"Site 358 hole 1","Atlantic Basin",30,358,-37.659,-35.963,2806.8,4,"column","active",14
+1322,"Site 524 hole CO","Atlantic Basin",30,524,-29.009,3.512,2811.4,4,"column","active",14
+1323,"Site 647 hole A","Atlantic Basin",30,647,53.331,-45.262,2811.5,4,"column","active",15
+1324,"Site 408 hole 40","Atlantic Basin",30,408,63.377,-28.912,2810.9,4,"column","active",14
+1325,"Site 410 hole 41","Atlantic Basin",30,410,45.509,-29.476,2808.9,4,"column","active",14
+1326,"Site 412 hole 41","Atlantic Basin",30,412,36.562,-33.166,2811.5,4,"column","active",14
+1327,"Site 409 hole 40","Atlantic Basin",30,409,62.616,-25.953,2811.3,4,"column","active",14
+1328,"Site 548 hole CO","Atlantic Basin",30,548,48.907,-12.162,2808.5,4,"column","active",14
+1329,"Site 550 hole CO","Atlantic Basin",30,550,48.515,-13.44,2810.6,4,"column","active",14
+1330,"Site 336 hole 1","Atlantic Basin",30,336,63.351,-7.788,2811.3,4,"column","active",14
+1331,"Site 337 hole 33","Atlantic Basin",30,337,64.872,-5.342,2810.7,4,"column","active",14
+1332,"Site 338 hole 33","Atlantic Basin",30,338,67.785,5.385,2810.8,4,"column","active",14
+1333,"Site 344 hole 34","Atlantic Basin",30,344,76.15,7.875,2809.3,4,"column","active",14
+1334,"Site 612 hole 61","Atlantic Basin",30,612,38.819,-72.773,2808.9,4,"column","active",14
+1335,"Site 613 hole 61","Atlantic Basin",30,613,38.771,-72.524,2808.3,4,"column","active",14
+1336,"Site 398 hole CO","Atlantic Basin",30,398,40.958,-10.719,2810.1,4,"column","active",14
+1337,"Site 638 hole CO","Atlantic Basin",30,638,42.153,-12.197,2807.8,4,"column","active",15
+1338,"Site 637 hole A","Atlantic Basin",30,637,42.088,-12.863,2809.4,4,"column","active",15
+1339,"Site 641 hole CO","Atlantic Basin",30,641,42.155,-12.182,2807.8,4,"column","active",15
+1340,"Site 334 hole 334","Atlantic Basin",30,334,37.025,-34.423,2810.4,4,"column","active",14
+1341,"Site 332 hole CO","Atlantic Basin",30,332,36.883,-33.641,2811.3,4,"column","active",14
+1342,"Site 386 hole 386","Atlantic Basin",30,386,31.193,-64.233,2810.6,4,"column","active",14
+1343,"Site 950 hole A","Atlantic Basin",30,950,31.156,-25.586,2810.3,4,"column","active",15
+1344,"Site 418 hole B","Atlantic Basin",30,418,25.035,-68.057,2810.9,4,"column","active",14
+1345,"Site 417 hole CO","Atlantic Basin",30,417,25.108,-68.046,2810.9,4,"column","active",14
+1346,"Site 603 hole CO","Atlantic Basin",30,603,35.491,-70.027,2810.9,4,"column","active",14
+1347,"Site 1050 hole CO","Atlantic Basin",30,1050,30.1,-76.235,2810.6,4,"column","active",15
+1348,"Site 342 hole 342","Atlantic Basin",30,342,67.951,4.934,2811.1,4,"column","active",14
+1349,"Site 407 hole 407","Atlantic Basin",30,407,63.939,-30.576,2810.6,4,"column","active",14
+1350,"Site 348 hole 348","Atlantic Basin",30,348,68.503,-12.462,2810.8,4,"column","active",14
+1351,"Site 519 hole 519","Atlantic Basin",30,519,-26.137,-11.666,2806.6,4,"column","active",14
+1352,"Site 521 hole 521","Atlantic Basin",30,521,-26.074,-10.265,2810.4,4,"column","active",14
+1353,"Site 528 hole CO","Atlantic Basin",30,528,-28.519,2.316,2811.2,4,"column","active",14
+1354,"Site 608 hole 608","Atlantic Basin",30,608,42.837,-23.088,2809.5,4,"column","active",14
+1355,"Site 543 hole CO","Atlantic Basin",30,543,15.712,-58.654,2809.4,4,"column","active",14
+1356,"Site 172 hole 172","Pacific Basin",31,172,31.537,-133.373,2809.9,4,"column","active",14
+1357,"Site 837 hole A","Pacific Basin",31,837,-20.222,-176.823,2811.5,4,"column","active",15
+1358,"Site 508 hole 508","Pacific Basin",31,508,0.533,-86.1,2810.8,4,"column","active",14
+1359,"Site 509 hole 509","Pacific Basin",31,509,0.589,-86.132,2810.9,4,"column","active",14
+1360,"Site 835 hole A","Pacific Basin",31,835,-18.501,-177.303,2811.5,4,"column","active",15
+1361,"Site 844 hole B","Pacific Basin",31,844,7.921,-90.481,2806.2,4,"column","active",15
+1362,"Site 845 hole A","Pacific Basin",31,845,9.583,-94.591,2809.4,4,"column","active",15
+1363,"Site 849 hole B","Pacific Basin",31,849,0.183,-110.52,2811.3,4,"column","active",15
+1364,"Site 850 hole B","Pacific Basin",31,850,1.297,-110.521,2811.3,4,"column","active",15
+1365,"Site 853 hole B","Pacific Basin",31,853,7.211,-109.751,2810.2,4,"column","active",15
+1366,"Site 854 hole C","Pacific Basin",31,854,11.224,-109.594,2809.9,4,"column","active",15
+1367,"Site 872 hole C","Pacific Basin",31,872,10.098,162.866,2807.7,4,"column","active",15
+1368,"Site 886 hole B","Pacific Basin",31,886,44.69,-168.24,2808.2,4,"column","active",15
+1369,"Site 1010 hole C","Pacific Basin",31,1010,29.965,-118.101,2810.8,4,"column","active",15
+1370,"Site 1023 hole A","Pacific Basin",31,1023,47.917,-128.792,2811.5,4,"column","active",15
+1371,"Site 1024 hole B","Pacific Basin",31,1024,47.909,-128.749,2811.5,4,"column","active",15
+1372,"Site 1025 hole B","Pacific Basin",31,1025,47.888,-128.648,2811.5,4,"column","active",15
+1373,"Site 1028 hole A","Pacific Basin",31,1028,47.858,-128.504,2811.4,4,"column","active",15
+1374,"Site 1029 hole A","Pacific Basin",31,1029,47.832,-128.376,2811.4,4,"column","active",15
+1375,"Site 506 hole B","Pacific Basin",31,506,0.61,-86.091,2810.8,4,"column","active",14
+1376,"Site 507 hole F","Pacific Basin",31,507,0.567,-86.09,2810.8,4,"column","active",14
+1377,"Site 1215 hole A","Pacific Basin",31,1215,26.03,-147.933,2810.9,4,"column","active",15
+1378,"Site 1218 hole A","Pacific Basin",31,1218,8.889,-135.367,2811.4,4,"column","active",15
+1379,"Site 1226 hole B","Pacific Basin",31,1226,-3.095,-90.818,2807.4,4,"column","active",15
+1380,"Site 1231 hole E","Pacific Basin",31,1231,-12.021,-81.904,2810.9,4,"column","active",15
+1381,"Site 1031 hole A","Pacific Basin",31,1031,47.89,-128.566,2811.5,4,"column","active",15
+1382,"Site 482 hole A/B","Pacific Basin",31,482,22.79,-107.994,2805,4,"column","active",14
+1383,"Site 36 hole 36","Pacific Basin",31,36,40.985,-130.11,2810.9,4,"column","active",14
+1384,"Site 213 hole 213","Indian Basin",32,213,-10.212,93.896,2810.9,4,"column","active",14
+1385,"Site 214 hole 214","Indian Basin",32,214,-11.337,88.718,2809.1,4,"column","active",14
+1386,"Site 231 hole 62","Indian Basin",32,231,11.89,48.245,2805.3,4,"column","active",14
+1387,"Site 236 hole 236","Indian Basin",32,236,-1.677,57.648,2811.2,4,"column","active",14
+1388,"Site 289 hole 289","Pacific Basin",31,289,-0.499,158.512,2811.3,4,"column","active",14
+1389,"Site 292 hole 292","Pacific Basin",31,292,15.819,124.651,2809.4,4,"column","active",14
+1390,"Site 1109 hole CD","Pacific Basin",31,1109,-9.507,151.573,2809.8,4,"column","active",15
+1391,"Site 1138 hole A","Indian Basin",32,1138,-53.552,75.975,2811.2,4,"column","active",15
+1392,"Site 1179 hole BCD","Pacific Basin",31,1179,41.08,159.963,2811.1,4,"column","active",15
+1393,"Site 1037 hole B","Pacific Basin",31,1037,40.955,-127.515,2810.5,4,"column","active",15
+1394,"Site 907 hole A","Atlantic Basin",30,907,69.25,12.698,2811,4,"column","active",15
+1395,"Site 884 hole BC","Pacific Basin",31,884,51.45,168.337,2809.2,4,"column","active",15
+1396,"Site 50 hole 50.0","Pacific Basin",31,50,32.403,156.572,2807.9,4,"column","active",14
+1397,"Site 1098 hole C","Pacific Basin",31,1098,-64.862,-64.208,2811.3,4,"column","active",15
+1398,"Site 149 hole 149","Caribbean Basin",33,149,15.104,-69.364,2811.4,4,"column","active",14
+1399,"Site 158 hole 158","Pacific Basin",31,158,6.623,-85.236,2808.9,4,"column","active",14
+1400,"Site 160 hole 160","Pacific Basin",31,160,11.705,-130.88,2808.6,4,"column","active",14
+1401,"Site 162 hole 162","Pacific Basin",31,162,14.87,-140.044,2810.8,4,"column","active",14
+1402,"Site 420 hole 420","Pacific Basin",31,420,9.002,-106.113,2810.5,4,"column","active",14
+1403,"Site 493 hole 493","Pacific Basin",31,493,16.381,-98.926,2811.5,4,"column","active",14
+1404,"Site 538 hole A","Caribbean Basin",33,538,23.85,-85.171,2809.1,4,"column","active",14
+1405,"Site 573 hole 573","Pacific Basin",31,573,0.499,-133.309,2809.1,4,"column","active",14
+1406,"Site 706 hole A/B","Indian Basin",32,706,-13.114,61.371,2809.4,4,"column","active",15
+1407,"Site 713 hole A","Indian Basin",32,713,-4.193,73.394,2809.3,4,"column","active",15
+1408,"Site 738 hole ABC","Indian Basin",32,738,-62.709,82.788,2811,4,"column","active",15
+1409,"Site 766 hole A","Indian Basin",32,766,-19.932,110.454,2811.3,4,"column","active",15
+1410,"Site 767 hole ABC","Pacific Basin",31,767,4.792,123.503,2811.3,4,"column","active",15
+1411,"Site 756 hole BC","Indian Basin",32,756,-27.356,87.597,2811.3,4,"column","active",15
+1412,"Site 758 hole A","Indian Basin",32,758,5.384,90.361,2805.6,4,"column","active",15
+1413,"Site 84 hole 84","Pacific Basin",31,84,5.749,-82.888,2808.5,4,"column","active",14
+1414,"Site 555 hole 555","Atlantic Basin",30,555,56.562,-20.782,2811.5,4,"column","active",14
+1415,"Site 599 hole 599","Pacific Basin",31,599,-19.452,-119.881,2805.2,4,"column","active",14
+1416,"Site 597 hole A","Pacific Basin",31,597,-18.806,-129.77,2811.1,4,"column","active",14
+1417,"Site 552 hole CO","Atlantic Basin",30,552,56.043,-23.231,2810.2,4,"column","active",14
+1419,"Tampico-Misantla Basin","Mexico",35,6,21.332,-98.079,88914.8,1,"column","active",9
+1421,"Sierra Madre Oriental","Mexico",35,7,22.504,-99.799,76726.1,1,"column","active",9
+1423,"Burgos Basin","Mexico",35,8,24.603,-98.922,125837.6,1,"column","active",9
+1425,"Sabinas Basin","Mexico",35,9,28.442,-101.288,39681,1,"column","active",9
+1427,"Yucatan Platform","Mexico",35,1,20.547,-88.762,149543,1,"column","active",9
+1429,"Macuspana Basin - Gulf of Campeche and Villahermosa Uplift","Mexico",35,2,18.211,-92.242,60435.8,1,"column","active",9
+1431,"Sierra de Chiapas","Mexico",35,3,16.911,-91.71,47638.8,1,"column","active",9
+1433,"Comalcalco Basin and Isthmus Saline Basin","Mexico",35,4,17.697,-94.283,48344.6,1,"column","active",9
+1435,"Veracruz Basin","Mexico",35,5,18.689,-96.267,66201.2,1,"column","active",9
+1436,"St. Elias Mountains, Icefield, Alsek Ranges","Canadian Cordillera I",36,2,60.817,-140.178,19482.6,1,"column","active",10
+1437,"St. Elias Mountains, Kluane Ranges","Canadian Cordillera I",36,3,61.033,-138.832,22103.3,1,"column","active",10
+1438,"Queen Charlotte Islands","Canadian Cordillera I",36,4,53.142,-132.193,32372.6,1,"column","active",10
+1439,"N. Vancouver Island and Continental Shelf","Canadian Cordillera I",36,5,50.606,-128.065,42794.1,1,"column","active",10
+1440,"W. and SW Vancouver Island and Tofino Basin","Canadian Cordillera I",36,6,48.605,-124.613,15161.4,1,"column","active",10
+1441,"Central and Southeast Vancouver Island","Canadian Cordillera I",36,7,49.157,-124.204,18880.9,1,"column","active",10
+1442,"St. Elias Mountains, Icefield and Alsek Ranges","Canadian Cordillera I",36,8,60.04,-137.42,14164.1,1,"column","active",10
+1443,"Coast Mountains, 54-55 degrees N West of Work Channel","Canadian Cordillera I",36,9,54.497,-129.964,42836.9,1,"column","active",10
+1444,"Pemberton Bute","Canadian Cordillera I",36,11,49.772,-122.655,12823.1,1,"column","active",10
+1445,"Hope (W), N. of Fraser R.","Canadian Cordillera I",36,12,49.41,-121.493,7531.3,1,"column","active",10
+1446,"Chilliwack Valley","Canadian Cordillera I",36,13,49.146,-121.941,5204.2,1,"column","active",10
+1447,"Homathko River","Canadian Cordillera I",36,14,51.313,-124.84,45051.7,1,"column","active",10
+1448,"Chilko Lake","Canadian Cordillera I",36,15,51.127,-124.035,18456.3,1,"column","active",10
+1449,"Tyaughton Creek","Canadian Cordillera I",36,16,51,-122.728,10554.9,1,"column","active",10
+1450,"Bridge River","Canadian Cordillera I",36,17,50.723,-121.953,7349.5,1,"column","active",10
+1451,"Manning Park","Canadian Cordillera I",36,18,49.065,-120.782,14204.5,1,"column","active",10
+1452,"Aishihik Lake","Canadian Cordillera I",36,19,61.454,-137.17,17586.2,1,"column","active",10
+1453,"N. Carmacks","Canadian Cordillera I",36,20,62.135,-136.216,23973.9,1,"column","active",10
+1454,"Laberge","Canadian Cordillera I",36,21,61.426,-134.99,14274.3,1,"column","active",10
+1455,"Taku River","Canadian Cordillera I",36,22,58.58,-133.638,15383.1,1,"column","active",10
+1456,"Stikine River","Canadian Cordillera I",36,23,57.909,-131.512,24512.6,1,"column","active",10
+1457,"Cold Fish","Canadian Cordillera I",36,24,57.913,-129.368,30066.5,1,"column","active",10
+1458,"Hazelton","Canadian Cordillera I",36,25,55.276,-127.634,23856,1,"column","active",10
+1459,"Coast Mountains, 54-55 degrees N East of Work Channel","Canadian Cordillera I",36,26,54.513,-128.86,24919.5,1,"column","active",10
+1460,"Whitesail Lake","Canadian Cordillera I",36,27,53.504,-126.976,55658.1,1,"column","active",10
+1461,"Smithers Terrace","Canadian Cordillera I",36,28,55.045,-127.987,12789.2,1,"column","active",10
+1462,"Fraser","Canadian Cordillera I",36,29,52.116,-122.389,16556,1,"column","active",10
+1463,"Nakina Lake","Canadian Cordillera I",36,30,59.258,-133.272,15842.3,1,"column","active",10
+1464,"Dease Lake","Canadian Cordillera II",37,31,58.621,-131.823,13477.4,1,"column","active",10
+1465,"Cache Creek","Canadian Cordillera II",37,32,50.829,-121.354,10086.3,1,"column","active",10
+1466,"Jennings River","Canadian Cordillera II",37,33,58.693,-130.75,16124.4,1,"column","active",10
+1467,"Fort St. James","Canadian Cordillera II",37,34,56.413,-125.794,29414.2,1,"column","active",10
+1468,"Prince George","Canadian Cordillera II",37,35,53.528,-122.601,48087.1,1,"column","active",10
+1469,"Kamloops Nicola","Canadian Cordillera II",37,36,50.676,-120.341,13841.7,1,"column","active",10
+1470,"South Okanagan","Canadian Cordillera II",37,37,49.196,-119.352,31190.6,1,"column","active",10
+1471,"Nelson (W), S. Kootenay Arc","Canadian Cordillera II",37,38,49.262,-117.532,21676.7,1,"column","active",10
+1472,"Nelson (E) Lardeau, Central Kootenay Arc","Canadian Cordillera II",37,39,50.449,-117.537,18034.8,1,"column","active",10
+1473,"Old Crow Basin","Canadian Cordillera II",37,40,68.762,-139.273,18083.5,1,"column","active",10
+1474,"Mackenzie Bay","Canadian Cordillera II",37,41,68.523,-137.287,10571.8,1,"column","active",10
+1475,"Tombstone","Canadian Cordillera II",37,47,64.55,-138.817,39087.7,1,"column","active",10
+1476,"Hess Mountains","Canadian Cordillera II",37,54,64.319,-130.717,24527.2,1,"column","active",10
+1477,"Anvil Range","Canadian Cordillera II",37,55,62.78,-134.215,28297.5,1,"column","active",10
+1478,"Campbell Range","Canadian Cordillera II",37,56,61.469,-130.617,19764.3,1,"column","active",10
+1479,"Central Watson Lake","Canadian Cordillera II",37,57,60.352,-128.729,24641.5,1,"column","active",10
+1480,"Logan Mountains","Canadian Cordillera II",37,58,62.604,-129.404,16456.6,1,"column","active",10
+1481,"Broken Skull River","Canadian Cordillera II",37,59,62.81,-127.445,10272,1,"column","active",10
+1482,"Redstone River","Canadian Cordillera III",40,62,63.763,-124.699,12812.2,1,"column","active",10
+1483,"Cap Mountain","Canadian Cordillera III",40,63,63.538,-123.243,18072,1,"column","active",10
+1484,"Big Salmon Range","Canadian Cordillera III",40,66,61.031,-133.199,21183.6,1,"column","active",10
+1485,"Lapie River","Canadian Cordillera III",40,67,61.155,-131.571,22862.6,1,"column","active",10
+1486,"McDame","Canadian Cordillera III",40,68,58.92,-129.23,13116.8,1,"column","active",10
+1487,"Kechika Ranges East of Kechika Fault","Canadian Cordillera III",40,69,58.822,-127.799,27004.4,1,"column","active",10
+1488,"Russel Ranges","Canadian Cordillera III",40,70,56.652,-125.341,8414.4,1,"column","active",10
+1489,"Toad River","Canadian Cordillera III",40,71,59.51,-125.695,22678.1,1,"column","active",10
+1490,"Tuchodi Lakes, Trutch Ware","Canadian Cordillera III",40,72,58.709,-125.315,9947.5,1,"column","active",10
+1491,"Western Muskwa Ranges","Canadian Cordillera III",40,73,56.819,-124.751,23519.5,1,"column","active",10
+1492,"Adams Lake","Canadian Cordillera III",40,77,51.466,-119.911,22184.9,1,"column","active",10
+1493,"Cariboo Lake","Canadian Cordillera III",40,78,52.512,-121.113,12013.2,1,"column","active",10
+1494,"Cariboo Lake","Canadian Cordillera III",40,79,53.114,-120.909,13944.9,1,"column","active",10
+1495,"Kickinghorse River","Canadian Cordillera III",40,83,51.493,-116.723,14197.2,1,"column","active",10
+1496,"Seymour Arm Golden","Canadian Cordillera III",40,84,50.996,-117.116,9518.6,1,"column","active",10
+1497,"Turner Valley","Canadian Cordillera III",40,88,50.011,-114.265,5434.6,1,"column","active",10
+1498,"Elko-Fernie","Canadian Cordillera III",40,89,49.504,-114.386,5785.5,1,"column","active",10
+1499,"Waterton Pincher CK","Canadian Cordillera III",40,90,49.06,-113.881,3431.5,1,"column","active",10
+1500,"Coast Mountains","Canadian Cordillera I",36,10,60.583,-135.826,12459.2,1,"column","active",10
+1501,"Banks Island, Northwest","Canadian Arctic I",41,1,74.152,-123.321,60092.7,1,"column","active",11
+1502,"Banks Island, central","Canadian Arctic I",41,2,73.2,-121.416,25554.4,1,"column","active",11
+1503,"Banks Island, Southeast","Canadian Arctic I",41,3,72.086,-121.068,53656.7,1,"column","active",11
+1504,"Victorian and Stefansson Islands","Canadian Arctic I",41,4,70.889,-109.575,144599.2,1,"column","active",11
+1505,"Prince of Wales Island, west","Canadian Arctic I",41,5,72.628,-99.899,137727.7,1,"column","active",11
+1506,"Prince of Wales Island, east","Canadian Arctic I",41,6,72.415,-96.757,41091.6,1,"column","active",11
+1507,"Somerset Island","Canadian Arctic I",41,7,73.436,-94.503,13332.7,1,"column","active",11
+1508,"Somerset Island, east","Canadian Arctic I",41,8,73.269,-92.28,78073.5,1,"column","active",11
+1509,"Baffin Island, north","Canadian Arctic I",41,9,72.943,-84.36,125991.5,1,"column","active",11
+1510,"Bylot Island","Canadian Arctic I",41,10,73.262,-78.891,59500.9,1,"column","active",11
+1511,"Foxe Basin, Rowley/Prince Charles Is.","Canadian Arctic I",41,11,67.935,-76.327,227446.6,1,"column","active",11
+1512,"Devon Island, central/east","Canadian Arctic I",41,12,75.01,-86.112,44421.8,1,"column","active",11
+1513,"Southern Ellesmere Island, southwest","Canadian Arctic I",41,13,76.759,-86.262,11711.2,1,"column","active",11
+1514,"Southern Ellesmere Island, Fram Fiord","Canadian Arctic I",41,14,76.51,-80.846,39965.4,1,"column","active",11
+1515,"Southern Ellesmere Island, Makinson Inlet","Canadian Arctic I",41,15,77.395,-82.615,17004.3,1,"column","active",11
+1516,"Southern Ellesmere Island, Bache Peninsula","Canadian Arctic I",41,16,79.162,-75.358,47945.4,1,"column","active",11
+1517,"Prince Patrick Island","Canadian Arctic I",41,17,76.955,-118.719,20574.7,1,"column","active",11
+1518,"Eglinton Island","Canadian Arctic I",41,18,75.737,-118.417,33355.4,1,"column","active",11
+1519,"Melville Island, northwest","Canadian Arctic I",41,19,76.073,-115.255,42913.4,1,"column","active",11
+1520,"Melville Island, central","Canadian Arctic I",41,20,75.242,-112.206,48117.5,1,"column","active",11
+1521,"Melville Island, northeast","Canadian Arctic I",41,21,75.957,-108.75,57212.2,1,"column","active",11
+1522,"Cameron Island","Canadian Arctic I",41,22,76.477,-104.08,45507.7,1,"column","active",11
+1523,"Bathurst Island, west and central","Canadian Arctic I",41,23,75.998,-101.362,30642.1,1,"column","active",11
+1524,"Bathurst Island, east","Canadian Arctic I",41,24,75.848,-98.157,29140.9,1,"column","active",11
+1525,"Cornwallis Island, north","Canadian Arctic I",41,25,75.357,-95.03,13699.3,1,"column","active",11
+1526,"Cornwallis Island, south","Canadian Arctic I",41,26,74.858,-94.72,10561.7,1,"column","active",11
+1527,"Devon Island,Grinnel Peninsula","Canadian Arctic I",41,27,76.393,-92.19,23131.1,1,"column","active",11
+1528,"Mackenzie King, Brock, Borden Islands","Canadian Arctic I",41,28,77.912,-111.246,25476.6,1,"column","active",11
+1529,"Lougheed Island","Canadian Arctic II",42,29,77.354,-105.103,18717.1,1,"column","active",11
+1530,"King Christian, Ellef, Ringnes Islands","Canadian Arctic II",42,30,78.441,-103.147,14165.8,1,"column","active",11
+1531,"Ellef Ringnes Island, north","Canadian Arctic II",42,31,79.128,-104.688,10718.7,1,"column","active",11
+1532,"Ellef Ringnes Island, southeast","Canadian Arctic II",42,32,78.25,-100.498,25012.8,1,"column","active",11
+1533,"Amund Ringnes Island, north and southwest","Canadian Arctic II",42,33,78.234,-96.667,23138.3,1,"column","active",11
+1534,"Cornwall Island","Canadian Arctic II",42,34,77.589,-94.802,15414.5,1,"column","active",11
+1535,"Graham Island","Canadian Arctic II",42,35,77.409,-90.37,22095.3,1,"column","active",11
+1536,"Axel Heiberg Island, south","Canadian Arctic II",42,36,78.678,-90.581,8398.7,1,"column","active",11
+1537,"Axel Heiberg Island","Canadian Arctic II",42,37,79.486,-92.597,11337.7,1,"column","active",11
+1538,"Axel Heiberg Island, northwest","Canadian Arctic II",42,38,80.319,-94.687,12796.5,1,"column","active",11
+1539,"Axel Heiberg Island, east","Canadian Arctic II",42,39,79.852,-89.973,8862.4,1,"column","active",11
+1540,"Axel Heiberg Island, north","Canadian Arctic II",42,40,80.944,-92.987,5660.7,1,"column","active",11
+1541,"Central Ellesmere Island, Bjorne Pen.","Canadian Arctic II",42,41,77.568,-87.014,14464.5,1,"column","active",11
+1542,"Central Ellesmere Island, Svendsen Pen.","Canadian Arctic II",42,42,78.047,-84.07,10821.3,1,"column","active",11
+1543,"Central Ellesmere Island, Raanes Pen.","Canadian Arctic II",42,43,78.472,-86.09,8244.5,1,"column","active",11
+1544,"Central Ellesmere Island, W. Fosheim Pen.","Canadian Arctic II",42,44,79.994,-85.214,6799.5,1,"column","active",11
+1545,"Central Ellesmere Island, E. Fosheim Pen.","Canadian Arctic II",42,45,79.323,-82.972,7032.2,1,"column","active",11
+1546,"Central Ellesmere Island, s. Caledonian Bay","Canadian Arctic II",42,46,79.798,-80.642,13948.6,1,"column","active",11
+1547,"Central Ellesmere Island, Caledonian Bay","Canadian Arctic II",42,47,80.146,-81.89,4400.3,1,"column","active",11
+1548,"Central Ellesmere Island, Copes Bay-Carl Ritter Bay","Canadian Arctic II",42,48,79.895,-72.834,23223.5,1,"column","active",11
+1549,"Central Ellesmere Island, sw Judge Daly Promontory","Canadian Arctic II",42,49,80.823,-69.704,7141.2,1,"column","active",11
+1550,"Central Ellesmere Island, se Ella Bay","Canadian Arctic II",42,50,81.171,-67.569,9960.2,1,"column","active",11
+1551,"Central Ellesmere Island, Ella Bay","Canadian Arctic II",42,51,81.336,-70.673,4657.2,1,"column","active",11
+1552,"Central Ellesmere Island, St. Patrick Bay","Canadian Arctic II",42,52,81.851,-64.322,6188,1,"column","active",11
+1553,"Central Ellesmere Island, Blue Mountains","Canadian Arctic II",42,53,80.801,-86.954,6918.3,1,"column","active",11
+1554,"Central Ellesmere Island, west Svartfjeld Pen.","Canadian Arctic II",42,54,80.873,-88.954,7364.4,1,"column","active",11
+1555,"Central Ellesmere Island, Van Hauen Pass","Canadian Arctic II",42,55,81.044,-85.779,2664.7,1,"column","active",11
+1556,"Central Ellesmere Island, Hare Fiord head","Canadian Arctic II",42,56,81.194,-82.369,5279.4,1,"column","active",11
+1557,"Central Ellesmere Island, Ooblooyah Bay","Canadian Arctic II",42,57,80.929,-83.31,4651.1,1,"column","active",11
+1558,"Central Ellesmere Island, east of Tanquary Fiord","Canadian Arctic II",42,58,80.911,-78.658,11264.4,1,"column","active",11
+1559,"McKinley Bay","Canadian Arctic III",43,59,81.177,-79.239,4044.2,1,"column","active",11
+1560,"Head of Tanquary Fiord","Canadian Arctic III",43,60,81.515,-76.797,7156.6,1,"column","active",11
+1561,"Henrietta Nesmith Glacier","Canadian Arctic III",43,61,81.732,-73.448,7092.3,1,"column","active",11
+1562,"Lake Hazen","Canadian Arctic III",43,62,81.888,-71.428,3886.2,1,"column","active",11
+1563,"Head of Emma Fiord","Canadian Arctic III",43,63,81.48,-88.031,4481.1,1,"column","active",11
+1564,"Kleybolte Peninsula","Canadian Arctic III",43,64,81.64,-91.515,5925.5,1,"column","active",11
+1565,"south of Phillips Inlet","Canadian Arctic III",43,65,81.691,-85.664,4341,1,"column","active",11
+1566,"head of Yelverton Inlet","Canadian Arctic III",43,66,81.92,-80.328,6939.2,1,"column","active",11
+1567,"Wootton Peninsula to SE of Milne Inlet","Canadian Arctic III",43,67,82.294,-83.913,4170.9,1,"column","active",11
+1568,"McLintock Glacier","Canadian Arctic III",43,68,82.316,-76.31,4249.5,1,"column","active",11
+1569,"McLintock Inlet","Canadian Arctic III",43,69,82.813,-77.539,3837.8,1,"column","active",11
+1570,"Head of McLintock Inlet","Canadian Arctic III",43,70,82.535,-76.5,1667.7,1,"column","active",11
+1571,"Head of Disraeli Fiord","Canadian Arctic III",43,71,82.727,-73.429,3137.8,1,"column","active",11
+1572,"East of Disraeli Fiord, to Markham Fiord","Canadian Arctic III",43,72,82.942,-72.842,1965.2,1,"column","active",11
+1573,"C. Columbia to C. Nares","Canadian Arctic III",43,73,83.124,-71.234,2112.2,1,"column","active",11
+1574,"NW of Clements Markham River","Canadian Arctic III",43,74,82.677,-69.302,852.6,1,"column","active",11
+1575,"Cresent Glacier to Clements Markham Inlet","Canadian Arctic III",43,75,82.612,-69.59,2155.2,1,"column","active",11
+1576,"Feilden and Parry Peninsulas","Canadian Arctic III",43,76,82.715,-65.072,4817,1,"column","active",11
+1577,"NW of Piper Pass","Canadian Arctic III",43,77,82.517,-69.199,3433.8,1,"column","active",11
+1578,"Inglefield Land","Canadian Arctic III",43,78,78.697,-69.432,32864.9,1,"column","active",11
+1579,"Washington Land","Canadian Arctic III",43,79,80.219,-66.192,19896.4,1,"column","active",11
+1580,"Petermann Glacier","Canadian Arctic III",43,80,80.809,-63.584,49390.7,1,"column","active",11
+1581,"Western North Greenland","Canadian Arctic III",43,81,81.733,-47.906,39846.7,1,"column","active",11
+1582,"Southern Peary Land,Independence Fiord","Canadian Arctic III",43,82,82.081,-32.75,48008.4,1,"column","active",11
+1583,"Danmark Fiord","Canadian Arctic III",43,83,81.007,-21.268,103128.9,1,"column","active",11
+1584,"Western North Greenland","Canadian Arctic III",43,84,82.282,-50.299,38076.6,1,"column","active",11
+1585,"Northern Peary Land","Canadian Arctic III",43,85,83.038,-35.499,41829.5,1,"column","active",11
+1586,"Southampton, Coats, Mansel Islands","Southern Prairie Prov., Hudson Platform",46,67,62.57,-83.031,182132.3,1,"column","active",12
+1587,"northern Hudson Bay","Southern Prairie Prov., Hudson Platform",46,68,60.526,-88.142,166615.9,1,"column","active",12
+1588,"northern Hudson Bay Lowland","Southern Prairie Prov., Hudson Platform",46,70,56.636,-91.08,187062.3,1,"column","active",12
+1589,"central Hudson Bay","Southern Prairie Prov., Hudson Platform",46,69,57.176,-84.465,117626,1,"column","active",12
+1590,"Central Hudson Bay Lowland","Southern Prairie Prov., Hudson Platform",46,71,54.525,-82.968,68642.5,1,"column","active",12
+1591,"north James Bay lowland","Southern Prairie Prov., Hudson Platform",46,72,52.9,-83.247,70947.9,1,"column","active",12
+1592,"central James Bay lowland","Southern Prairie Prov., Hudson Platform",46,73,52.104,-81.945,46332.7,1,"column","active",12
+1593,"south James Bay lowland","Southern Prairie Prov., Hudson Platform",46,74,51.075,-80.168,45210.1,1,"column","active",12
+1594,"Windsor, Sarnia","Southern Prairie Prov., Hudson Platform",46,75,42.144,-82.697,11871.8,1,"column","active",12
+1595,"Allegheny Basin","Southern Prairie Prov., Hudson Platform",46,76,42.653,-82.186,27017.4,1,"column","active",12
+1596,"Michigan Basin","Southern Prairie Prov., Hudson Platform",46,77,45.743,-82.195,16602.5,1,"column","active",12
+1597,"Algonquin Arch","Southern Prairie Prov., Hudson Platform",46,78,43.922,-80.731,23269.3,1,"column","active",12
+1598,"Allegheny Basin","Southern Prairie Prov., Hudson Platform",46,79,42.998,-79.636,22212,1,"column","active",12
+1599,"Lake Timiskaming Outlier","Southern Prairie Prov., Hudson Platform",46,80,47.338,-79.742,10907,1,"column","active",12
+1600,"Pembroke-Arnprior Outlier Ottawa and St. Lawrence River","Southern Prairie Prov., Hudson Platform",46,81,45.345,-75.458,15082.4,1,"column","active",12
+1601,"Montreal","Southern Prairie Prov., Hudson Platform",46,82,45.638,-73.591,29153.9,1,"column","active",12
+1602,"St. Hyacinthe","Southern Prairie Prov., Hudson Platform",46,83,45.446,-73.214,6431.8,1,"column","active",12
+1603,"Lac St. Jean-Chicoutimi Outlier Quebec City","Southern Prairie Prov., Hudson Platform",46,84,46.924,-71.157,19016.4,1,"column","active",12
+1604,"Nicolet-Yamaska","Southern Prairie Prov., Hudson Platform",46,85,46.397,-71.855,17510.1,1,"column","active",12
+1605,"N. Shore and Mingan Island Anticosti Island","Southern Prairie Prov., Hudson Platform",46,86,49.437,-63.169,27569.6,1,"column","active",12
+1606,"Gulf of St. Lawrence","Southern Prairie Prov., Hudson Platform",46,87,49.866,-61.551,53109.9,1,"column","active",12
+1607,"Port au Port Peninsula","Southern Prairie Prov., Hudson Platform",46,88,48.898,-58.416,4942.1,1,"column","active",12
+1608,"Southeast Labrador Strait of Belle Isle","Southern Prairie Prov., Hudson Platform",46,89,50.731,-58.449,57586.9,1,"column","active",12
+1609,"Canada Bay","Southern Prairie Prov., Hudson Platform",46,90,50.021,-58.652,16939.2,1,"column","active",12
+1610,"Brandon","Southern Prairie Prov., Hudson Platform",46,66,49.426,-100.48,28790.8,1,"column","active",12
+1611,"Big Muddy, Willow Bunch","Southern Prairie Prov., Hudson Platform",46,65,49.149,-105.055,23821,1,"column","active",12
+1612,"Maple Creek, Swift Current","Southern Prairie Prov., Hudson Platform",46,64,49.549,-108.599,48788,1,"column","active",12
+1613,"Sweetgrass Arch","Southern Prairie Prov., Hudson Platform",46,63,49.364,-110.676,40588.4,1,"column","active",12
+1614,"Waterton Pincher Creek","Southern Prairie Prov., Hudson Platform",46,62,49.268,-113.837,12997.8,1,"column","active",12
+1615,"Fernie Basin: Elko, Fernie","Southern Prairie Prov., Hudson Platform",46,61,49.669,-115.293,11402.9,1,"column","active",12
+1616,"Gataga River","Prairie Provinces and British Columbia",45,31,58.173,-125.63,15528.3,1,"column","active",12
+1617,"Roosevelt Graben, Mount Churchill","Prairie Provinces and British Columbia",45,32,58.193,-123.698,19134.4,1,"column","active",12
+1618,"Macdonald Platform, Summit Lake","Prairie Provinces and British Columbia",45,33,57.993,-121.846,24841.1,1,"column","active",12
+1619,"Liard and Scatter Rivers","Prairie Provinces and British Columbia",45,34,59.458,-122.829,20539.7,1,"column","active",12
+1620,"Zama Lake","Prairie Provinces and British Columbia",45,35,58.673,-118.951,80513.7,1,"column","active",12
+1621,"Western Rocky Mtns, Ware map area","Prairie Provinces and British Columbia",45,36,56.705,-122.29,23038.1,1,"column","active",12
+1622,"Eastern Rocky Mtns, Halfway map area","Prairie Provinces and British Columbia",45,37,56.305,-121.468,12632.5,1,"column","active",12
+1623,"Peace River Arch/Embayment, Pine Pass","Prairie Provinces and British Columbia",45,38,55.88,-120.939,12569.5,1,"column","active",12
+1624,"Peace River Plains, Fort St. John","Prairie Provinces and British Columbia",45,39,56.178,-120.234,37445.9,1,"column","active",12
+1625,"Hay River Basin, Fort McMurray","Prairie Provinces and British Columbia",45,40,57.363,-111.629,113663.9,1,"column","active",12
+1626,"Front Range, Narraway River","Prairie Provinces and British Columbia",45,41,54.254,-120.18,23715.7,1,"column","active",12
+1627,"Swan Hills","Prairie Provinces and British Columbia",45,42,54.826,-115.211,78237.6,1,"column","active",12
+1628,"Cold Lake","Prairie Provinces and British Columbia",45,43,54.432,-110.303,89686.2,1,"column","active",12
+1629,"Cumberland House","Prairie Provinces and British Columbia",45,44,53.659,-102.571,38296.4,1,"column","active",12
+1630,"Mount Robson Syncline, Mount Robson","Prairie Provinces and British Columbia",45,45,53.295,-119.074,22522.1,1,"column","active",12
+1631,"Jasper, eastern main ranges","Prairie Provinces and British Columbia",45,46,52.904,-117.914,14667.7,1,"column","active",12
+1632,"Roche Miette, west Alberta ridge","Prairie Provinces and British Columbia",45,47,53.268,-117.594,10791,1,"column","active",12
+1633,"Brule, eastern Alberta foothills","Prairie Provinces and British Columbia",45,48,53.659,-116.987,37822.5,1,"column","active",12
+1634,"Edmonton","Prairie Provinces and British Columbia",45,49,53.661,-113.554,56456.9,1,"column","active",12
+1635,"Lloydminster","Prairie Provinces and British Columbia",45,50,52.519,-110.451,66200,1,"column","active",12
+1636,"Saskatoon","Prairie Provinces and British Columbia",45,51,52.175,-106.489,98309.4,1,"column","active",12
+1637,"Lake Winnipegosis","Prairie Provinces and British Columbia",45,52,52.163,-100.857,63908.9,1,"column","active",12
+1638,"Stanford-Huges Ranges","Prairie Provinces and British Columbia",45,53,50.401,-115.797,9258.5,1,"column","active",12
+1639,"Kickinghorse River","Prairie Provinces and British Columbia",45,54,51.031,-116.093,6418.9,1,"column","active",12
+1640,"Spray River, Connor Lake","Prairie Provinces and British Columbia",45,55,51.211,-115.264,14988,1,"column","active",12
+1641,"Exshaw","Prairie Provinces and British Columbia",45,56,50.906,-114.989,5091.9,1,"column","active",12
+1642,"Turner Valley","Prairie Provinces and British Columbia",45,57,50.459,-114.276,7393.5,1,"column","active",12
+1643,"Calgary, Drumheller","Prairie Provinces and British Columbia",45,58,51.274,-114.028,33848,1,"column","active",12
+1644,"Moose Jaw, Regina, northern Williston Basin","Prairie Provinces and British Columbia",45,59,50.426,-104.963,55009.6,1,"column","active",12
+1645,"Lake Manitoba","Prairie Provinces and British Columbia",45,60,50.513,-99.209,51038.8,1,"column","active",12
+1646,"Brithis-Barn Mountains, Old Crow Basin","Northwest, Yukon Territories",44,1,67.751,-139.853,14193.1,1,"column","active",12
+1647,"Mackenzie Bay","Northwest, Yukon Territories",44,2,68.777,-137.226,12063.1,1,"column","active",12
+1648,"White Mountains","Northwest, Yukon Territories",44,3,67.172,-139.211,11223.6,1,"column","active",12
+1649,"Northern Richardson Mountains","Northwest, Yukon Territories",44,4,67.036,-137.369,11848.2,1,"column","active",12
+1650,"Mackenzie Delta","Northwest, Yukon Territories",44,5,69.131,-133.994,25745.6,1,"column","active",12
+1651,"Inuvik","Northwest, Yukon Territories",44,6,67.943,-132.77,26734.5,1,"column","active",12
+1652,"Anderson Plain","Northwest, Yukon Territories",44,7,68.993,-131.014,49450.1,1,"column","active",12
+1653,"Melville Hills","Northwest, Yukon Territories",44,8,68.317,-126.655,77472.7,1,"column","active",12
+1654,"Coppermine Homocline","Northwest, Yukon Territories",44,9,68.64,-123.42,68629.9,1,"column","active",12
+1655,"Kandik River","Northwest, Yukon Territories",44,10,65.829,-138.751,13872.1,1,"column","active",12
+1656,"Eagle Plain","Northwest, Yukon Territories",44,11,66.548,-137.569,10998.7,1,"column","active",12
+1657,"Bonnet Plume Basin","Northwest, Yukon Territories",44,12,65.718,-135.657,30825.1,1,"column","active",12
+1658,"Eastern Wernecke Mountains","Northwest, Yukon Territories",44,13,64.891,-134.436,19558.4,1,"column","active",12
+1659,"Snake River","Northwest, Yukon Territories",44,14,65.528,-133.235,28002.2,1,"column","active",12
+1660,"Arctic Red River","Northwest, Yukon Territories",44,15,65.086,-130.536,32841.5,1,"column","active",12
+1661,"Mountain River","Northwest, Yukon Territories",44,16,64.406,-128.109,22714.4,1,"column","active",12
+1662,"Norman Wells","Northwest, Yukon Territories",44,17,65.367,-126.552,22607.8,1,"column","active",12
+1663,"Fort Norman","Northwest, Yukon Territories",44,18,65.053,-125.65,16937.2,1,"column","active",12
+1664,"Western Great Bear Lake","Northwest, Yukon Territories",44,19,65.705,-123.642,43086.5,1,"column","active",12
+1665,"Twitya River","Northwest, Yukon Territories",44,20,63.261,-128.852,10492.6,1,"column","active",12
+1666,"Sekwi Mountain","Northwest, Yukon Territories",44,21,63.139,-127.607,6707.4,1,"column","active",12
+1667,"East Glacier Lake Nahanni","Northwest, Yukon Territories",44,22,62.963,-126.496,11958.7,1,"column","active",12
+1668,"Redstone River","Northwest, Yukon Territories",44,23,62.854,-125.285,19182.7,1,"column","active",12
+1669,"Cap Mountain","Northwest, Yukon Territories",44,24,63.263,-122.205,21069.1,1,"column","active",12
+1670,"Bulmer Lake","Northwest, Yukon Territories",44,25,63.075,-120.825,33680.6,1,"column","active",12
+1671,"Great Bear Plain - Lac la Martre","Northwest, Yukon Territories",44,26,63.378,-118.835,35447.7,1,"column","active",12
+1672,"Flat River","Northwest, Yukon Territories",44,27,61.204,-126.41,25621.6,1,"column","active",12
+1673,"Kotaneelee and Liard Ranges","Northwest, Yukon Territories",44,28,60.815,-122.56,28232.9,1,"column","active",12
+1674,"Trout Lake","Northwest, Yukon Territories",44,29,60.424,-120.94,36967.6,1,"column","active",12
+1675,"Hay River - Pine Point","Northwest, Yukon Territories",44,30,60.756,-115.398,83663,1,"column","active",12
+1682,"Neuquén Basin: Aguada Pichana region","Nequen Basin",47,1,-38.25,-69.28,197243.8,8,"column","active",26
+1683,"Eastern edge of Sao Marcos Mountain","Parana Basin",48,1,-15.401,-54.703,53352.1,8,"column","active",29
+1684,"Column B","Parana Basin",48,2,-15.133,-53.155,45009.1,8,"column","active",29
+1685,"Column C","Parana Basin",48,3,-17.698,-51.141,126069.8,8,"column","active",29
+1686,"Column D","Parana Basin",48,4,-19.975,-55.404,172407.4,8,"column","active",29
+1689,"Column E","Parana Basin",48,5,-20.936,-50.064,180930.7,8,"column","active",29
+1690,"Column F","Parana Basin",48,6,-22.784,-51.789,156081.3,8,"column","active",29
+1691,"Column G","Parana Basin",48,7,-23.549,-50.349,86852.1,8,"column","active",29
+1692,"Column H","Parana Basin",48,8,-26.272,-51.175,149641.3,8,"column","active",29
+1693,"Column I","Parana Basin",48,9,-28.52,-55.339,188839.3,8,"column","active",29
+1694,"Column J","Parana Basin",48,10,-28.701,-53.343,75090,8,"column","active",29
+1695,"Column K","Parana Basin",48,11,-30.06,-52.432,50436.5,8,"column","active",29
+1696,"Santos Basin Column A","Santos Basin",50,1,-23.984,-42.638,82985.6,8,"column","active",31
+1697,"Santos Column B","Santos Basin",50,2,-24.64,-43.498,48012.8,8,"column","active",31
+1698,"Column C","Santos Basin",50,3,-25.356,-44.064,64757.6,8,"column","active",31
+1699,"Column D","Santos Basin",50,4,-25.937,-45.057,64051.2,8,"column","active",31
+1700,"Column E","Santos Basin",50,5,-26.71,-45.38,52728,8,"column","active",31
+1701,"Column F","Santos Basin",50,6,-27.75,-45.89,18715.9,8,"column","active",31
+1702,"Column G","Santos Basin",50,7,-28.12,-46.47,92204.9,8,"column","active",31
+1703,"Column A","Arauco Basin",52,1,-34.322,-72.377,27006,8,"column","active",32
+1704,"Column B","Arauco Basin",52,2,-34.937,-73.115,21310.7,8,"column","active",32
+1705,"Column C","Arauco Basin",52,3,-37.28,-74.24,24034.7,8,"column","active",32
+1706,"Column A","Cuyo Basin",51,1,-29.577,-68.424,70702.1,8,"column","active",33
+1707,"Column B","Cuyo Basin",51,2,-32.02,-67.977,107047,8,"column","active",33
+1708,"Column C","Cuyo Basin",51,3,-36.47,-66.646,56792.4,8,"column","active",33
+1709,"Column A","Araripe Basin",53,1,-7.417,-40.021,5838.9,8,"column","active",34
+1710,"Column B","Araripe Basin",53,2,-7.489,-39.093,4340.6,8,"column","active",34
+1711,"Column C","Araripe Basin",53,3,-7.374,-38.611,855.3,8,"column","active",34
+1712,"Column A","Campos Basin",54,1,-21.06,-40.368,22075.8,8,"column","active",35
+1713,"Column B","Campos Basin",54,2,-21.5,-39.949,74285.5,8,"column","active",35
+1714,"Column A","Pelotas Basin",55,1,-30.295,-49.194,63946.4,8,"column","active",37
+1715,"Column B","Pelotas Basin",55,2,-31.233,-48.838,36299.3,8,"column","active",37
+1716,"Column C","Pelotas Basin",55,3,-31.89,-49.493,45154.2,8,"column","active",37
+1717,"Column D","Pelotas Basin",55,4,-32.862,-49.655,37400,8,"column","active",37
+1718,"Column E","Pelotas Basin",55,5,-34.221,-50.96,100927.4,8,"column","active",37
+1719,"Column A","Parnaiba Basin",56,1,-3.677,-46.841,81365.9,8,"column","active",38
+1720,"Column B","Parnaiba Basin",56,2,-4.576,-45.089,115866.5,8,"column","active",38
+1721,"Column C","Parnaiba Basin",56,3,-6.498,-45.194,121343,8,"column","active",38
+1722,"Column D","Parnaiba Basin",56,4,-7.13,-43.091,168134.6,8,"column","active",38
+1723,"Column E","Parnaiba Basin",56,5,-9.97,-46.024,158280.8,8,"column","active",38
+1724,"Column A","Atacama Basin",57,1,-21.607,-69.357,44573.3,8,"column","active",39
+1725,"Column B","Atacama Basin",57,2,-25.455,-69.517,38500.1,8,"column","active",39
+1726,"Column A","Altiplano Basin",58,1,-16.787,-69.466,98453.2,8,"column","active",40
+1727,"Column B","Altiplano Basin",58,2,-18.773,-67.13,132289.5,8,"column","active",40
+1728,"Roseira sub-basin","Taubate Basin",59,1,-22.809,-45.259,414,8,"column","active",41
+1729,"Quiririm Sub-basin","Taubate Basin",59,2,-23.028,-45.5,446.6,8,"column","active",41
+1730,"Lorena Sub-basin","Taubate Basin",59,3,-22.686,-45.028,344.8,8,"column","active",41
+1731,"Eugenio de Melo Sub-Basin","Taubate Basin",59,4,-23.064,-45.688,461.8,8,"column","active",41
+1739,"Etosha 5-1A","Owambo Basin",62,1,-19.01,15.05,29147.2,9,"column","active",49
+1740,"DDH 9124","Owambo Basin",62,2,-18,16,161704.4,9,"column","active",49
+1741,"Column A","Oriente Basin",63,1,-0.458,-76.552,101538.1,8,"column","active",50
+1742,"Column B","Oriente Basin",63,2,-0.74,-74.926,151644.9,8,"column","active",50
+1743,"Column C","Oriente Basin",63,3,-2.2,-73.459,172791.1,8,"column","active",50
+1744,"Column A","Maranon Basin",64,1,-3.407,-74.472,119213.9,8,"column","active",50
+1745,"Column B","Maranon Basin",64,2,-5.721,-74.034,210315.8,8,"column","active",50
+1746,"Column A","Amazonas Basin",65,1,-4.654,-60.326,142512.3,8,"column","active",52
+1747,"Column B","Amazonas Basin",65,2,-3.273,-57.118,147394.8,8,"column","active",52
+1748,"Column C","Amazonas Basin",65,3,-3.026,-54.312,83005.2,8,"column","active",52
+1749,"Column D","Amazonas Basin",65,4,-2.111,-52.37,95037.1,8,"column","active",52
+1772,"JacareÃ­ Sub-basin","Taubate Basin",59,5,-23.273,-45.932,655.1,8,"column","active",41
